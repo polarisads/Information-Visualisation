@@ -1,4 +1,364 @@
 MONTH_MON,YEAR,APT_NAME,STATE_NAME,FLT_TOT_1
+APR,2016,Aberdeen,United Kingdom,5045
+APR,2016,Aktion,Greece,156
+APR,2016,Amsterdam - Schiphol,Netherlands,40867
+APR,2016,Athens,Greece,14149
+APR,2016,Belfast - Aldergrove,United Kingdom,3665
+APR,2016,Belfast - City Airport,United Kingdom,3673
+APR,2016,Bergen,Norway,7567
+APR,2016,Biggin Hill,United Kingdom,971
+APR,2016,Birmingham,United Kingdom,8588
+APR,2016,Bristol,United Kingdom,5285
+APR,2016,Bydgoszcz,Poland,273
+APR,2016,Connaught,Ireland,572
+APR,2016,Corfu,Greece,809
+APR,2016,Cork,Ireland,1933
+APR,2016,Donegal,Ireland,154
+APR,2016,Dublin,Ireland,17542
+APR,2016,East Midlands,United Kingdom,5492
+APR,2016,Edinburgh,United Kingdom,10078
+APR,2016,Farnborough,United Kingdom,1765
+APR,2016,Gdansk,Poland,2982
+APR,2016,Glasgow,United Kingdom,7358
+APR,2016,Groningen,Netherlands,725
+APR,2016,Göteborg,Sweden,6139
+APR,2016,Haugesund,Norway,646
+APR,2016,Helsinki - Vantaa,Finland,14133
+APR,2016,Heraklion,Greece,2589
+APR,2016,Katowice - Pyrzowice,Poland,1811
+APR,2016,Kefallinia,Greece,168
+APR,2016,Kerry - Farranfore,Ireland,329
+APR,2016,Khania - Souda,Greece,1634
+APR,2016,Kiev - Boryspil,Ukraine,5499
+APR,2016,Kos,Greece,569
+APR,2016,Krakow - Balice,Poland,3877
+APR,2016,Lodz - Lublinek,Poland,384
+APR,2016,London - City,United Kingdom,7003
+APR,2016,London - Gatwick,United Kingdom,22493
+APR,2016,London - Heathrow,United Kingdom,39666
+APR,2016,London - Luton,United Kingdom,10617
+APR,2016,London - Stansted,United Kingdom,14493
+APR,2016,Londonderry - Eglinton,United Kingdom,169
+APR,2016,Lublin,Poland,303
+APR,2016,Maastricht-Aachen,Netherlands,803
+APR,2016,Manchester,United Kingdom,14939
+APR,2016,Mikonos,Greece,297
+APR,2016,Olsztyn-Mazury,Poland,82
+APR,2016,Oslo - Gardermoen,Norway,21019
+APR,2016,Poznan - Lawica,Poland,1388
+APR,2016,Radom,Poland,75
+APR,2016,Rodos,Greece,1763
+APR,2016,Rotterdam,Netherlands,2210
+APR,2016,Rzeszow - Jasionka,Poland,660
+APR,2016,Santorini,Greece,675
+APR,2016,Shannon,Ireland,1710
+APR,2016,Skiathos,Greece,65
+APR,2016,Sligo,Ireland,5
+APR,2016,Southampton,United Kingdom,3099
+APR,2016,Stavanger,Norway,5944
+APR,2016,Stockholm - Arlanda,Sweden,20172
+APR,2016,Stockholm - Bromma,Sweden,4839
+APR,2016,Szczecin - Goleniów,Poland,447
+APR,2016,Thessaloniki,Greece,3815
+APR,2016,Trondheim,Norway,4963
+APR,2016,Warszawa - Chopina,Poland,12256
+APR,2016,Warszawa - Modlin,Poland,1617
+APR,2016,Waterford,Ireland,169
+APR,2016,Weston,Ireland,116
+APR,2016,Wroclaw - Strachowice,Poland,1902
+APR,2016,Yerevan,Armenia,1237
+APR,2016,Zakinthos,Greece,192
+APR,2016,Zielona Gora - Babimost,Poland,73
+APR,2017,Aberdeen,United Kingdom,4822
+APR,2017,Aktion,Greece,155
+APR,2017,Amsterdam - Schiphol,Netherlands,42852
+APR,2017,Athens,Greece,14366
+APR,2017,Belfast - Aldergrove,United Kingdom,3987
+APR,2017,Belfast - City Airport,United Kingdom,3154
+APR,2017,Bergen,Norway,6470
+APR,2017,Biggin Hill,United Kingdom,1106
+APR,2017,Birmingham,United Kingdom,9562
+APR,2017,Bristol,United Kingdom,5464
+APR,2017,Bydgoszcz,Poland,274
+APR,2017,Connaught,Ireland,590
+APR,2017,Corfu,Greece,830
+APR,2017,Cork,Ireland,1938
+APR,2017,Donegal,Ireland,170
+APR,2017,Dublin,Ireland,18207
+APR,2017,East Midlands,United Kingdom,5261
+APR,2017,Edinburgh,United Kingdom,10774
+APR,2017,Farnborough,United Kingdom,1833
+APR,2017,Gdansk,Poland,3207
+APR,2017,Glasgow,United Kingdom,7493
+APR,2017,Groningen,Netherlands,880
+APR,2017,Göteborg,Sweden,5816
+APR,2017,Haugesund,Norway,445
+APR,2017,Helsinki - Vantaa,Finland,14189
+APR,2017,Heraklion,Greece,3085
+APR,2017,Katowice - Pyrzowice,Poland,2033
+APR,2017,Kefallinia,Greece,168
+APR,2017,Kerry - Farranfore,Ireland,355
+APR,2017,Khania - Souda,Greece,1870
+APR,2017,Kiev - Boryspil,Ukraine,6627
+APR,2017,Kos,Greece,575
+APR,2017,Krakow - Balice,Poland,4181
+APR,2017,Lodz - Lublinek,Poland,357
+APR,2017,London - City,United Kingdom,6359
+APR,2017,London - Gatwick,United Kingdom,23726
+APR,2017,London - Heathrow,United Kingdom,39657
+APR,2017,London - Luton,United Kingdom,11268
+APR,2017,London - Stansted,United Kingdom,15268
+APR,2017,Londonderry - Eglinton,United Kingdom,74
+APR,2017,Lublin,Poland,323
+APR,2017,Maastricht-Aachen,Netherlands,693
+APR,2017,Manchester,United Kingdom,16423
+APR,2017,Mikonos,Greece,396
+APR,2017,Olsztyn-Mazury,Poland,99
+APR,2017,Oslo - Gardermoen,Norway,19977
+APR,2017,Poznan - Lawica,Poland,1365
+APR,2017,Radom,Poland,85
+APR,2017,Rodos,Greece,1809
+APR,2017,Rotterdam,Netherlands,2002
+APR,2017,Rzeszow - Jasionka,Poland,567
+APR,2017,Santorini,Greece,941
+APR,2017,Shannon,Ireland,1663
+APR,2017,Skiathos,Greece,60
+APR,2017,Sligo,Ireland,4
+APR,2017,Southampton,United Kingdom,3590
+APR,2017,Stavanger,Norway,4913
+APR,2017,Stockholm - Arlanda,Sweden,20458
+APR,2017,Stockholm - Bromma,Sweden,4455
+APR,2017,Szczecin - Goleniów,Poland,468
+APR,2017,Thessaloniki,Greece,4263
+APR,2017,Trondheim,Norway,4328
+APR,2017,Warszawa - Chopina,Poland,13051
+APR,2017,Warszawa - Modlin,Poland,1605
+APR,2017,Waterford,Ireland,42
+APR,2017,Weston,Ireland,102
+APR,2017,Wroclaw - Strachowice,Poland,2061
+APR,2017,Yerevan,Armenia,1683
+APR,2017,Zakinthos,Greece,255
+APR,2017,Zielona Gora - Babimost,Poland,54
+APR,2018,Aberdeen,United Kingdom,4912
+APR,2018,Aktion,Greece,127
+APR,2018,Alesund,Norway,1229
+APR,2018,Alta,Norway,737
+APR,2018,Amsterdam - Schiphol,Netherlands,42796
+APR,2018,Andenes,Norway,360
+APR,2018,Athens,Greece,16097
+APR,2018,Bardufoss,Norway,333
+APR,2018,Batsfjord,Norway,186
+APR,2018,Belfast - Aldergrove,United Kingdom,4056
+APR,2018,Belfast - City Airport,United Kingdom,3038
+APR,2018,Bergen,Norway,7019
+APR,2018,Berlevåg,Norway,138
+APR,2018,Biggin Hill,United Kingdom,1239
+APR,2018,Birmingham,United Kingdom,8832
+APR,2018,Bodø,Norway,3359
+APR,2018,Bristol,United Kingdom,5650
+APR,2018,Bronnoysund Bronnoy,Norway,591
+APR,2018,Bydgoszcz,Poland,326
+APR,2018,Connaught,Ireland,594
+APR,2018,Corfu,Greece,1125
+APR,2018,Cork,Ireland,1906
+APR,2018,Donegal,Ireland,152
+APR,2018,Dublin,Ireland,19489
+APR,2018,East Midlands,United Kingdom,5586
+APR,2018,Edinburgh,United Kingdom,11076
+APR,2018,Farnborough,United Kingdom,2251
+APR,2018,Florø,Norway,662
+APR,2018,Forde Bringeland,Norway,338
+APR,2018,Gdansk,Poland,3580
+APR,2018,Glasgow,United Kingdom,7670
+APR,2018,Groningen,Netherlands,1109
+APR,2018,Göteborg,Sweden,6291
+APR,2018,Hammerfest,Norway,904
+APR,2018,Harstad - Narvik Evenes,Norway,858
+APR,2018,Haugesund,Norway,546
+APR,2018,Helsinki - Vantaa,Finland,15736
+APR,2018,Heraklion,Greece,3193
+APR,2018,Honningsvåg Valan,Norway,188
+APR,2018,Katowice - Pyrzowice,Poland,2548
+APR,2018,Kefallinia,Greece,211
+APR,2018,Kerry - Farranfore,Ireland,359
+APR,2018,Khania - Souda,Greece,1888
+APR,2018,Kiev - Boryspil,Ukraine,7551
+APR,2018,Kirkenes Høybuktmoen,Norway,622
+APR,2018,Kos,Greece,583
+APR,2018,Krakow - Balice,Poland,4767
+APR,2018,Kristiansand Kjevik,Norway,1337
+APR,2018,Kristiansund Kvernberget,Norway,913
+APR,2018,Lakselv Banak,Norway,210
+APR,2018,Leknes,Norway,544
+APR,2018,Lelystad,Netherlands,392
+APR,2018,Lodz - Lublinek,Poland,313
+APR,2018,London - City,United Kingdom,6645
+APR,2018,London - Gatwick,United Kingdom,23431
+APR,2018,London - Heathrow,United Kingdom,40003
+APR,2018,London - Luton,United Kingdom,11343
+APR,2018,London - Stansted,United Kingdom,16703
+APR,2018,Londonderry - Eglinton,United Kingdom,221
+APR,2018,Lublin,Poland,399
+APR,2018,Maastricht-Aachen,Netherlands,805
+APR,2018,Manchester,United Kingdom,16112
+APR,2018,Mehamn,Norway,217
+APR,2018,Mikonos,Greece,505
+APR,2018,Mo i Rana Røssvoll,Norway,451
+APR,2018,Molde Årø,Norway,532
+APR,2018,Mosjøen Kjærstad,Norway,330
+APR,2018,Namsos Høknesøra,Norway,216
+APR,2018,Newcastle,United Kingdom,3574
+APR,2018,Olsztyn-Mazury,Poland,126
+APR,2018,Orsta¿Volda Hovden,Norway,434
+APR,2018,Oslo - Gardermoen,Norway,22388
+APR,2018,Poznan - Lawica,Poland,1833
+APR,2018,Radom,Poland,44
+APR,2018,Rodos,Greece,1711
+APR,2018,Roros,Norway,108
+APR,2018,Rorvik Ryum,Norway,186
+APR,2018,Rost,Norway,99
+APR,2018,Rotterdam,Netherlands,2123
+APR,2018,Rzeszow - Jasionka,Poland,778
+APR,2018,Sandane  Anda,Norway,195
+APR,2018,Sandnessjøen Stokka,Norway,359
+APR,2018,Santorini,Greece,1221
+APR,2018,Shannon,Ireland,1755
+APR,2018,Skiathos,Greece,73
+APR,2018,Sligo,Ireland,4
+APR,2018,Sogndal Haukåsen,Norway,414
+APR,2018,Sorkjosen,Norway,154
+APR,2018,Southampton,United Kingdom,3247
+APR,2018,Stavanger,Norway,5255
+APR,2018,Stockholm - Arlanda,Sweden,21515
+APR,2018,Stockholm - Bromma,Sweden,4734
+APR,2018,Stokmarknes Skagen,Norway,557
+APR,2018,Svalbard Longyear,Norway,280
+APR,2018,Svolvær Helle,Norway,445
+APR,2018,Szczecin - Goleniów,Poland,473
+APR,2018,Thessaloniki,Greece,4334
+APR,2018,Tromsø,Norway,3571
+APR,2018,Trondheim,Norway,4567
+APR,2018,Vadsø,Norway,545
+APR,2018,Vardø Svartnes,Norway,202
+APR,2018,Værøy,Norway,96
+APR,2018,Warszawa - Chopina,Poland,14615
+APR,2018,Warszawa - Modlin,Poland,1701
+APR,2018,Waterford,Ireland,24
+APR,2018,Weston,Ireland,83
+APR,2018,Wroclaw - Strachowice,Poland,2459
+APR,2018,Yerevan,Armenia,1900
+APR,2018,Zakinthos,Greece,294
+APR,2018,Zielona Gora - Babimost,Poland,88
+APR,2019,Aberdeen,United Kingdom,4212
+APR,2019,Aktion,Greece,115
+APR,2019,Alesund,Norway,1082
+APR,2019,Alta,Norway,623
+APR,2019,Amsterdam - Schiphol,Netherlands,42924
+APR,2019,Andenes,Norway,253
+APR,2019,Athens,Greece,17274
+APR,2019,Bardufoss,Norway,302
+APR,2019,Batsfjord,Norway,178
+APR,2019,Belfast - Aldergrove,United Kingdom,4321
+APR,2019,Belfast - City Airport,United Kingdom,3063
+APR,2019,Bergen,Norway,6660
+APR,2019,Berlevåg,Norway,137
+APR,2019,Biggin Hill,United Kingdom,1248
+APR,2019,Birmingham,United Kingdom,8700
+APR,2019,Bodø,Norway,2975
+APR,2019,Bristol,United Kingdom,5400
+APR,2019,Bronnoysund Bronnoy,Norway,576
+APR,2019,Bydgoszcz,Poland,369
+APR,2019,Connaught,Ireland,577
+APR,2019,Corfu,Greece,1182
+APR,2019,Cork,Ireland,2004
+APR,2019,Donegal,Ireland,162
+APR,2019,Dublin,Ireland,20293
+APR,2019,East Midlands,United Kingdom,5532
+APR,2019,Edinburgh,United Kingdom,11209
+APR,2019,Farnborough,United Kingdom,2185
+APR,2019,Florø,Norway,671
+APR,2019,Forde Bringeland,Norway,321
+APR,2019,Gdansk,Poland,3733
+APR,2019,Glasgow,United Kingdom,6715
+APR,2019,Groningen,Netherlands,1038
+APR,2019,Göteborg,Sweden,5881
+APR,2019,Hammerfest,Norway,790
+APR,2019,Harstad - Narvik Evenes,Norway,769
+APR,2019,Haugesund,Norway,474
+APR,2019,Helsinki - Vantaa,Finland,15962
+APR,2019,Heraklion,Greece,3433
+APR,2019,Honningsvåg Valan,Norway,174
+APR,2019,Katowice - Pyrzowice,Poland,2611
+APR,2019,Kefallinia,Greece,245
+APR,2019,Kerry - Farranfore,Ireland,352
+APR,2019,Khania - Souda,Greece,1684
+APR,2019,Kiev - Boryspil,Ukraine,8695
+APR,2019,Kirkenes Høybuktmoen,Norway,615
+APR,2019,Kos,Greece,750
+APR,2019,Krakow - Balice,Poland,5094
+APR,2019,Kristiansand Kjevik,Norway,1255
+APR,2019,Kristiansund Kvernberget,Norway,657
+APR,2019,Lakselv Banak,Norway,178
+APR,2019,Leknes,Norway,476
+APR,2019,Lelystad,Netherlands,387
+APR,2019,Lodz - Lublinek,Poland,305
+APR,2019,London - City,United Kingdom,7087
+APR,2019,London - Gatwick,United Kingdom,24003
+APR,2019,London - Heathrow,United Kingdom,40438
+APR,2019,London - Luton,United Kingdom,11946
+APR,2019,London - Stansted,United Kingdom,16710
+APR,2019,Londonderry - Eglinton,United Kingdom,251
+APR,2019,Lublin,Poland,263
+APR,2019,Maastricht-Aachen,Netherlands,883
+APR,2019,Manchester,United Kingdom,16544
+APR,2019,Mehamn,Norway,181
+APR,2019,Mikonos,Greece,707
+APR,2019,Mo i Rana Røssvoll,Norway,438
+APR,2019,Molde Årø,Norway,466
+APR,2019,Mosjøen Kjærstad,Norway,275
+APR,2019,Namsos Høknesøra,Norway,209
+APR,2019,Newcastle,United Kingdom,3333
+APR,2019,Olsztyn-Mazury,Poland,118
+APR,2019,Orsta¿Volda Hovden,Norway,394
+APR,2019,Oslo - Gardermoen,Norway,19672
+APR,2019,Poznan - Lawica,Poland,1754
+APR,2019,Radom,Poland,29
+APR,2019,Rodos,Greece,1906
+APR,2019,Roros,Norway,117
+APR,2019,Rorvik Ryum,Norway,175
+APR,2019,Rost,Norway,104
+APR,2019,Rotterdam,Netherlands,2152
+APR,2019,Rzeszow - Jasionka,Poland,685
+APR,2019,Sandane  Anda,Norway,197
+APR,2019,Sandnessjøen Stokka,Norway,323
+APR,2019,Santorini,Greece,1444
+APR,2019,Shannon,Ireland,1647
+APR,2019,Skiathos,Greece,91
+APR,2019,Sligo,Ireland,6
+APR,2019,Sogndal Haukåsen,Norway,402
+APR,2019,Sorkjosen,Norway,144
+APR,2019,Southampton,United Kingdom,2900
+APR,2019,Stavanger,Norway,5098
+APR,2019,Stockholm - Arlanda,Sweden,18847
+APR,2019,Stockholm - Bromma,Sweden,4414
+APR,2019,Stokmarknes Skagen,Norway,434
+APR,2019,Svalbard Longyear,Norway,193
+APR,2019,Svolvær Helle,Norway,326
+APR,2019,Szczecin - Goleniów,Poland,486
+APR,2019,Thessaloniki,Greece,4395
+APR,2019,Tromsø,Norway,3150
+APR,2019,Trondheim,Norway,3989
+APR,2019,Vadsø,Norway,547
+APR,2019,Vardø Svartnes,Norway,183
+APR,2019,Værøy,Norway,97
+APR,2019,Warszawa - Chopina,Poland,15755
+APR,2019,Warszawa - Modlin,Poland,1733
+APR,2019,Waterford,Ireland,23
+APR,2019,Weston,Ireland,99
+APR,2019,Wroclaw - Strachowice,Poland,2451
+APR,2019,Yerevan,Armenia,1612
+APR,2019,Zakinthos,Greece,276
+APR,2019,Zielona Gora - Babimost,Poland,78
 APR,2020,Aberdeen,United Kingdom,933
 APR,2020,Aktion,Greece,54
 APR,2020,Alesund,Norway,435
@@ -317,6 +677,364 @@ APR,2022,Wroclaw - Strachowice,Poland,1938
 APR,2022,Yerevan,Armenia,2246
 APR,2022,Zakinthos,Greece,270
 APR,2022,Zielona Gora - Babimost,Poland,65
+AUG,2016,Aberdeen,United Kingdom,5496
+AUG,2016,Aktion,Greece,909
+AUG,2016,Amsterdam - Schiphol,Netherlands,46530
+AUG,2016,Athens,Greece,20466
+AUG,2016,Belfast - Aldergrove,United Kingdom,4152
+AUG,2016,Belfast - City Airport,United Kingdom,4018
+AUG,2016,Bergen,Norway,7827
+AUG,2016,Biggin Hill,United Kingdom,1021
+AUG,2016,Birmingham,United Kingdom,10682
+AUG,2016,Bristol,United Kingdom,6579
+AUG,2016,Bydgoszcz,Poland,309
+AUG,2016,Connaught,Ireland,697
+AUG,2016,Corfu,Greece,4459
+AUG,2016,Cork,Ireland,2428
+AUG,2016,Donegal,Ireland,186
+AUG,2016,Dublin,Ireland,20321
+AUG,2016,East Midlands,United Kingdom,6651
+AUG,2016,Edinburgh,United Kingdom,11748
+AUG,2016,Farnborough,United Kingdom,1882
+AUG,2016,Gdansk,Poland,3577
+AUG,2016,Glasgow,United Kingdom,8892
+AUG,2016,Groningen,Netherlands,735
+AUG,2016,Göteborg,Sweden,5817
+AUG,2016,Haugesund,Norway,612
+AUG,2016,Helsinki - Vantaa,Finland,14527
+AUG,2016,Heraklion,Greece,9073
+AUG,2016,Katowice - Pyrzowice,Poland,3256
+AUG,2016,Kefallinia,Greece,1181
+AUG,2016,Kerry - Farranfore,Ireland,420
+AUG,2016,Khania - Souda,Greece,3501
+AUG,2016,Kiev - Boryspil,Ukraine,7431
+AUG,2016,Kos,Greece,2887
+AUG,2016,Krakow - Balice,Poland,4255
+AUG,2016,Lodz - Lublinek,Poland,449
+AUG,2016,London - City,United Kingdom,7186
+AUG,2016,London - Gatwick,United Kingdom,28266
+AUG,2016,London - Heathrow,United Kingdom,42137
+AUG,2016,London - Luton,United Kingdom,12235
+AUG,2016,London - Stansted,United Kingdom,16732
+AUG,2016,Londonderry - Eglinton,United Kingdom,208
+AUG,2016,Lublin,Poland,317
+AUG,2016,Maastricht-Aachen,Netherlands,628
+AUG,2016,Manchester,United Kingdom,19710
+AUG,2016,Mikonos,Greece,3413
+AUG,2016,Olsztyn-Mazury,Poland,182
+AUG,2016,Oslo - Gardermoen,Norway,21801
+AUG,2016,Poznan - Lawica,Poland,1943
+AUG,2016,Radom,Poland,153
+AUG,2016,Rodos,Greece,6663
+AUG,2016,Rotterdam,Netherlands,2282
+AUG,2016,Rzeszow - Jasionka,Poland,725
+AUG,2016,Santorini,Greece,2791
+AUG,2016,Shannon,Ireland,2002
+AUG,2016,Skiathos,Greece,1004
+AUG,2016,Sligo,Ireland,7
+AUG,2016,Southampton,United Kingdom,4274
+AUG,2016,Stavanger,Norway,5927
+AUG,2016,Stockholm - Arlanda,Sweden,19915
+AUG,2016,Stockholm - Bromma,Sweden,3799
+AUG,2016,Szczecin - Goleniów,Poland,477
+AUG,2016,Thessaloniki,Greece,6129
+AUG,2016,Trondheim,Norway,5027
+AUG,2016,Warszawa - Chopina,Poland,14588
+AUG,2016,Warszawa - Modlin,Poland,1655
+AUG,2016,Waterford,Ireland,62
+AUG,2016,Weston,Ireland,87
+AUG,2016,Wroclaw - Strachowice,Poland,2250
+AUG,2016,Yerevan,Armenia,1981
+AUG,2016,Zakinthos,Greece,2477
+AUG,2016,Zielona Gora - Babimost,Poland,68
+AUG,2017,Aberdeen,United Kingdom,5515
+AUG,2017,Aktion,Greece,1084
+AUG,2017,Amsterdam - Schiphol,Netherlands,47679
+AUG,2017,Athens,Greece,21577
+AUG,2017,Belfast - Aldergrove,United Kingdom,4391
+AUG,2017,Belfast - City Airport,United Kingdom,3420
+AUG,2017,Bergen,Norway,7508
+AUG,2017,Biggin Hill,United Kingdom,1259
+AUG,2017,Birmingham,United Kingdom,12033
+AUG,2017,Bristol,United Kingdom,6682
+AUG,2017,Bydgoszcz,Poland,307
+AUG,2017,Connaught,Ireland,675
+AUG,2017,Corfu,Greece,4489
+AUG,2017,Cork,Ireland,2634
+AUG,2017,Donegal,Ireland,176
+AUG,2017,Dublin,Ireland,21250
+AUG,2017,East Midlands,United Kingdom,6790
+AUG,2017,Edinburgh,United Kingdom,12344
+AUG,2017,Farnborough,United Kingdom,2059
+AUG,2017,Gdansk,Poland,3863
+AUG,2017,Glasgow,United Kingdom,8941
+AUG,2017,Groningen,Netherlands,704
+AUG,2017,Göteborg,Sweden,6292
+AUG,2017,Haugesund,Norway,554
+AUG,2017,Helsinki - Vantaa,Finland,15462
+AUG,2017,Heraklion,Greece,9243
+AUG,2017,Katowice - Pyrzowice,Poland,3863
+AUG,2017,Kefallinia,Greece,1398
+AUG,2017,Kerry - Farranfore,Ireland,429
+AUG,2017,Khania - Souda,Greece,3430
+AUG,2017,Kiev - Boryspil,Ukraine,8413
+AUG,2017,Kos,Greece,3212
+AUG,2017,Krakow - Balice,Poland,4385
+AUG,2017,Lodz - Lublinek,Poland,277
+AUG,2017,London - City,United Kingdom,6490
+AUG,2017,London - Gatwick,United Kingdom,28411
+AUG,2017,London - Heathrow,United Kingdom,42091
+AUG,2017,London - Luton,United Kingdom,12624
+AUG,2017,London - Stansted,United Kingdom,18130
+AUG,2017,Londonderry - Eglinton,United Kingdom,224
+AUG,2017,Lublin,Poland,435
+AUG,2017,Maastricht-Aachen,Netherlands,739
+AUG,2017,Manchester,United Kingdom,20665
+AUG,2017,Mikonos,Greece,3490
+AUG,2017,Olsztyn-Mazury,Poland,112
+AUG,2017,Oslo - Gardermoen,Norway,22249
+AUG,2017,Poznan - Lawica,Poland,2050
+AUG,2017,Radom,Poland,129
+AUG,2017,Rodos,Greece,6697
+AUG,2017,Rotterdam,Netherlands,2036
+AUG,2017,Rzeszow - Jasionka,Poland,817
+AUG,2017,Santorini,Greece,2936
+AUG,2017,Shannon,Ireland,1966
+AUG,2017,Skiathos,Greece,1043
+AUG,2017,Southampton,United Kingdom,4275
+AUG,2017,Stavanger,Norway,5528
+AUG,2017,Stockholm - Arlanda,Sweden,21788
+AUG,2017,Stockholm - Bromma,Sweden,3919
+AUG,2017,Szczecin - Goleniów,Poland,551
+AUG,2017,Thessaloniki,Greece,6791
+AUG,2017,Trondheim,Norway,4928
+AUG,2017,Warszawa - Chopina,Poland,16394
+AUG,2017,Warszawa - Modlin,Poland,1625
+AUG,2017,Waterford,Ireland,25
+AUG,2017,Weston,Ireland,95
+AUG,2017,Wroclaw - Strachowice,Poland,2478
+AUG,2017,Yerevan,Armenia,2175
+AUG,2017,Zakinthos,Greece,2737
+AUG,2017,Zielona Gora - Babimost,Poland,72
+AUG,2018,Aberdeen,United Kingdom,4702
+AUG,2018,Aktion,Greece,1129
+AUG,2018,Alesund,Norway,1251
+AUG,2018,Alta,Norway,790
+AUG,2018,Amsterdam - Schiphol,Netherlands,46627
+AUG,2018,Andenes,Norway,382
+AUG,2018,Athens,Greece,24764
+AUG,2018,Bardufoss,Norway,334
+AUG,2018,Batsfjord,Norway,214
+AUG,2018,Belfast - Aldergrove,United Kingdom,4809
+AUG,2018,Belfast - City Airport,United Kingdom,3281
+AUG,2018,Bergen,Norway,7810
+AUG,2018,Berlevåg,Norway,164
+AUG,2018,Biggin Hill,United Kingdom,1474
+AUG,2018,Birmingham,United Kingdom,10726
+AUG,2018,Bodø,Norway,3417
+AUG,2018,Bristol,United Kingdom,6896
+AUG,2018,Bronnoysund Bronnoy,Norway,589
+AUG,2018,Bydgoszcz,Poland,393
+AUG,2018,Connaught,Ireland,716
+AUG,2018,Corfu,Greece,5117
+AUG,2018,Cork,Ireland,2570
+AUG,2018,Donegal,Ireland,173
+AUG,2018,Dublin,Ireland,21928
+AUG,2018,East Midlands,United Kingdom,6921
+AUG,2018,Edinburgh,United Kingdom,12590
+AUG,2018,Farnborough,United Kingdom,2362
+AUG,2018,Florø,Norway,714
+AUG,2018,Forde Bringeland,Norway,350
+AUG,2018,Gdansk,Poland,4292
+AUG,2018,Glasgow,United Kingdom,8871
+AUG,2018,Groningen,Netherlands,1063
+AUG,2018,Göteborg,Sweden,6173
+AUG,2018,Hammerfest,Norway,1103
+AUG,2018,Harstad - Narvik Evenes,Norway,900
+AUG,2018,Haugesund,Norway,570
+AUG,2018,Helsinki - Vantaa,Finland,16894
+AUG,2018,Heraklion,Greece,9832
+AUG,2018,Honningsvåg Valan,Norway,197
+AUG,2018,Katowice - Pyrzowice,Poland,4626
+AUG,2018,Kefallinia,Greece,1568
+AUG,2018,Kerry - Farranfore,Ireland,469
+AUG,2018,Khania - Souda,Greece,3345
+AUG,2018,Kiev - Boryspil,Ukraine,9164
+AUG,2018,Kirkenes Høybuktmoen,Norway,686
+AUG,2018,Kos,Greece,3703
+AUG,2018,Krakow - Balice,Poland,4808
+AUG,2018,Kristiansand Kjevik,Norway,1408
+AUG,2018,Kristiansund Kvernberget,Norway,784
+AUG,2018,Lakselv Banak,Norway,230
+AUG,2018,Leknes,Norway,551
+AUG,2018,Lelystad,Netherlands,275
+AUG,2018,Lodz - Lublinek,Poland,340
+AUG,2018,London - City,United Kingdom,6671
+AUG,2018,London - Gatwick,United Kingdom,28222
+AUG,2018,London - Heathrow,United Kingdom,41915
+AUG,2018,London - Luton,United Kingdom,12448
+AUG,2018,London - Stansted,United Kingdom,19592
+AUG,2018,Londonderry - Eglinton,United Kingdom,234
+AUG,2018,Lublin,Poland,356
+AUG,2018,Maastricht-Aachen,Netherlands,958
+AUG,2018,Manchester,United Kingdom,20179
+AUG,2018,Mehamn,Norway,225
+AUG,2018,Mikonos,Greece,3919
+AUG,2018,Mo i Rana Røssvoll,Norway,476
+AUG,2018,Molde Årø,Norway,561
+AUG,2018,Mosjøen Kjærstad,Norway,344
+AUG,2018,Namsos Høknesøra,Norway,238
+AUG,2018,Newcastle,United Kingdom,4698
+AUG,2018,Olsztyn-Mazury,Poland,138
+AUG,2018,Orsta¿Volda Hovden,Norway,426
+AUG,2018,Oslo - Gardermoen,Norway,23038
+AUG,2018,Poznan - Lawica,Poland,2702
+AUG,2018,Radom,Poland,121
+AUG,2018,Rodos,Greece,6921
+AUG,2018,Roros,Norway,113
+AUG,2018,Rorvik Ryum,Norway,206
+AUG,2018,Rost,Norway,116
+AUG,2018,Rotterdam,Netherlands,2374
+AUG,2018,Rzeszow - Jasionka,Poland,908
+AUG,2018,Sandane  Anda,Norway,192
+AUG,2018,Sandnessjøen Stokka,Norway,259
+AUG,2018,Santorini,Greece,3427
+AUG,2018,Shannon,Ireland,2096
+AUG,2018,Skiathos,Greece,1011
+AUG,2018,Sligo,Ireland,9
+AUG,2018,Sogndal Haukåsen,Norway,466
+AUG,2018,Sorkjosen,Norway,158
+AUG,2018,Southampton,United Kingdom,3609
+AUG,2018,Stavanger,Norway,5805
+AUG,2018,Stockholm - Arlanda,Sweden,21081
+AUG,2018,Stockholm - Bromma,Sweden,4056
+AUG,2018,Stokmarknes Skagen,Norway,511
+AUG,2018,Svalbard Longyear,Norway,230
+AUG,2018,Svolvær Helle,Norway,403
+AUG,2018,Szczecin - Goleniów,Poland,595
+AUG,2018,Thessaloniki,Greece,6874
+AUG,2018,Tromsø,Norway,3601
+AUG,2018,Trondheim,Norway,4738
+AUG,2018,Vadsø,Norway,581
+AUG,2018,Vardø Svartnes,Norway,198
+AUG,2018,Værøy,Norway,109
+AUG,2018,Warszawa - Chopina,Poland,18019
+AUG,2018,Warszawa - Modlin,Poland,1740
+AUG,2018,Waterford,Ireland,31
+AUG,2018,Weston,Ireland,97
+AUG,2018,Wroclaw - Strachowice,Poland,2989
+AUG,2018,Yerevan,Armenia,2390
+AUG,2018,Zakinthos,Greece,2805
+AUG,2018,Zielona Gora - Babimost,Poland,82
+AUG,2019,Aberdeen,United Kingdom,4490
+AUG,2019,Aktion,Greece,1148
+AUG,2019,Alesund,Norway,1297
+AUG,2019,Alta,Norway,687
+AUG,2019,Amsterdam - Schiphol,Netherlands,46107
+AUG,2019,Andenes,Norway,326
+AUG,2019,Athens,Greece,25487
+AUG,2019,Bardufoss,Norway,260
+AUG,2019,Batsfjord,Norway,184
+AUG,2019,Belfast - Aldergrove,United Kingdom,4724
+AUG,2019,Belfast - City Airport,United Kingdom,3276
+AUG,2019,Bergen,Norway,7899
+AUG,2019,Berlevåg,Norway,151
+AUG,2019,Biggin Hill,United Kingdom,1466
+AUG,2019,Birmingham,United Kingdom,10710
+AUG,2019,Bodø,Norway,3417
+AUG,2019,Bristol,United Kingdom,6627
+AUG,2019,Bronnoysund Bronnoy,Norway,711
+AUG,2019,Bydgoszcz,Poland,404
+AUG,2019,Connaught,Ireland,702
+AUG,2019,Corfu,Greece,4916
+AUG,2019,Cork,Ireland,2836
+AUG,2019,Donegal,Ireland,170
+AUG,2019,Dublin,Ireland,22785
+AUG,2019,East Midlands,United Kingdom,6627
+AUG,2019,Edinburgh,United Kingdom,12569
+AUG,2019,Farnborough,United Kingdom,2516
+AUG,2019,Florø,Norway,749
+AUG,2019,Forde Bringeland,Norway,331
+AUG,2019,Gdansk,Poland,4345
+AUG,2019,Glasgow,United Kingdom,8260
+AUG,2019,Groningen,Netherlands,808
+AUG,2019,Göteborg,Sweden,5951
+AUG,2019,Hammerfest,Norway,832
+AUG,2019,Harstad - Narvik Evenes,Norway,930
+AUG,2019,Haugesund,Norway,527
+AUG,2019,Helsinki - Vantaa,Finland,16915
+AUG,2019,Heraklion,Greece,9195
+AUG,2019,Honningsvåg Valan,Norway,184
+AUG,2019,Katowice - Pyrzowice,Poland,4466
+AUG,2019,Kefallinia,Greece,1596
+AUG,2019,Kerry - Farranfore,Ireland,501
+AUG,2019,Khania - Souda,Greece,3407
+AUG,2019,Kiev - Boryspil,Ukraine,10987
+AUG,2019,Kirkenes Høybuktmoen,Norway,640
+AUG,2019,Kos,Greece,3562
+AUG,2019,Krakow - Balice,Poland,5791
+AUG,2019,Kristiansand Kjevik,Norway,1352
+AUG,2019,Kristiansund Kvernberget,Norway,884
+AUG,2019,Lakselv Banak,Norway,181
+AUG,2019,Leknes,Norway,484
+AUG,2019,Lelystad,Netherlands,240
+AUG,2019,Lodz - Lublinek,Poland,417
+AUG,2019,London - City,United Kingdom,6523
+AUG,2019,London - Gatwick,United Kingdom,28177
+AUG,2019,London - Heathrow,United Kingdom,42137
+AUG,2019,London - Luton,United Kingdom,12979
+AUG,2019,London - Stansted,United Kingdom,18755
+AUG,2019,Londonderry - Eglinton,United Kingdom,341
+AUG,2019,Lublin,Poland,287
+AUG,2019,Maastricht-Aachen,Netherlands,852
+AUG,2019,Manchester,United Kingdom,20797
+AUG,2019,Mehamn,Norway,207
+AUG,2019,Mikonos,Greece,4223
+AUG,2019,Mo i Rana Røssvoll,Norway,448
+AUG,2019,Molde Årø,Norway,538
+AUG,2019,Mosjøen Kjærstad,Norway,307
+AUG,2019,Namsos Høknesøra,Norway,224
+AUG,2019,Newcastle,United Kingdom,4430
+AUG,2019,Olsztyn-Mazury,Poland,172
+AUG,2019,Orsta¿Volda Hovden,Norway,401
+AUG,2019,Oslo - Gardermoen,Norway,22465
+AUG,2019,Poznan - Lawica,Poland,2359
+AUG,2019,Rodos,Greece,6732
+AUG,2019,Roros,Norway,114
+AUG,2019,Rorvik Ryum,Norway,193
+AUG,2019,Rost,Norway,114
+AUG,2019,Rotterdam,Netherlands,2658
+AUG,2019,Rzeszow - Jasionka,Poland,816
+AUG,2019,Sandane  Anda,Norway,209
+AUG,2019,Sandnessjøen Stokka,Norway,353
+AUG,2019,Santorini,Greece,3439
+AUG,2019,Shannon,Ireland,2038
+AUG,2019,Skiathos,Greece,1009
+AUG,2019,Sligo,Ireland,5
+AUG,2019,Sogndal Haukåsen,Norway,457
+AUG,2019,Sorkjosen,Norway,152
+AUG,2019,Southampton,United Kingdom,3423
+AUG,2019,Stavanger,Norway,5720
+AUG,2019,Stockholm - Arlanda,Sweden,20075
+AUG,2019,Stockholm - Bromma,Sweden,3891
+AUG,2019,Stokmarknes Skagen,Norway,450
+AUG,2019,Svalbard Longyear,Norway,200
+AUG,2019,Svolvær Helle,Norway,352
+AUG,2019,Szczecin - Goleniów,Poland,545
+AUG,2019,Thessaloniki,Greece,6559
+AUG,2019,Tromsø,Norway,3394
+AUG,2019,Trondheim,Norway,4666
+AUG,2019,Vadsø,Norway,545
+AUG,2019,Vardø Svartnes,Norway,188
+AUG,2019,Værøy,Norway,100
+AUG,2019,Warszawa - Chopina,Poland,17962
+AUG,2019,Warszawa - Modlin,Poland,1860
+AUG,2019,Waterford,Ireland,48
+AUG,2019,Weston,Ireland,53
+AUG,2019,Wroclaw - Strachowice,Poland,3059
+AUG,2019,Yerevan,Armenia,2982
+AUG,2019,Zakinthos,Greece,2817
+AUG,2019,Zielona Gora - Babimost,Poland,121
 AUG,2020,Aberdeen,United Kingdom,1801
 AUG,2020,Aktion,Greece,670
 AUG,2020,Alesund,Norway,781
@@ -534,6 +1252,364 @@ AUG,2021,Wroclaw - Strachowice,Poland,2246
 AUG,2021,Yerevan,Armenia,2751
 AUG,2021,Zakinthos,Greece,2579
 AUG,2021,Zielona Gora - Babimost,Poland,97
+DEC,2016,Aberdeen,United Kingdom,4636
+DEC,2016,Aktion,Greece,98
+DEC,2016,Amsterdam - Schiphol,Netherlands,37096
+DEC,2016,Athens,Greece,12400
+DEC,2016,Belfast - Aldergrove,United Kingdom,3860
+DEC,2016,Belfast - City Airport,United Kingdom,3098
+DEC,2016,Bergen,Norway,6008
+DEC,2016,Biggin Hill,United Kingdom,907
+DEC,2016,Birmingham,United Kingdom,8612
+DEC,2016,Bristol,United Kingdom,4706
+DEC,2016,Bydgoszcz,Poland,211
+DEC,2016,Connaught,Ireland,426
+DEC,2016,Corfu,Greece,258
+DEC,2016,Cork,Ireland,1577
+DEC,2016,Donegal,Ireland,134
+DEC,2016,Dublin,Ireland,15873
+DEC,2016,East Midlands,United Kingdom,3930
+DEC,2016,Edinburgh,United Kingdom,8877
+DEC,2016,Farnborough,United Kingdom,1727
+DEC,2016,Gdansk,Poland,2944
+DEC,2016,Glasgow,United Kingdom,6606
+DEC,2016,Groningen,Netherlands,608
+DEC,2016,Göteborg,Sweden,5277
+DEC,2016,Haugesund,Norway,462
+DEC,2016,Helsinki - Vantaa,Finland,13341
+DEC,2016,Heraklion,Greece,1062
+DEC,2016,Katowice - Pyrzowice,Poland,1786
+DEC,2016,Kefallinia,Greece,80
+DEC,2016,Kerry - Farranfore,Ireland,279
+DEC,2016,Khania - Souda,Greece,1058
+DEC,2016,Kiev - Boryspil,Ukraine,6340
+DEC,2016,Kos,Greece,278
+DEC,2016,Krakow - Balice,Poland,3502
+DEC,2016,Lodz - Lublinek,Poland,377
+DEC,2016,London - City,United Kingdom,5939
+DEC,2016,London - Gatwick,United Kingdom,20766
+DEC,2016,London - Heathrow,United Kingdom,37084
+DEC,2016,London - Luton,United Kingdom,9986
+DEC,2016,London - Stansted,United Kingdom,14071
+DEC,2016,Londonderry - Eglinton,United Kingdom,153
+DEC,2016,Lublin,Poland,212
+DEC,2016,Maastricht-Aachen,Netherlands,524
+DEC,2016,Manchester,United Kingdom,14449
+DEC,2016,Mikonos,Greece,175
+DEC,2016,Olsztyn-Mazury,Poland,58
+DEC,2016,Oslo - Gardermoen,Norway,17888
+DEC,2016,Poznan - Lawica,Poland,1199
+DEC,2016,Radom,Poland,75
+DEC,2016,Rodos,Greece,686
+DEC,2016,Rotterdam,Netherlands,1636
+DEC,2016,Rzeszow - Jasionka,Poland,589
+DEC,2016,Santorini,Greece,348
+DEC,2016,Shannon,Ireland,1597
+DEC,2016,Skiathos,Greece,38
+DEC,2016,Sligo,Ireland,7
+DEC,2016,Southampton,United Kingdom,3251
+DEC,2016,Stavanger,Norway,4794
+DEC,2016,Stockholm - Arlanda,Sweden,18327
+DEC,2016,Stockholm - Bromma,Sweden,4068
+DEC,2016,Szczecin - Goleniów,Poland,397
+DEC,2016,Thessaloniki,Greece,3781
+DEC,2016,Trondheim,Norway,4156
+DEC,2016,Warszawa - Chopina,Poland,12177
+DEC,2016,Warszawa - Modlin,Poland,1559
+DEC,2016,Waterford,Ireland,48
+DEC,2016,Weston,Ireland,74
+DEC,2016,Wroclaw - Strachowice,Poland,1939
+DEC,2016,Yerevan,Armenia,1675
+DEC,2016,Zakinthos,Greece,144
+DEC,2016,Zielona Gora - Babimost,Poland,68
+DEC,2017,Aberdeen,United Kingdom,4859
+DEC,2017,Aktion,Greece,101
+DEC,2017,Amsterdam - Schiphol,Netherlands,37331
+DEC,2017,Athens,Greece,13127
+DEC,2017,Belfast - Aldergrove,United Kingdom,3460
+DEC,2017,Belfast - City Airport,United Kingdom,2825
+DEC,2017,Bergen,Norway,5809
+DEC,2017,Biggin Hill,United Kingdom,1095
+DEC,2017,Birmingham,United Kingdom,7598
+DEC,2017,Bristol,United Kingdom,4464
+DEC,2017,Bydgoszcz,Poland,276
+DEC,2017,Connaught,Ireland,439
+DEC,2017,Corfu,Greece,419
+DEC,2017,Cork,Ireland,1644
+DEC,2017,Donegal,Ireland,145
+DEC,2017,Dublin,Ireland,16452
+DEC,2017,East Midlands,United Kingdom,4528
+DEC,2017,Edinburgh,United Kingdom,8963
+DEC,2017,Farnborough,United Kingdom,2064
+DEC,2017,Gdansk,Poland,3032
+DEC,2017,Glasgow,United Kingdom,6424
+DEC,2017,Groningen,Netherlands,529
+DEC,2017,Göteborg,Sweden,5218
+DEC,2017,Haugesund,Norway,428
+DEC,2017,Helsinki - Vantaa,Finland,14155
+DEC,2017,Heraklion,Greece,1202
+DEC,2017,Katowice - Pyrzowice,Poland,2045
+DEC,2017,Kefallinia,Greece,75
+DEC,2017,Kerry - Farranfore,Ireland,317
+DEC,2017,Khania - Souda,Greece,716
+DEC,2017,Kiev - Boryspil,Ukraine,6971
+DEC,2017,Kos,Greece,343
+DEC,2017,Krakow - Balice,Poland,3895
+DEC,2017,Lodz - Lublinek,Poland,224
+DEC,2017,London - City,United Kingdom,5484
+DEC,2017,London - Gatwick,United Kingdom,20489
+DEC,2017,London - Heathrow,United Kingdom,37906
+DEC,2017,London - Luton,United Kingdom,9575
+DEC,2017,London - Stansted,United Kingdom,13751
+DEC,2017,Londonderry - Eglinton,United Kingdom,214
+DEC,2017,Lublin,Poland,343
+DEC,2017,Maastricht-Aachen,Netherlands,536
+DEC,2017,Manchester,United Kingdom,14000
+DEC,2017,Mikonos,Greece,107
+DEC,2017,Olsztyn-Mazury,Poland,78
+DEC,2017,Oslo - Gardermoen,Norway,18163
+DEC,2017,Poznan - Lawica,Poland,1561
+DEC,2017,Radom,Poland,25
+DEC,2017,Rodos,Greece,632
+DEC,2017,Rotterdam,Netherlands,1248
+DEC,2017,Rzeszow - Jasionka,Poland,595
+DEC,2017,Santorini,Greece,343
+DEC,2017,Shannon,Ireland,1510
+DEC,2017,Skiathos,Greece,49
+DEC,2017,Sligo,Ireland,2
+DEC,2017,Southampton,United Kingdom,3036
+DEC,2017,Stavanger,Norway,4418
+DEC,2017,Stockholm - Arlanda,Sweden,18016
+DEC,2017,Stockholm - Bromma,Sweden,4035
+DEC,2017,Szczecin - Goleniów,Poland,450
+DEC,2017,Thessaloniki,Greece,2981
+DEC,2017,Trondheim,Norway,4012
+DEC,2017,Warszawa - Chopina,Poland,13243
+DEC,2017,Warszawa - Modlin,Poland,1512
+DEC,2017,Waterford,Ireland,32
+DEC,2017,Weston,Ireland,58
+DEC,2017,Wroclaw - Strachowice,Poland,2011
+DEC,2017,Yerevan,Armenia,1772
+DEC,2017,Zakinthos,Greece,129
+DEC,2017,Zielona Gora - Babimost,Poland,76
+DEC,2018,Aberdeen,United Kingdom,3776
+DEC,2018,Aktion,Greece,67
+DEC,2018,Alesund,Norway,1002
+DEC,2018,Alta,Norway,613
+DEC,2018,Amsterdam - Schiphol,Netherlands,39008
+DEC,2018,Andenes,Norway,254
+DEC,2018,Athens,Greece,14444
+DEC,2018,Bardufoss,Norway,214
+DEC,2018,Batsfjord,Norway,166
+DEC,2018,Belfast - Aldergrove,United Kingdom,4002
+DEC,2018,Belfast - City Airport,United Kingdom,2698
+DEC,2018,Bergen,Norway,6387
+DEC,2018,Berlevåg,Norway,122
+DEC,2018,Biggin Hill,United Kingdom,1285
+DEC,2018,Birmingham,United Kingdom,7705
+DEC,2018,Bodø,Norway,2890
+DEC,2018,Bristol,United Kingdom,5078
+DEC,2018,Bronnoysund Bronnoy,Norway,524
+DEC,2018,Bydgoszcz,Poland,297
+DEC,2018,Connaught,Ireland,446
+DEC,2018,Corfu,Greece,402
+DEC,2018,Cork,Ireland,1737
+DEC,2018,Donegal,Ireland,140
+DEC,2018,Dublin,Ireland,17391
+DEC,2018,East Midlands,United Kingdom,4553
+DEC,2018,Edinburgh,United Kingdom,9410
+DEC,2018,Farnborough,United Kingdom,2046
+DEC,2018,Florø,Norway,588
+DEC,2018,Forde Bringeland,Norway,299
+DEC,2018,Gdansk,Poland,3054
+DEC,2018,Glasgow,United Kingdom,5885
+DEC,2018,Groningen,Netherlands,705
+DEC,2018,Göteborg,Sweden,5263
+DEC,2018,Hammerfest,Norway,818
+DEC,2018,Harstad - Narvik Evenes,Norway,784
+DEC,2018,Haugesund,Norway,420
+DEC,2018,Helsinki - Vantaa,Finland,15418
+DEC,2018,Heraklion,Greece,1329
+DEC,2018,Honningsvåg Valan,Norway,151
+DEC,2018,Katowice - Pyrzowice,Poland,2207
+DEC,2018,Kefallinia,Greece,112
+DEC,2018,Kerry - Farranfore,Ireland,315
+DEC,2018,Khania - Souda,Greece,948
+DEC,2018,Kiev - Boryspil,Ukraine,7767
+DEC,2018,Kirkenes Høybuktmoen,Norway,591
+DEC,2018,Kos,Greece,411
+DEC,2018,Krakow - Balice,Poland,4407
+DEC,2018,Kristiansand Kjevik,Norway,1176
+DEC,2018,Kristiansund Kvernberget,Norway,789
+DEC,2018,Lakselv Banak,Norway,172
+DEC,2018,Leknes,Norway,432
+DEC,2018,Lelystad,Netherlands,188
+DEC,2018,Lodz - Lublinek,Poland,289
+DEC,2018,London - City,United Kingdom,5947
+DEC,2018,London - Gatwick,United Kingdom,20437
+DEC,2018,London - Heathrow,United Kingdom,38725
+DEC,2018,London - Luton,United Kingdom,10635
+DEC,2018,London - Stansted,United Kingdom,14695
+DEC,2018,Londonderry - Eglinton,United Kingdom,252
+DEC,2018,Lublin,Poland,261
+DEC,2018,Maastricht-Aachen,Netherlands,663
+DEC,2018,Manchester,United Kingdom,14501
+DEC,2018,Mehamn,Norway,185
+DEC,2018,Mikonos,Greece,159
+DEC,2018,Mo i Rana Røssvoll,Norway,431
+DEC,2018,Molde Årø,Norway,457
+DEC,2018,Mosjøen Kjærstad,Norway,286
+DEC,2018,Namsos Høknesøra,Norway,196
+DEC,2018,Newcastle,United Kingdom,2575
+DEC,2018,Olsztyn-Mazury,Poland,96
+DEC,2018,Orsta¿Volda Hovden,Norway,373
+DEC,2018,Oslo - Gardermoen,Norway,18567
+DEC,2018,Poznan - Lawica,Poland,1551
+DEC,2018,Radom,Poland,7
+DEC,2018,Rodos,Greece,573
+DEC,2018,Roros,Norway,106
+DEC,2018,Rorvik Ryum,Norway,179
+DEC,2018,Rost,Norway,96
+DEC,2018,Rotterdam,Netherlands,1267
+DEC,2018,Rzeszow - Jasionka,Poland,672
+DEC,2018,Sandane  Anda,Norway,184
+DEC,2018,Sandnessjøen Stokka,Norway,291
+DEC,2018,Santorini,Greece,419
+DEC,2018,Shannon,Ireland,1538
+DEC,2018,Skiathos,Greece,69
+DEC,2018,Sogndal Haukåsen,Norway,368
+DEC,2018,Sorkjosen,Norway,140
+DEC,2018,Southampton,United Kingdom,2825
+DEC,2018,Stavanger,Norway,4667
+DEC,2018,Stockholm - Arlanda,Sweden,17880
+DEC,2018,Stockholm - Bromma,Sweden,4097
+DEC,2018,Stokmarknes Skagen,Norway,476
+DEC,2018,Svalbard Longyear,Norway,95
+DEC,2018,Svolvær Helle,Norway,296
+DEC,2018,Szczecin - Goleniów,Poland,427
+DEC,2018,Thessaloniki,Greece,3691
+DEC,2018,Tromsø,Norway,3289
+DEC,2018,Trondheim,Norway,3863
+DEC,2018,Vadsø,Norway,508
+DEC,2018,Vardø Svartnes,Norway,167
+DEC,2018,Værøy,Norway,90
+DEC,2018,Warszawa - Chopina,Poland,14421
+DEC,2018,Warszawa - Modlin,Poland,1559
+DEC,2018,Waterford,Ireland,23
+DEC,2018,Weston,Ireland,66
+DEC,2018,Wroclaw - Strachowice,Poland,2276
+DEC,2018,Yerevan,Armenia,1956
+DEC,2018,Zakinthos,Greece,100
+DEC,2018,Zielona Gora - Babimost,Poland,64
+DEC,2019,Aberdeen,United Kingdom,3898
+DEC,2019,Aktion,Greece,67
+DEC,2019,Alesund,Norway,1049
+DEC,2019,Alta,Norway,617
+DEC,2019,Amsterdam - Schiphol,Netherlands,39246
+DEC,2019,Andenes,Norway,225
+DEC,2019,Athens,Greece,14441
+DEC,2019,Bardufoss,Norway,204
+DEC,2019,Batsfjord,Norway,161
+DEC,2019,Belfast - Aldergrove,United Kingdom,3592
+DEC,2019,Belfast - City Airport,United Kingdom,2559
+DEC,2019,Bergen,Norway,6473
+DEC,2019,Berlevåg,Norway,110
+DEC,2019,Biggin Hill,United Kingdom,1326
+DEC,2019,Birmingham,United Kingdom,7288
+DEC,2019,Bodø,Norway,2837
+DEC,2019,Bristol,United Kingdom,4583
+DEC,2019,Bronnoysund Bronnoy,Norway,546
+DEC,2019,Bydgoszcz,Poland,352
+DEC,2019,Connaught,Ireland,462
+DEC,2019,Corfu,Greece,315
+DEC,2019,Cork,Ireland,1969
+DEC,2019,Donegal,Ireland,145
+DEC,2019,Dublin,Ireland,17348
+DEC,2019,East Midlands,United Kingdom,4603
+DEC,2019,Edinburgh,United Kingdom,9764
+DEC,2019,Farnborough,United Kingdom,2263
+DEC,2019,Florø,Norway,717
+DEC,2019,Forde Bringeland,Norway,302
+DEC,2019,Gdansk,Poland,3508
+DEC,2019,Glasgow,United Kingdom,5874
+DEC,2019,Groningen,Netherlands,621
+DEC,2019,Göteborg,Sweden,4933
+DEC,2019,Hammerfest,Norway,712
+DEC,2019,Harstad - Narvik Evenes,Norway,759
+DEC,2019,Haugesund,Norway,463
+DEC,2019,Helsinki - Vantaa,Finland,15484
+DEC,2019,Heraklion,Greece,1117
+DEC,2019,Honningsvåg Valan,Norway,134
+DEC,2019,Katowice - Pyrzowice,Poland,2547
+DEC,2019,Kefallinia,Greece,105
+DEC,2019,Kerry - Farranfore,Ireland,317
+DEC,2019,Khania - Souda,Greece,741
+DEC,2019,Kiev - Boryspil,Ukraine,7837
+DEC,2019,Kirkenes Høybuktmoen,Norway,532
+DEC,2019,Kos,Greece,360
+DEC,2019,Krakow - Balice,Poland,5477
+DEC,2019,Kristiansand Kjevik,Norway,1177
+DEC,2019,Kristiansund Kvernberget,Norway,760
+DEC,2019,Lakselv Banak,Norway,173
+DEC,2019,Leknes,Norway,398
+DEC,2019,Lelystad,Netherlands,140
+DEC,2019,Lodz - Lublinek,Poland,238
+DEC,2019,London - City,United Kingdom,6207
+DEC,2019,London - Gatwick,United Kingdom,21064
+DEC,2019,London - Heathrow,United Kingdom,38487
+DEC,2019,London - Luton,United Kingdom,11041
+DEC,2019,London - Stansted,United Kingdom,14469
+DEC,2019,Londonderry - Eglinton,United Kingdom,282
+DEC,2019,Lublin,Poland,297
+DEC,2019,Maastricht-Aachen,Netherlands,683
+DEC,2019,Manchester,United Kingdom,14205
+DEC,2019,Mehamn,Norway,173
+DEC,2019,Mikonos,Greece,153
+DEC,2019,Mo i Rana Røssvoll,Norway,402
+DEC,2019,Molde Årø,Norway,477
+DEC,2019,Mosjøen Kjærstad,Norway,258
+DEC,2019,Namsos Høknesøra,Norway,160
+DEC,2019,Newcastle,United Kingdom,2790
+DEC,2019,Olsztyn-Mazury,Poland,164
+DEC,2019,Orsta¿Volda Hovden,Norway,301
+DEC,2019,Oslo - Gardermoen,Norway,18370
+DEC,2019,Poznan - Lawica,Poland,1540
+DEC,2019,Rodos,Greece,595
+DEC,2019,Roros,Norway,130
+DEC,2019,Rorvik Ryum,Norway,163
+DEC,2019,Rost,Norway,88
+DEC,2019,Rotterdam,Netherlands,1346
+DEC,2019,Rzeszow - Jasionka,Poland,658
+DEC,2019,Sandane  Anda,Norway,159
+DEC,2019,Sandnessjøen Stokka,Norway,253
+DEC,2019,Santorini,Greece,481
+DEC,2019,Shannon,Ireland,1309
+DEC,2019,Skiathos,Greece,55
+DEC,2019,Sligo,Ireland,3
+DEC,2019,Sogndal Haukåsen,Norway,347
+DEC,2019,Sorkjosen,Norway,119
+DEC,2019,Southampton,United Kingdom,2657
+DEC,2019,Stavanger,Norway,4870
+DEC,2019,Stockholm - Arlanda,Sweden,16650
+DEC,2019,Stockholm - Bromma,Sweden,3693
+DEC,2019,Stokmarknes Skagen,Norway,408
+DEC,2019,Svalbard Longyear,Norway,127
+DEC,2019,Svolvær Helle,Norway,276
+DEC,2019,Szczecin - Goleniów,Poland,525
+DEC,2019,Thessaloniki,Greece,3518
+DEC,2019,Tromsø,Norway,3159
+DEC,2019,Trondheim,Norway,3857
+DEC,2019,Vadsø,Norway,448
+DEC,2019,Vardø Svartnes,Norway,146
+DEC,2019,Værøy,Norway,80
+DEC,2019,Warszawa - Chopina,Poland,15316
+DEC,2019,Warszawa - Modlin,Poland,1482
+DEC,2019,Waterford,Ireland,18
+DEC,2019,Weston,Ireland,45
+DEC,2019,Wroclaw - Strachowice,Poland,2257
+DEC,2019,Yerevan,Armenia,2123
+DEC,2019,Zakinthos,Greece,98
+DEC,2019,Zielona Gora - Babimost,Poland,97
 DEC,2020,Aberdeen,United Kingdom,1684
 DEC,2020,Aktion,Greece,61
 DEC,2020,Alesund,Norway,796
@@ -751,6 +1827,366 @@ DEC,2021,Wroclaw - Strachowice,Poland,1860
 DEC,2021,Yerevan,Armenia,1762
 DEC,2021,Zakinthos,Greece,100
 DEC,2021,Zielona Gora - Babimost,Poland,68
+FEB,2016,Aberdeen,United Kingdom,4732
+FEB,2016,Aktion,Greece,68
+FEB,2016,Amsterdam - Schiphol,Netherlands,33787
+FEB,2016,Athens,Greece,10635
+FEB,2016,Belfast - Aldergrove,United Kingdom,3085
+FEB,2016,Belfast - City Airport,United Kingdom,3124
+FEB,2016,Bergen,Norway,6709
+FEB,2016,Biggin Hill,United Kingdom,1003
+FEB,2016,Birmingham,United Kingdom,7399
+FEB,2016,Bristol,United Kingdom,4190
+FEB,2016,Bydgoszcz,Poland,208
+FEB,2016,Connaught,Ireland,340
+FEB,2016,Corfu,Greece,259
+FEB,2016,Cork,Ireland,1540
+FEB,2016,Donegal,Ireland,135
+FEB,2016,Dublin,Ireland,14581
+FEB,2016,East Midlands,United Kingdom,4275
+FEB,2016,Edinburgh,United Kingdom,8263
+FEB,2016,Farnborough,United Kingdom,1776
+FEB,2016,Gdansk,Poland,2687
+FEB,2016,Glasgow,United Kingdom,6245
+FEB,2016,Groningen,Netherlands,740
+FEB,2016,Göteborg,Sweden,5621
+FEB,2016,Haugesund,Norway,570
+FEB,2016,Helsinki - Vantaa,Finland,13323
+FEB,2016,Heraklion,Greece,837
+FEB,2016,Katowice - Pyrzowice,Poland,1583
+FEB,2016,Kefallinia,Greece,81
+FEB,2016,Kerry - Farranfore,Ireland,278
+FEB,2016,Khania - Souda,Greece,1220
+FEB,2016,Kiev - Boryspil,Ukraine,4687
+FEB,2016,Kos,Greece,278
+FEB,2016,Krakow - Balice,Poland,2958
+FEB,2016,Lodz - Lublinek,Poland,277
+FEB,2016,London - City,United Kingdom,7010
+FEB,2016,London - Gatwick,United Kingdom,18699
+FEB,2016,London - Heathrow,United Kingdom,36351
+FEB,2016,London - Luton,United Kingdom,8690
+FEB,2016,London - Stansted,United Kingdom,12937
+FEB,2016,Londonderry - Eglinton,United Kingdom,180
+FEB,2016,Lublin,Poland,210
+FEB,2016,Maastricht-Aachen,Netherlands,677
+FEB,2016,Manchester,United Kingdom,12338
+FEB,2016,Mikonos,Greece,123
+FEB,2016,Olsztyn-Mazury,Poland,60
+FEB,2016,Oslo - Gardermoen,Norway,18634
+FEB,2016,Poznan - Lawica,Poland,1230
+FEB,2016,Radom,Poland,49
+FEB,2016,Rodos,Greece,732
+FEB,2016,Rotterdam,Netherlands,1907
+FEB,2016,Rzeszow - Jasionka,Poland,559
+FEB,2016,Santorini,Greece,292
+FEB,2016,Shannon,Ireland,1260
+FEB,2016,Skiathos,Greece,27
+FEB,2016,Sligo,Ireland,5
+FEB,2016,Southampton,United Kingdom,2699
+FEB,2016,Stavanger,Norway,5260
+FEB,2016,Stockholm - Arlanda,Sweden,17663
+FEB,2016,Stockholm - Bromma,Sweden,4357
+FEB,2016,Szczecin - Goleniów,Poland,315
+FEB,2016,Thessaloniki,Greece,3211
+FEB,2016,Trondheim,Norway,4556
+FEB,2016,Warszawa - Chopina,Poland,10498
+FEB,2016,Warszawa - Modlin,Poland,1476
+FEB,2016,Waterford,Ireland,127
+FEB,2016,Weston,Ireland,43
+FEB,2016,Wroclaw - Strachowice,Poland,1644
+FEB,2016,Yerevan,Armenia,1144
+FEB,2016,Zakinthos,Greece,83
+FEB,2016,Zielona Gora - Babimost,Poland,58
+FEB,2017,Aberdeen,United Kingdom,4502
+FEB,2017,Aktion,Greece,87
+FEB,2017,Amsterdam - Schiphol,Netherlands,34278
+FEB,2017,Athens,Greece,10435
+FEB,2017,Belfast - Aldergrove,United Kingdom,3494
+FEB,2017,Belfast - City Airport,United Kingdom,2743
+FEB,2017,Bergen,Norway,6076
+FEB,2017,Biggin Hill,United Kingdom,1058
+FEB,2017,Birmingham,United Kingdom,7853
+FEB,2017,Bristol,United Kingdom,4379
+FEB,2017,Bydgoszcz,Poland,170
+FEB,2017,Connaught,Ireland,341
+FEB,2017,Corfu,Greece,238
+FEB,2017,Cork,Ireland,1734
+FEB,2017,Donegal,Ireland,127
+FEB,2017,Dublin,Ireland,14574
+FEB,2017,East Midlands,United Kingdom,4343
+FEB,2017,Edinburgh,United Kingdom,8255
+FEB,2017,Farnborough,United Kingdom,1816
+FEB,2017,Gdansk,Poland,2682
+FEB,2017,Glasgow,United Kingdom,6358
+FEB,2017,Groningen,Netherlands,712
+FEB,2017,Göteborg,Sweden,5194
+FEB,2017,Haugesund,Norway,499
+FEB,2017,Helsinki - Vantaa,Finland,13143
+FEB,2017,Heraklion,Greece,926
+FEB,2017,Katowice - Pyrzowice,Poland,1696
+FEB,2017,Kefallinia,Greece,64
+FEB,2017,Kerry - Farranfore,Ireland,257
+FEB,2017,Khania - Souda,Greece,1121
+FEB,2017,Kiev - Boryspil,Ukraine,5706
+FEB,2017,Kos,Greece,250
+FEB,2017,Krakow - Balice,Poland,3244
+FEB,2017,Lodz - Lublinek,Poland,296
+FEB,2017,London - City,United Kingdom,6656
+FEB,2017,London - Gatwick,United Kingdom,19420
+FEB,2017,London - Heathrow,United Kingdom,35087
+FEB,2017,London - Luton,United Kingdom,9474
+FEB,2017,London - Stansted,United Kingdom,12534
+FEB,2017,Londonderry - Eglinton,United Kingdom,135
+FEB,2017,Lublin,Poland,200
+FEB,2017,Maastricht-Aachen,Netherlands,562
+FEB,2017,Manchester,United Kingdom,13239
+FEB,2017,Mikonos,Greece,160
+FEB,2017,Olsztyn-Mazury,Poland,75
+FEB,2017,Oslo - Gardermoen,Norway,18123
+FEB,2017,Poznan - Lawica,Poland,1128
+FEB,2017,Radom,Poland,93
+FEB,2017,Rodos,Greece,616
+FEB,2017,Rotterdam,Netherlands,1666
+FEB,2017,Rzeszow - Jasionka,Poland,479
+FEB,2017,Santorini,Greece,333
+FEB,2017,Shannon,Ireland,1398
+FEB,2017,Skiathos,Greece,38
+FEB,2017,Sligo,Ireland,2
+FEB,2017,Southampton,United Kingdom,3111
+FEB,2017,Stavanger,Norway,4890
+FEB,2017,Stockholm - Arlanda,Sweden,17858
+FEB,2017,Stockholm - Bromma,Sweden,4250
+FEB,2017,Szczecin - Goleniów,Poland,357
+FEB,2017,Thessaloniki,Greece,3144
+FEB,2017,Trondheim,Norway,4252
+FEB,2017,Warszawa - Chopina,Poland,11346
+FEB,2017,Warszawa - Modlin,Poland,1318
+FEB,2017,Waterford,Ireland,24
+FEB,2017,Weston,Ireland,62
+FEB,2017,Wroclaw - Strachowice,Poland,1750
+FEB,2017,Yerevan,Armenia,1192
+FEB,2017,Zakinthos,Greece,120
+FEB,2017,Zielona Gora - Babimost,Poland,73
+FEB,2018,Aberdeen,United Kingdom,4695
+FEB,2018,Aktion,Greece,70
+FEB,2018,Alesund,Norway,1144
+FEB,2018,Alta,Norway,682
+FEB,2018,Amsterdam - Schiphol,Netherlands,35884
+FEB,2018,Andenes,Norway,345
+FEB,2018,Athens,Greece,11008
+FEB,2018,Bardufoss,Norway,353
+FEB,2018,Batsfjord,Norway,175
+FEB,2018,Belfast - Aldergrove,United Kingdom,3178
+FEB,2018,Belfast - City Airport,United Kingdom,2640
+FEB,2018,Bergen,Norway,5932
+FEB,2018,Berlevåg,Norway,122
+FEB,2018,Biggin Hill,United Kingdom,1271
+FEB,2018,Birmingham,United Kingdom,7322
+FEB,2018,Bodø,Norway,2999
+FEB,2018,Bristol,United Kingdom,4477
+FEB,2018,Bronnoysund Bronnoy,Norway,551
+FEB,2018,Bydgoszcz,Poland,266
+FEB,2018,Connaught,Ireland,373
+FEB,2018,Corfu,Greece,339
+FEB,2018,Cork,Ireland,1588
+FEB,2018,Donegal,Ireland,136
+FEB,2018,Dublin,Ireland,14912
+FEB,2018,East Midlands,United Kingdom,4415
+FEB,2018,Edinburgh,United Kingdom,8388
+FEB,2018,Farnborough,United Kingdom,2254
+FEB,2018,Florø,Norway,617
+FEB,2018,Forde Bringeland,Norway,313
+FEB,2018,Gdansk,Poland,2824
+FEB,2018,Glasgow,United Kingdom,5906
+FEB,2018,Groningen,Netherlands,774
+FEB,2018,Göteborg,Sweden,5388
+FEB,2018,Hammerfest,Norway,799
+FEB,2018,Harstad - Narvik Evenes,Norway,747
+FEB,2018,Haugesund,Norway,427
+FEB,2018,Helsinki - Vantaa,Finland,14054
+FEB,2018,Heraklion,Greece,1130
+FEB,2018,Honningsvåg Valan,Norway,131
+FEB,2018,Katowice - Pyrzowice,Poland,1962
+FEB,2018,Kefallinia,Greece,71
+FEB,2018,Kerry - Farranfore,Ireland,291
+FEB,2018,Khania - Souda,Greece,671
+FEB,2018,Kiev - Boryspil,Ukraine,6217
+FEB,2018,Kirkenes Høybuktmoen,Norway,558
+FEB,2018,Kos,Greece,296
+FEB,2018,Krakow - Balice,Poland,3771
+FEB,2018,Kristiansand Kjevik,Norway,1103
+FEB,2018,Kristiansund Kvernberget,Norway,768
+FEB,2018,Lakselv Banak,Norway,186
+FEB,2018,Leknes,Norway,512
+FEB,2018,Lelystad,Netherlands,193
+FEB,2018,Lodz - Lublinek,Poland,211
+FEB,2018,London - City,United Kingdom,6079
+FEB,2018,London - Gatwick,United Kingdom,19154
+FEB,2018,London - Heathrow,United Kingdom,35286
+FEB,2018,London - Luton,United Kingdom,9164
+FEB,2018,London - Stansted,United Kingdom,13019
+FEB,2018,Londonderry - Eglinton,United Kingdom,190
+FEB,2018,Lublin,Poland,329
+FEB,2018,Maastricht-Aachen,Netherlands,568
+FEB,2018,Manchester,United Kingdom,13011
+FEB,2018,Mehamn,Norway,190
+FEB,2018,Mikonos,Greece,131
+FEB,2018,Mo i Rana Røssvoll,Norway,431
+FEB,2018,Molde Årø,Norway,521
+FEB,2018,Mosjøen Kjærstad,Norway,324
+FEB,2018,Namsos Høknesøra,Norway,210
+FEB,2018,Newcastle,United Kingdom,2733
+FEB,2018,Olsztyn-Mazury,Poland,89
+FEB,2018,Orsta¿Volda Hovden,Norway,376
+FEB,2018,Oslo - Gardermoen,Norway,18629
+FEB,2018,Poznan - Lawica,Poland,1516
+FEB,2018,Radom,Poland,36
+FEB,2018,Rodos,Greece,572
+FEB,2018,Roros,Norway,114
+FEB,2018,Rorvik Ryum,Norway,185
+FEB,2018,Rost,Norway,98
+FEB,2018,Rotterdam,Netherlands,1505
+FEB,2018,Rzeszow - Jasionka,Poland,505
+FEB,2018,Sandane  Anda,Norway,179
+FEB,2018,Sandnessjøen Stokka,Norway,309
+FEB,2018,Santorini,Greece,296
+FEB,2018,Shannon,Ireland,1354
+FEB,2018,Skiathos,Greece,51
+FEB,2018,Sligo,Ireland,6
+FEB,2018,Sogndal Haukåsen,Norway,400
+FEB,2018,Sorkjosen,Norway,153
+FEB,2018,Southampton,United Kingdom,2804
+FEB,2018,Stavanger,Norway,4593
+FEB,2018,Stockholm - Arlanda,Sweden,17794
+FEB,2018,Stockholm - Bromma,Sweden,4270
+FEB,2018,Stokmarknes Skagen,Norway,540
+FEB,2018,Svalbard Longyear,Norway,142
+FEB,2018,Svolvær Helle,Norway,426
+FEB,2018,Szczecin - Goleniów,Poland,419
+FEB,2018,Thessaloniki,Greece,2519
+FEB,2018,Tromsø,Norway,3363
+FEB,2018,Trondheim,Norway,4105
+FEB,2018,Vadsø,Norway,518
+FEB,2018,Vardø Svartnes,Norway,173
+FEB,2018,Værøy,Norway,94
+FEB,2018,Warszawa - Chopina,Poland,12713
+FEB,2018,Warszawa - Modlin,Poland,1408
+FEB,2018,Waterford,Ireland,30
+FEB,2018,Weston,Ireland,72
+FEB,2018,Wroclaw - Strachowice,Poland,2011
+FEB,2018,Yerevan,Armenia,1366
+FEB,2018,Zakinthos,Greece,113
+FEB,2018,Zielona Gora - Babimost,Poland,61
+FEB,2019,Aberdeen,United Kingdom,3661
+FEB,2019,Aktion,Greece,86
+FEB,2019,Alesund,Norway,1043
+FEB,2019,Alta,Norway,691
+FEB,2019,Amsterdam - Schiphol,Netherlands,36064
+FEB,2019,Andenes,Norway,241
+FEB,2019,Athens,Greece,12128
+FEB,2019,Bardufoss,Norway,202
+FEB,2019,Batsfjord,Norway,173
+FEB,2019,Belfast - Aldergrove,United Kingdom,3750
+FEB,2019,Belfast - City Airport,United Kingdom,2533
+FEB,2019,Bergen,Norway,6477
+FEB,2019,Berlevåg,Norway,136
+FEB,2019,Biggin Hill,United Kingdom,1258
+FEB,2019,Birmingham,United Kingdom,7402
+FEB,2019,Bodø,Norway,2957
+FEB,2019,Bristol,United Kingdom,4353
+FEB,2019,Bronnoysund Bronnoy,Norway,507
+FEB,2019,Bydgoszcz,Poland,280
+FEB,2019,Connaught,Ireland,392
+FEB,2019,Corfu,Greece,306
+FEB,2019,Cork,Ireland,1687
+FEB,2019,Donegal,Ireland,134
+FEB,2019,Dublin,Ireland,15983
+FEB,2019,East Midlands,United Kingdom,4408
+FEB,2019,Edinburgh,United Kingdom,8744
+FEB,2019,Farnborough,United Kingdom,2175
+FEB,2019,Florø,Norway,632
+FEB,2019,Forde Bringeland,Norway,294
+FEB,2019,Gdansk,Poland,2834
+FEB,2019,Glasgow,United Kingdom,5599
+FEB,2019,Groningen,Netherlands,676
+FEB,2019,Göteborg,Sweden,5104
+FEB,2019,Hammerfest,Norway,810
+FEB,2019,Harstad - Narvik Evenes,Norway,776
+FEB,2019,Haugesund,Norway,426
+FEB,2019,Helsinki - Vantaa,Finland,14557
+FEB,2019,Heraklion,Greece,1088
+FEB,2019,Honningsvåg Valan,Norway,151
+FEB,2019,Katowice - Pyrzowice,Poland,1965
+FEB,2019,Kefallinia,Greece,93
+FEB,2019,Kerry - Farranfore,Ireland,294
+FEB,2019,Khania - Souda,Greece,796
+FEB,2019,Kiev - Boryspil,Ukraine,6713
+FEB,2019,Kirkenes Høybuktmoen,Norway,589
+FEB,2019,Kos,Greece,312
+FEB,2019,Krakow - Balice,Poland,4098
+FEB,2019,Kristiansand Kjevik,Norway,1229
+FEB,2019,Kristiansund Kvernberget,Norway,710
+FEB,2019,Lakselv Banak,Norway,169
+FEB,2019,Leknes,Norway,429
+FEB,2019,Lelystad,Netherlands,300
+FEB,2019,Lodz - Lublinek,Poland,280
+FEB,2019,London - City,United Kingdom,6523
+FEB,2019,London - Gatwick,United Kingdom,19931
+FEB,2019,London - Heathrow,United Kingdom,35356
+FEB,2019,London - Luton,United Kingdom,9697
+FEB,2019,London - Stansted,United Kingdom,13763
+FEB,2019,Londonderry - Eglinton,United Kingdom,194
+FEB,2019,Lublin,Poland,235
+FEB,2019,Maastricht-Aachen,Netherlands,658
+FEB,2019,Manchester,United Kingdom,13226
+FEB,2019,Mehamn,Norway,191
+FEB,2019,Mikonos,Greece,119
+FEB,2019,Mo i Rana Røssvoll,Norway,383
+FEB,2019,Molde Årø,Norway,440
+FEB,2019,Mosjøen Kjærstad,Norway,259
+FEB,2019,Namsos Høknesøra,Norway,201
+FEB,2019,Newcastle,United Kingdom,2614
+FEB,2019,Olsztyn-Mazury,Poland,106
+FEB,2019,Orsta¿Volda Hovden,Norway,379
+FEB,2019,Oslo - Gardermoen,Norway,18656
+FEB,2019,Poznan - Lawica,Poland,1414
+FEB,2019,Radom,Poland,26
+FEB,2019,Rodos,Greece,484
+FEB,2019,Roros,Norway,110
+FEB,2019,Rorvik Ryum,Norway,173
+FEB,2019,Rost,Norway,94
+FEB,2019,Rotterdam,Netherlands,1556
+FEB,2019,Rzeszow - Jasionka,Poland,619
+FEB,2019,Sandane  Anda,Norway,188
+FEB,2019,Sandnessjøen Stokka,Norway,300
+FEB,2019,Santorini,Greece,385
+FEB,2019,Shannon,Ireland,1261
+FEB,2019,Skiathos,Greece,40
+FEB,2019,Sligo,Ireland,2
+FEB,2019,Sogndal Haukåsen,Norway,374
+FEB,2019,Sorkjosen,Norway,139
+FEB,2019,Southampton,United Kingdom,2522
+FEB,2019,Stavanger,Norway,4895
+FEB,2019,Stockholm - Arlanda,Sweden,17331
+FEB,2019,Stockholm - Bromma,Sweden,4207
+FEB,2019,Stokmarknes Skagen,Norway,410
+FEB,2019,Svalbard Longyear,Norway,146
+FEB,2019,Svolvær Helle,Norway,291
+FEB,2019,Szczecin - Goleniów,Poland,403
+FEB,2019,Thessaloniki,Greece,3157
+FEB,2019,Tromsø,Norway,3278
+FEB,2019,Trondheim,Norway,4125
+FEB,2019,Vadsø,Norway,518
+FEB,2019,Vardø Svartnes,Norway,187
+FEB,2019,Værøy,Norway,94
+FEB,2019,Warszawa - Chopina,Poland,13652
+FEB,2019,Warszawa - Modlin,Poland,1510
+FEB,2019,Waterford,Ireland,32
+FEB,2019,Weston,Ireland,90
+FEB,2019,Wroclaw - Strachowice,Poland,2109
+FEB,2019,Yerevan,Armenia,1459
+FEB,2019,Zakinthos,Greece,90
+FEB,2019,Zielona Gora - Babimost,Poland,56
 FEB,2020,Aberdeen,United Kingdom,3668
 FEB,2020,Aktion,Greece,74
 FEB,2020,Alesund,Norway,1110
@@ -1078,6 +2514,363 @@ FEB,2022,Wroclaw - Strachowice,Poland,1374
 FEB,2022,Yerevan,Armenia,1274
 FEB,2022,Zakinthos,Greece,84
 FEB,2022,Zielona Gora - Babimost,Poland,71
+JAN,2016,Aberdeen,United Kingdom,4677
+JAN,2016,Aktion,Greece,68
+JAN,2016,Amsterdam - Schiphol,Netherlands,33964
+JAN,2016,Athens,Greece,11290
+JAN,2016,Belfast - Aldergrove,United Kingdom,3043
+JAN,2016,Belfast - City Airport,United Kingdom,2929
+JAN,2016,Bergen,Norway,6658
+JAN,2016,Biggin Hill,United Kingdom,873
+JAN,2016,Birmingham,United Kingdom,7128
+JAN,2016,Bristol,United Kingdom,4009
+JAN,2016,Bydgoszcz,Poland,225
+JAN,2016,Connaught,Ireland,326
+JAN,2016,Corfu,Greece,267
+JAN,2016,Cork,Ireland,1536
+JAN,2016,Donegal,Ireland,143
+JAN,2016,Dublin,Ireland,14922
+JAN,2016,East Midlands,United Kingdom,4140
+JAN,2016,Edinburgh,United Kingdom,7754
+JAN,2016,Farnborough,United Kingdom,1678
+JAN,2016,Gdansk,Poland,2780
+JAN,2016,Glasgow,United Kingdom,5995
+JAN,2016,Groningen,Netherlands,528
+JAN,2016,Göteborg,Sweden,5291
+JAN,2016,Haugesund,Norway,561
+JAN,2016,Helsinki - Vantaa,Finland,12984
+JAN,2016,Heraklion,Greece,969
+JAN,2016,Katowice - Pyrzowice,Poland,1686
+JAN,2016,Kefallinia,Greece,69
+JAN,2016,Kerry - Farranfore,Ireland,273
+JAN,2016,Khania - Souda,Greece,1215
+JAN,2016,Kiev - Boryspil,Ukraine,4999
+JAN,2016,Kos,Greece,268
+JAN,2016,Krakow - Balice,Poland,2943
+JAN,2016,Lodz - Lublinek,Poland,278
+JAN,2016,London - City,United Kingdom,6288
+JAN,2016,London - Gatwick,United Kingdom,18565
+JAN,2016,London - Heathrow,United Kingdom,37191
+JAN,2016,London - Luton,United Kingdom,8330
+JAN,2016,London - Stansted,United Kingdom,13438
+JAN,2016,Londonderry - Eglinton,United Kingdom,166
+JAN,2016,Lublin,Poland,250
+JAN,2016,Maastricht-Aachen,Netherlands,606
+JAN,2016,Manchester,United Kingdom,11864
+JAN,2016,Mikonos,Greece,118
+JAN,2016,Olsztyn-Mazury,Poland,35
+JAN,2016,Oslo - Gardermoen,Norway,17721
+JAN,2016,Poznan - Lawica,Poland,1173
+JAN,2016,Radom,Poland,31
+JAN,2016,Rodos,Greece,753
+JAN,2016,Rotterdam,Netherlands,1588
+JAN,2016,Rzeszow - Jasionka,Poland,523
+JAN,2016,Santorini,Greece,278
+JAN,2016,Shannon,Ireland,1383
+JAN,2016,Skiathos,Greece,21
+JAN,2016,Southampton,United Kingdom,2638
+JAN,2016,Stavanger,Norway,5234
+JAN,2016,Stockholm - Arlanda,Sweden,16571
+JAN,2016,Stockholm - Bromma,Sweden,3666
+JAN,2016,Szczecin - Goleniów,Poland,337
+JAN,2016,Thessaloniki,Greece,3369
+JAN,2016,Trondheim,Norway,4367
+JAN,2016,Warszawa - Chopina,Poland,10754
+JAN,2016,Warszawa - Modlin,Poland,1563
+JAN,2016,Waterford,Ireland,134
+JAN,2016,Weston,Ireland,58
+JAN,2016,Wroclaw - Strachowice,Poland,1666
+JAN,2016,Yerevan,Armenia,1371
+JAN,2016,Zakinthos,Greece,82
+JAN,2016,Zielona Gora - Babimost,Poland,61
+JAN,2017,Aberdeen,United Kingdom,4506
+JAN,2017,Aktion,Greece,80
+JAN,2017,Amsterdam - Schiphol,Netherlands,36335
+JAN,2017,Athens,Greece,11761
+JAN,2017,Belfast - Aldergrove,United Kingdom,3662
+JAN,2017,Belfast - City Airport,United Kingdom,2858
+JAN,2017,Bergen,Norway,6436
+JAN,2017,Biggin Hill,United Kingdom,915
+JAN,2017,Birmingham,United Kingdom,8203
+JAN,2017,Bristol,United Kingdom,4551
+JAN,2017,Bydgoszcz,Poland,205
+JAN,2017,Connaught,Ireland,396
+JAN,2017,Corfu,Greece,242
+JAN,2017,Cork,Ireland,1623
+JAN,2017,Donegal,Ireland,136
+JAN,2017,Dublin,Ireland,15775
+JAN,2017,East Midlands,United Kingdom,4337
+JAN,2017,Edinburgh,United Kingdom,8339
+JAN,2017,Farnborough,United Kingdom,1672
+JAN,2017,Gdansk,Poland,2907
+JAN,2017,Glasgow,United Kingdom,6578
+JAN,2017,Groningen,Netherlands,729
+JAN,2017,Göteborg,Sweden,5331
+JAN,2017,Haugesund,Norway,508
+JAN,2017,Helsinki - Vantaa,Finland,13753
+JAN,2017,Heraklion,Greece,970
+JAN,2017,Katowice - Pyrzowice,Poland,1738
+JAN,2017,Kefallinia,Greece,78
+JAN,2017,Kerry - Farranfore,Ireland,273
+JAN,2017,Khania - Souda,Greece,1120
+JAN,2017,Kiev - Boryspil,Ukraine,6387
+JAN,2017,Kos,Greece,266
+JAN,2017,Krakow - Balice,Poland,3547
+JAN,2017,Lodz - Lublinek,Poland,348
+JAN,2017,London - City,United Kingdom,6239
+JAN,2017,London - Gatwick,United Kingdom,19635
+JAN,2017,London - Heathrow,United Kingdom,37335
+JAN,2017,London - Luton,United Kingdom,9495
+JAN,2017,London - Stansted,United Kingdom,13828
+JAN,2017,Londonderry - Eglinton,United Kingdom,148
+JAN,2017,Lublin,Poland,178
+JAN,2017,Maastricht-Aachen,Netherlands,426
+JAN,2017,Manchester,United Kingdom,13929
+JAN,2017,Mikonos,Greece,179
+JAN,2017,Olsztyn-Mazury,Poland,68
+JAN,2017,Oslo - Gardermoen,Norway,18647
+JAN,2017,Poznan - Lawica,Poland,1190
+JAN,2017,Radom,Poland,87
+JAN,2017,Rodos,Greece,660
+JAN,2017,Rotterdam,Netherlands,1611
+JAN,2017,Rzeszow - Jasionka,Poland,571
+JAN,2017,Santorini,Greece,350
+JAN,2017,Shannon,Ireland,1653
+JAN,2017,Skiathos,Greece,41
+JAN,2017,Southampton,United Kingdom,3102
+JAN,2017,Stavanger,Norway,5105
+JAN,2017,Stockholm - Arlanda,Sweden,17981
+JAN,2017,Stockholm - Bromma,Sweden,3953
+JAN,2017,Szczecin - Goleniów,Poland,401
+JAN,2017,Thessaloniki,Greece,3489
+JAN,2017,Trondheim,Norway,4498
+JAN,2017,Warszawa - Chopina,Poland,12319
+JAN,2017,Warszawa - Modlin,Poland,1509
+JAN,2017,Waterford,Ireland,22
+JAN,2017,Weston,Ireland,68
+JAN,2017,Wroclaw - Strachowice,Poland,1987
+JAN,2017,Yerevan,Armenia,1550
+JAN,2017,Zakinthos,Greece,136
+JAN,2017,Zielona Gora - Babimost,Poland,69
+JAN,2018,Aberdeen,United Kingdom,5079
+JAN,2018,Aktion,Greece,92
+JAN,2018,Alesund,Norway,1164
+JAN,2018,Alta,Norway,689
+JAN,2018,Amsterdam - Schiphol,Netherlands,37941
+JAN,2018,Andenes,Norway,351
+JAN,2018,Athens,Greece,12330
+JAN,2018,Bardufoss,Norway,417
+JAN,2018,Batsfjord,Norway,195
+JAN,2018,Belfast - Aldergrove,United Kingdom,3380
+JAN,2018,Belfast - City Airport,United Kingdom,2750
+JAN,2018,Bergen,Norway,6345
+JAN,2018,Berlevåg,Norway,145
+JAN,2018,Biggin Hill,United Kingdom,1151
+JAN,2018,Birmingham,United Kingdom,7575
+JAN,2018,Bodø,Norway,3231
+JAN,2018,Bristol,United Kingdom,4563
+JAN,2018,Bronnoysund Bronnoy,Norway,558
+JAN,2018,Bydgoszcz,Poland,284
+JAN,2018,Connaught,Ireland,400
+JAN,2018,Corfu,Greece,383
+JAN,2018,Cork,Ireland,1635
+JAN,2018,Donegal,Ireland,145
+JAN,2018,Dublin,Ireland,16506
+JAN,2018,East Midlands,United Kingdom,4580
+JAN,2018,Edinburgh,United Kingdom,8728
+JAN,2018,Farnborough,United Kingdom,1971
+JAN,2018,Florø,Norway,685
+JAN,2018,Forde Bringeland,Norway,349
+JAN,2018,Gdansk,Poland,3156
+JAN,2018,Glasgow,United Kingdom,6442
+JAN,2018,Groningen,Netherlands,737
+JAN,2018,Göteborg,Sweden,5600
+JAN,2018,Hammerfest,Norway,852
+JAN,2018,Harstad - Narvik Evenes,Norway,824
+JAN,2018,Haugesund,Norway,459
+JAN,2018,Helsinki - Vantaa,Finland,15060
+JAN,2018,Heraklion,Greece,1142
+JAN,2018,Honningsvåg Valan,Norway,153
+JAN,2018,Katowice - Pyrzowice,Poland,2101
+JAN,2018,Kefallinia,Greece,74
+JAN,2018,Kerry - Farranfore,Ireland,308
+JAN,2018,Khania - Souda,Greece,729
+JAN,2018,Kiev - Boryspil,Ukraine,6950
+JAN,2018,Kirkenes Høybuktmoen,Norway,608
+JAN,2018,Kos,Greece,326
+JAN,2018,Krakow - Balice,Poland,3965
+JAN,2018,Kristiansand Kjevik,Norway,1194
+JAN,2018,Kristiansund Kvernberget,Norway,826
+JAN,2018,Lakselv Banak,Norway,204
+JAN,2018,Leknes,Norway,609
+JAN,2018,Lelystad,Netherlands,149
+JAN,2018,Lodz - Lublinek,Poland,234
+JAN,2018,London - City,United Kingdom,6328
+JAN,2018,London - Gatwick,United Kingdom,19087
+JAN,2018,London - Heathrow,United Kingdom,38277
+JAN,2018,London - Luton,United Kingdom,9360
+JAN,2018,London - Stansted,United Kingdom,14264
+JAN,2018,Londonderry - Eglinton,United Kingdom,225
+JAN,2018,Lublin,Poland,355
+JAN,2018,Maastricht-Aachen,Netherlands,561
+JAN,2018,Manchester,United Kingdom,13542
+JAN,2018,Mehamn,Norway,202
+JAN,2018,Mikonos,Greece,74
+JAN,2018,Mo i Rana Røssvoll,Norway,473
+JAN,2018,Molde Årø,Norway,564
+JAN,2018,Mosjøen Kjærstad,Norway,349
+JAN,2018,Namsos Høknesøra,Norway,238
+JAN,2018,Newcastle,United Kingdom,2868
+JAN,2018,Olsztyn-Mazury,Poland,68
+JAN,2018,Orsta¿Volda Hovden,Norway,426
+JAN,2018,Oslo - Gardermoen,Norway,19006
+JAN,2018,Poznan - Lawica,Poland,1598
+JAN,2018,Radom,Poland,31
+JAN,2018,Rodos,Greece,648
+JAN,2018,Roros,Norway,103
+JAN,2018,Rorvik Ryum,Norway,207
+JAN,2018,Rost,Norway,108
+JAN,2018,Rotterdam,Netherlands,1399
+JAN,2018,Rzeszow - Jasionka,Poland,585
+JAN,2018,Sandane  Anda,Norway,209
+JAN,2018,Sandnessjøen Stokka,Norway,271
+JAN,2018,Santorini,Greece,325
+JAN,2018,Shannon,Ireland,1486
+JAN,2018,Skiathos,Greece,48
+JAN,2018,Sogndal Haukåsen,Norway,443
+JAN,2018,Sorkjosen,Norway,142
+JAN,2018,Southampton,United Kingdom,2958
+JAN,2018,Stavanger,Norway,4748
+JAN,2018,Stockholm - Arlanda,Sweden,18507
+JAN,2018,Stockholm - Bromma,Sweden,4157
+JAN,2018,Stokmarknes Skagen,Norway,610
+JAN,2018,Svalbard Longyear,Norway,108
+JAN,2018,Svolvær Helle,Norway,468
+JAN,2018,Szczecin - Goleniów,Poland,457
+JAN,2018,Thessaloniki,Greece,2795
+JAN,2018,Tromsø,Norway,3719
+JAN,2018,Trondheim,Norway,4238
+JAN,2018,Vadsø,Norway,573
+JAN,2018,Vardø Svartnes,Norway,190
+JAN,2018,Værøy,Norway,100
+JAN,2018,Warszawa - Chopina,Poland,13669
+JAN,2018,Warszawa - Modlin,Poland,1583
+JAN,2018,Waterford,Ireland,20
+JAN,2018,Weston,Ireland,48
+JAN,2018,Wroclaw - Strachowice,Poland,2237
+JAN,2018,Yerevan,Armenia,1685
+JAN,2018,Zakinthos,Greece,132
+JAN,2018,Zielona Gora - Babimost,Poland,76
+JAN,2019,Aberdeen,United Kingdom,3903
+JAN,2019,Aktion,Greece,64
+JAN,2019,Alesund,Norway,1093
+JAN,2019,Alta,Norway,711
+JAN,2019,Amsterdam - Schiphol,Netherlands,37989
+JAN,2019,Andenes,Norway,261
+JAN,2019,Athens,Greece,13545
+JAN,2019,Bardufoss,Norway,264
+JAN,2019,Batsfjord,Norway,192
+JAN,2019,Belfast - Aldergrove,United Kingdom,3914
+JAN,2019,Belfast - City Airport,United Kingdom,2614
+JAN,2019,Bergen,Norway,6723
+JAN,2019,Berlevåg,Norway,148
+JAN,2019,Biggin Hill,United Kingdom,1080
+JAN,2019,Birmingham,United Kingdom,7588
+JAN,2019,Bodø,Norway,3169
+JAN,2019,Bristol,United Kingdom,4821
+JAN,2019,Bronnoysund Bronnoy,Norway,561
+JAN,2019,Bydgoszcz,Poland,314
+JAN,2019,Connaught,Ireland,424
+JAN,2019,Corfu,Greece,335
+JAN,2019,Cork,Ireland,1689
+JAN,2019,Donegal,Ireland,149
+JAN,2019,Dublin,Ireland,17071
+JAN,2019,East Midlands,United Kingdom,4691
+JAN,2019,Edinburgh,United Kingdom,8957
+JAN,2019,Farnborough,United Kingdom,2042
+JAN,2019,Florø,Norway,648
+JAN,2019,Forde Bringeland,Norway,329
+JAN,2019,Gdansk,Poland,3124
+JAN,2019,Glasgow,United Kingdom,5780
+JAN,2019,Groningen,Netherlands,702
+JAN,2019,Göteborg,Sweden,5372
+JAN,2019,Hammerfest,Norway,799
+JAN,2019,Harstad - Narvik Evenes,Norway,859
+JAN,2019,Haugesund,Norway,457
+JAN,2019,Helsinki - Vantaa,Finland,15736
+JAN,2019,Heraklion,Greece,1141
+JAN,2019,Honningsvåg Valan,Norway,171
+JAN,2019,Katowice - Pyrzowice,Poland,2120
+JAN,2019,Kefallinia,Greece,107
+JAN,2019,Kerry - Farranfore,Ireland,311
+JAN,2019,Khania - Souda,Greece,876
+JAN,2019,Kiev - Boryspil,Ukraine,7604
+JAN,2019,Kirkenes Høybuktmoen,Norway,676
+JAN,2019,Kos,Greece,367
+JAN,2019,Krakow - Balice,Poland,4357
+JAN,2019,Kristiansand Kjevik,Norway,1322
+JAN,2019,Kristiansund Kvernberget,Norway,765
+JAN,2019,Lakselv Banak,Norway,213
+JAN,2019,Leknes,Norway,458
+JAN,2019,Lelystad,Netherlands,208
+JAN,2019,Lodz - Lublinek,Poland,268
+JAN,2019,London - City,United Kingdom,6567
+JAN,2019,London - Gatwick,United Kingdom,19781
+JAN,2019,London - Heathrow,United Kingdom,37939
+JAN,2019,London - Luton,United Kingdom,9837
+JAN,2019,London - Stansted,United Kingdom,14975
+JAN,2019,Londonderry - Eglinton,United Kingdom,249
+JAN,2019,Lublin,Poland,273
+JAN,2019,Maastricht-Aachen,Netherlands,586
+JAN,2019,Manchester,United Kingdom,13682
+JAN,2019,Mehamn,Norway,213
+JAN,2019,Mikonos,Greece,137
+JAN,2019,Mo i Rana Røssvoll,Norway,403
+JAN,2019,Molde Årø,Norway,453
+JAN,2019,Mosjøen Kjærstad,Norway,301
+JAN,2019,Namsos Høknesøra,Norway,221
+JAN,2019,Newcastle,United Kingdom,2730
+JAN,2019,Olsztyn-Mazury,Poland,109
+JAN,2019,Orsta¿Volda Hovden,Norway,384
+JAN,2019,Oslo - Gardermoen,Norway,19474
+JAN,2019,Poznan - Lawica,Poland,1513
+JAN,2019,Radom,Poland,6
+JAN,2019,Rodos,Greece,568
+JAN,2019,Roros,Norway,97
+JAN,2019,Rorvik Ryum,Norway,195
+JAN,2019,Rost,Norway,102
+JAN,2019,Rotterdam,Netherlands,1396
+JAN,2019,Rzeszow - Jasionka,Poland,620
+JAN,2019,Sandane  Anda,Norway,178
+JAN,2019,Sandnessjøen Stokka,Norway,348
+JAN,2019,Santorini,Greece,388
+JAN,2019,Shannon,Ireland,1456
+JAN,2019,Skiathos,Greece,38
+JAN,2019,Sligo,Ireland,1
+JAN,2019,Sogndal Haukåsen,Norway,402
+JAN,2019,Sorkjosen,Norway,151
+JAN,2019,Southampton,United Kingdom,2585
+JAN,2019,Stavanger,Norway,5219
+JAN,2019,Stockholm - Arlanda,Sweden,18295
+JAN,2019,Stockholm - Bromma,Sweden,4250
+JAN,2019,Stokmarknes Skagen,Norway,495
+JAN,2019,Svalbard Longyear,Norway,118
+JAN,2019,Svolvær Helle,Norway,315
+JAN,2019,Szczecin - Goleniów,Poland,460
+JAN,2019,Thessaloniki,Greece,3501
+JAN,2019,Tromsø,Norway,3568
+JAN,2019,Trondheim,Norway,4290
+JAN,2019,Vadsø,Norway,578
+JAN,2019,Vardø Svartnes,Norway,210
+JAN,2019,Værøy,Norway,89
+JAN,2019,Warszawa - Chopina,Poland,14829
+JAN,2019,Warszawa - Modlin,Poland,1576
+JAN,2019,Waterford,Ireland,22
+JAN,2019,Weston,Ireland,90
+JAN,2019,Wroclaw - Strachowice,Poland,2325
+JAN,2019,Yerevan,Armenia,1842
+JAN,2019,Zakinthos,Greece,90
+JAN,2019,Zielona Gora - Babimost,Poland,69
 JAN,2020,Aberdeen,United Kingdom,3901
 JAN,2020,Aktion,Greece,68
 JAN,2020,Alesund,Norway,1109
@@ -1405,6 +3198,365 @@ JAN,2022,Wroclaw - Strachowice,Poland,1459
 JAN,2022,Yerevan,Armenia,1621
 JAN,2022,Zakinthos,Greece,80
 JAN,2022,Zielona Gora - Babimost,Poland,75
+JUL,2016,Aberdeen,United Kingdom,5298
+JUL,2016,Aktion,Greece,941
+JUL,2016,Amsterdam - Schiphol,Netherlands,46349
+JUL,2016,Athens,Greece,20679
+JUL,2016,Belfast - Aldergrove,United Kingdom,4219
+JUL,2016,Belfast - City Airport,United Kingdom,3951
+JUL,2016,Bergen,Norway,6950
+JUL,2016,Biggin Hill,United Kingdom,1478
+JUL,2016,Birmingham,United Kingdom,10689
+JUL,2016,Bristol,United Kingdom,6472
+JUL,2016,Bydgoszcz,Poland,366
+JUL,2016,Connaught,Ireland,723
+JUL,2016,Corfu,Greece,4331
+JUL,2016,Cork,Ireland,2564
+JUL,2016,Donegal,Ireland,182
+JUL,2016,Dublin,Ireland,20784
+JUL,2016,East Midlands,United Kingdom,6514
+JUL,2016,Edinburgh,United Kingdom,11768
+JUL,2016,Farnborough,United Kingdom,2458
+JUL,2016,Gdansk,Poland,3559
+JUL,2016,Glasgow,United Kingdom,9006
+JUL,2016,Groningen,Netherlands,748
+JUL,2016,Göteborg,Sweden,5547
+JUL,2016,Haugesund,Norway,520
+JUL,2016,Helsinki - Vantaa,Finland,13204
+JUL,2016,Heraklion,Greece,8713
+JUL,2016,Katowice - Pyrzowice,Poland,3299
+JUL,2016,Kefallinia,Greece,1120
+JUL,2016,Kerry - Farranfore,Ireland,413
+JUL,2016,Khania - Souda,Greece,3707
+JUL,2016,Kiev - Boryspil,Ukraine,7360
+JUL,2016,Kos,Greece,2766
+JUL,2016,Krakow - Balice,Poland,4146
+JUL,2016,Lodz - Lublinek,Poland,384
+JUL,2016,London - City,United Kingdom,7246
+JUL,2016,London - Gatwick,United Kingdom,27837
+JUL,2016,London - Heathrow,United Kingdom,41795
+JUL,2016,London - Luton,United Kingdom,12872
+JUL,2016,London - Stansted,United Kingdom,16512
+JUL,2016,Londonderry - Eglinton,United Kingdom,190
+JUL,2016,Lublin,Poland,322
+JUL,2016,Maastricht-Aachen,Netherlands,700
+JUL,2016,Manchester,United Kingdom,19260
+JUL,2016,Mikonos,Greece,3373
+JUL,2016,Olsztyn-Mazury,Poland,189
+JUL,2016,Oslo - Gardermoen,Norway,19587
+JUL,2016,Poznan - Lawica,Poland,1884
+JUL,2016,Radom,Poland,183
+JUL,2016,Rodos,Greece,6582
+JUL,2016,Rotterdam,Netherlands,2344
+JUL,2016,Rzeszow - Jasionka,Poland,749
+JUL,2016,Santorini,Greece,2672
+JUL,2016,Shannon,Ireland,2220
+JUL,2016,Skiathos,Greece,948
+JUL,2016,Sligo,Ireland,3
+JUL,2016,Southampton,United Kingdom,4088
+JUL,2016,Stavanger,Norway,5001
+JUL,2016,Stockholm - Arlanda,Sweden,18199
+JUL,2016,Stockholm - Bromma,Sweden,3109
+JUL,2016,Szczecin - Goleniów,Poland,468
+JUL,2016,Thessaloniki,Greece,5948
+JUL,2016,Trondheim,Norway,4263
+JUL,2016,Warszawa - Chopina,Poland,14366
+JUL,2016,Warszawa - Modlin,Poland,1729
+JUL,2016,Waterford,Ireland,52
+JUL,2016,Weston,Ireland,117
+JUL,2016,Wroclaw - Strachowice,Poland,2298
+JUL,2016,Yerevan,Armenia,1775
+JUL,2016,Zakinthos,Greece,2331
+JUL,2016,Zielona Gora - Babimost,Poland,83
+JUL,2017,Aberdeen,United Kingdom,5300
+JUL,2017,Aktion,Greece,1121
+JUL,2017,Amsterdam - Schiphol,Netherlands,47545
+JUL,2017,Athens,Greece,21662
+JUL,2017,Belfast - Aldergrove,United Kingdom,4626
+JUL,2017,Belfast - City Airport,United Kingdom,3331
+JUL,2017,Bergen,Norway,6690
+JUL,2017,Biggin Hill,United Kingdom,1684
+JUL,2017,Birmingham,United Kingdom,12199
+JUL,2017,Bristol,United Kingdom,6721
+JUL,2017,Bydgoszcz,Poland,302
+JUL,2017,Connaught,Ireland,686
+JUL,2017,Corfu,Greece,4306
+JUL,2017,Cork,Ireland,2670
+JUL,2017,Donegal,Ireland,172
+JUL,2017,Dublin,Ireland,21489
+JUL,2017,East Midlands,United Kingdom,6663
+JUL,2017,Edinburgh,United Kingdom,12318
+JUL,2017,Farnborough,United Kingdom,2495
+JUL,2017,Gdansk,Poland,3839
+JUL,2017,Glasgow,United Kingdom,9309
+JUL,2017,Groningen,Netherlands,765
+JUL,2017,Göteborg,Sweden,6031
+JUL,2017,Haugesund,Norway,495
+JUL,2017,Helsinki - Vantaa,Finland,14415
+JUL,2017,Heraklion,Greece,8972
+JUL,2017,Katowice - Pyrzowice,Poland,3863
+JUL,2017,Kefallinia,Greece,1176
+JUL,2017,Kerry - Farranfore,Ireland,414
+JUL,2017,Khania - Souda,Greece,3753
+JUL,2017,Kiev - Boryspil,Ukraine,8389
+JUL,2017,Kos,Greece,3195
+JUL,2017,Krakow - Balice,Poland,4481
+JUL,2017,Lodz - Lublinek,Poland,321
+JUL,2017,London - City,United Kingdom,6622
+JUL,2017,London - Gatwick,United Kingdom,28076
+JUL,2017,London - Heathrow,United Kingdom,41949
+JUL,2017,London - Luton,United Kingdom,13112
+JUL,2017,London - Stansted,United Kingdom,17898
+JUL,2017,Londonderry - Eglinton,United Kingdom,250
+JUL,2017,Lublin,Poland,433
+JUL,2017,Maastricht-Aachen,Netherlands,812
+JUL,2017,Manchester,United Kingdom,20366
+JUL,2017,Mikonos,Greece,3547
+JUL,2017,Olsztyn-Mazury,Poland,158
+JUL,2017,Oslo - Gardermoen,Norway,20442
+JUL,2017,Poznan - Lawica,Poland,1985
+JUL,2017,Radom,Poland,98
+JUL,2017,Rodos,Greece,6589
+JUL,2017,Rotterdam,Netherlands,2176
+JUL,2017,Rzeszow - Jasionka,Poland,888
+JUL,2017,Santorini,Greece,2874
+JUL,2017,Shannon,Ireland,2081
+JUL,2017,Skiathos,Greece,954
+JUL,2017,Sligo,Ireland,5
+JUL,2017,Southampton,United Kingdom,4280
+JUL,2017,Stavanger,Norway,4832
+JUL,2017,Stockholm - Arlanda,Sweden,19968
+JUL,2017,Stockholm - Bromma,Sweden,3110
+JUL,2017,Szczecin - Goleniów,Poland,579
+JUL,2017,Thessaloniki,Greece,6521
+JUL,2017,Trondheim,Norway,4254
+JUL,2017,Warszawa - Chopina,Poland,16279
+JUL,2017,Warszawa - Modlin,Poland,1677
+JUL,2017,Waterford,Ireland,50
+JUL,2017,Weston,Ireland,112
+JUL,2017,Wroclaw - Strachowice,Poland,2554
+JUL,2017,Yerevan,Armenia,2151
+JUL,2017,Zakinthos,Greece,2579
+JUL,2017,Zielona Gora - Babimost,Poland,72
+JUL,2018,Aberdeen,United Kingdom,4730
+JUL,2018,Aktion,Greece,1190
+JUL,2018,Alesund,Norway,1135
+JUL,2018,Alta,Norway,750
+JUL,2018,Amsterdam - Schiphol,Netherlands,46702
+JUL,2018,Andenes,Norway,441
+JUL,2018,Athens,Greece,24372
+JUL,2018,Bardufoss,Norway,277
+JUL,2018,Batsfjord,Norway,186
+JUL,2018,Belfast - Aldergrove,United Kingdom,4923
+JUL,2018,Belfast - City Airport,United Kingdom,3316
+JUL,2018,Bergen,Norway,6891
+JUL,2018,Berlevåg,Norway,127
+JUL,2018,Biggin Hill,United Kingdom,1923
+JUL,2018,Birmingham,United Kingdom,10728
+JUL,2018,Bodø,Norway,3047
+JUL,2018,Bristol,United Kingdom,6977
+JUL,2018,Bronnoysund Bronnoy,Norway,639
+JUL,2018,Bydgoszcz,Poland,410
+JUL,2018,Connaught,Ireland,690
+JUL,2018,Corfu,Greece,4886
+JUL,2018,Cork,Ireland,2589
+JUL,2018,Donegal,Ireland,185
+JUL,2018,Dublin,Ireland,22451
+JUL,2018,East Midlands,United Kingdom,6849
+JUL,2018,Edinburgh,United Kingdom,12531
+JUL,2018,Farnborough,United Kingdom,2965
+JUL,2018,Florø,Norway,695
+JUL,2018,Forde Bringeland,Norway,309
+JUL,2018,Gdansk,Poland,4205
+JUL,2018,Glasgow,United Kingdom,8969
+JUL,2018,Groningen,Netherlands,942
+JUL,2018,Göteborg,Sweden,5976
+JUL,2018,Hammerfest,Norway,997
+JUL,2018,Harstad - Narvik Evenes,Norway,818
+JUL,2018,Haugesund,Norway,493
+JUL,2018,Helsinki - Vantaa,Finland,16089
+JUL,2018,Heraklion,Greece,9608
+JUL,2018,Honningsvåg Valan,Norway,176
+JUL,2018,Katowice - Pyrzowice,Poland,4649
+JUL,2018,Kefallinia,Greece,1439
+JUL,2018,Kerry - Farranfore,Ireland,410
+JUL,2018,Khania - Souda,Greece,3632
+JUL,2018,Kiev - Boryspil,Ukraine,9181
+JUL,2018,Kirkenes Høybuktmoen,Norway,667
+JUL,2018,Kos,Greece,3664
+JUL,2018,Krakow - Balice,Poland,4862
+JUL,2018,Kristiansand Kjevik,Norway,1159
+JUL,2018,Kristiansund Kvernberget,Norway,699
+JUL,2018,Lakselv Banak,Norway,206
+JUL,2018,Leknes,Norway,593
+JUL,2018,Lelystad,Netherlands,259
+JUL,2018,Lodz - Lublinek,Poland,323
+JUL,2018,London - City,United Kingdom,6988
+JUL,2018,London - Gatwick,United Kingdom,27891
+JUL,2018,London - Heathrow,United Kingdom,41992
+JUL,2018,London - Luton,United Kingdom,13029
+JUL,2018,London - Stansted,United Kingdom,19190
+JUL,2018,Londonderry - Eglinton,United Kingdom,280
+JUL,2018,Lublin,Poland,394
+JUL,2018,Maastricht-Aachen,Netherlands,956
+JUL,2018,Manchester,United Kingdom,19905
+JUL,2018,Mehamn,Norway,202
+JUL,2018,Mikonos,Greece,4221
+JUL,2018,Mo i Rana Røssvoll,Norway,457
+JUL,2018,Molde Årø,Norway,463
+JUL,2018,Mosjøen Kjærstad,Norway,338
+JUL,2018,Namsos Høknesøra,Norway,234
+JUL,2018,Newcastle,United Kingdom,4721
+JUL,2018,Olsztyn-Mazury,Poland,167
+JUL,2018,Orsta¿Volda Hovden,Norway,336
+JUL,2018,Oslo - Gardermoen,Norway,21396
+JUL,2018,Poznan - Lawica,Poland,2615
+JUL,2018,Radom,Poland,35
+JUL,2018,Rodos,Greece,6889
+JUL,2018,Roros,Norway,69
+JUL,2018,Rorvik Ryum,Norway,210
+JUL,2018,Rost,Norway,105
+JUL,2018,Rotterdam,Netherlands,2585
+JUL,2018,Rzeszow - Jasionka,Poland,955
+JUL,2018,Sandane  Anda,Norway,175
+JUL,2018,Sandnessjøen Stokka,Norway,322
+JUL,2018,Santorini,Greece,3387
+JUL,2018,Shannon,Ireland,2274
+JUL,2018,Skiathos,Greece,939
+JUL,2018,Sligo,Ireland,8
+JUL,2018,Sogndal Haukåsen,Norway,470
+JUL,2018,Sorkjosen,Norway,134
+JUL,2018,Southampton,United Kingdom,3582
+JUL,2018,Stavanger,Norway,4913
+JUL,2018,Stockholm - Arlanda,Sweden,19399
+JUL,2018,Stockholm - Bromma,Sweden,3368
+JUL,2018,Stokmarknes Skagen,Norway,425
+JUL,2018,Svalbard Longyear,Norway,271
+JUL,2018,Svolvær Helle,Norway,452
+JUL,2018,Szczecin - Goleniów,Poland,625
+JUL,2018,Thessaloniki,Greece,6817
+JUL,2018,Tromsø,Norway,3511
+JUL,2018,Trondheim,Norway,4241
+JUL,2018,Vadsø,Norway,541
+JUL,2018,Vardø Svartnes,Norway,185
+JUL,2018,Værøy,Norway,107
+JUL,2018,Warszawa - Chopina,Poland,17827
+JUL,2018,Warszawa - Modlin,Poland,1773
+JUL,2018,Waterford,Ireland,37
+JUL,2018,Weston,Ireland,130
+JUL,2018,Wroclaw - Strachowice,Poland,3087
+JUL,2018,Yerevan,Armenia,2318
+JUL,2018,Zakinthos,Greece,2700
+JUL,2018,Zielona Gora - Babimost,Poland,79
+JUL,2019,Aberdeen,United Kingdom,4355
+JUL,2019,Aktion,Greece,1235
+JUL,2019,Alesund,Norway,1126
+JUL,2019,Alta,Norway,666
+JUL,2019,Amsterdam - Schiphol,Netherlands,45883
+JUL,2019,Andenes,Norway,328
+JUL,2019,Athens,Greece,25623
+JUL,2019,Bardufoss,Norway,335
+JUL,2019,Batsfjord,Norway,199
+JUL,2019,Belfast - Aldergrove,United Kingdom,4838
+JUL,2019,Belfast - City Airport,United Kingdom,3345
+JUL,2019,Bergen,Norway,7363
+JUL,2019,Berlevåg,Norway,144
+JUL,2019,Biggin Hill,United Kingdom,1867
+JUL,2019,Birmingham,United Kingdom,10747
+JUL,2019,Bodø,Norway,3001
+JUL,2019,Bristol,United Kingdom,6715
+JUL,2019,Bronnoysund Bronnoy,Norway,679
+JUL,2019,Bydgoszcz,Poland,461
+JUL,2019,Connaught,Ireland,673
+JUL,2019,Corfu,Greece,4718
+JUL,2019,Cork,Ireland,2724
+JUL,2019,Donegal,Ireland,175
+JUL,2019,Dublin,Ireland,22877
+JUL,2019,East Midlands,United Kingdom,6767
+JUL,2019,Edinburgh,United Kingdom,12553
+JUL,2019,Farnborough,United Kingdom,3247
+JUL,2019,Florø,Norway,741
+JUL,2019,Forde Bringeland,Norway,349
+JUL,2019,Gdansk,Poland,4311
+JUL,2019,Glasgow,United Kingdom,8357
+JUL,2019,Groningen,Netherlands,937
+JUL,2019,Göteborg,Sweden,5946
+JUL,2019,Hammerfest,Norway,812
+JUL,2019,Harstad - Narvik Evenes,Norway,966
+JUL,2019,Haugesund,Norway,495
+JUL,2019,Helsinki - Vantaa,Finland,16380
+JUL,2019,Heraklion,Greece,8874
+JUL,2019,Honningsvåg Valan,Norway,197
+JUL,2019,Katowice - Pyrzowice,Poland,4554
+JUL,2019,Kefallinia,Greece,1445
+JUL,2019,Kerry - Farranfore,Ireland,554
+JUL,2019,Khania - Souda,Greece,3507
+JUL,2019,Kiev - Boryspil,Ukraine,11107
+JUL,2019,Kirkenes Høybuktmoen,Norway,693
+JUL,2019,Kos,Greece,3489
+JUL,2019,Krakow - Balice,Poland,5722
+JUL,2019,Kristiansand Kjevik,Norway,1262
+JUL,2019,Kristiansund Kvernberget,Norway,733
+JUL,2019,Lakselv Banak,Norway,215
+JUL,2019,Leknes,Norway,519
+JUL,2019,Lelystad,Netherlands,205
+JUL,2019,Lodz - Lublinek,Poland,374
+JUL,2019,London - City,United Kingdom,7243
+JUL,2019,London - Gatwick,United Kingdom,27580
+JUL,2019,London - Heathrow,United Kingdom,42235
+JUL,2019,London - Luton,United Kingdom,13467
+JUL,2019,London - Stansted,United Kingdom,18701
+JUL,2019,Londonderry - Eglinton,United Kingdom,392
+JUL,2019,Lublin,Poland,274
+JUL,2019,Maastricht-Aachen,Netherlands,1050
+JUL,2019,Manchester,United Kingdom,20358
+JUL,2019,Mehamn,Norway,212
+JUL,2019,Mikonos,Greece,4396
+JUL,2019,Mo i Rana Røssvoll,Norway,332
+JUL,2019,Molde Årø,Norway,497
+JUL,2019,Mosjøen Kjærstad,Norway,349
+JUL,2019,Namsos Høknesøra,Norway,234
+JUL,2019,Newcastle,United Kingdom,4449
+JUL,2019,Olsztyn-Mazury,Poland,174
+JUL,2019,Orsta¿Volda Hovden,Norway,350
+JUL,2019,Oslo - Gardermoen,Norway,21569
+JUL,2019,Poznan - Lawica,Poland,2387
+JUL,2019,Radom,Poland,1
+JUL,2019,Rodos,Greece,6537
+JUL,2019,Roros,Norway,124
+JUL,2019,Rorvik Ryum,Norway,198
+JUL,2019,Rost,Norway,102
+JUL,2019,Rotterdam,Netherlands,2626
+JUL,2019,Rzeszow - Jasionka,Poland,797
+JUL,2019,Sandane  Anda,Norway,212
+JUL,2019,Sandnessjøen Stokka,Norway,345
+JUL,2019,Santorini,Greece,3415
+JUL,2019,Shannon,Ireland,2227
+JUL,2019,Skiathos,Greece,987
+JUL,2019,Sogndal Haukåsen,Norway,416
+JUL,2019,Sorkjosen,Norway,141
+JUL,2019,Southampton,United Kingdom,3409
+JUL,2019,Stavanger,Norway,5524
+JUL,2019,Stockholm - Arlanda,Sweden,19065
+JUL,2019,Stockholm - Bromma,Sweden,3263
+JUL,2019,Stokmarknes Skagen,Norway,349
+JUL,2019,Svalbard Longyear,Norway,253
+JUL,2019,Svolvær Helle,Norway,354
+JUL,2019,Szczecin - Goleniów,Poland,537
+JUL,2019,Thessaloniki,Greece,6467
+JUL,2019,Tromsø,Norway,3262
+JUL,2019,Trondheim,Norway,4097
+JUL,2019,Vadsø,Norway,528
+JUL,2019,Vardø Svartnes,Norway,197
+JUL,2019,Værøy,Norway,103
+JUL,2019,Warszawa - Chopina,Poland,18018
+JUL,2019,Warszawa - Modlin,Poland,1818
+JUL,2019,Waterford,Ireland,10
+JUL,2019,Weston,Ireland,91
+JUL,2019,Wroclaw - Strachowice,Poland,3115
+JUL,2019,Yerevan,Armenia,2841
+JUL,2019,Zakinthos,Greece,2791
+JUL,2019,Zielona Gora - Babimost,Poland,112
 JUL,2020,Aberdeen,United Kingdom,1667
 JUL,2020,Aktion,Greece,435
 JUL,2020,Alesund,Norway,644
@@ -1624,6 +3776,366 @@ JUL,2021,Wroclaw - Strachowice,Poland,2124
 JUL,2021,Yerevan,Armenia,2354
 JUL,2021,Zakinthos,Greece,2171
 JUL,2021,Zielona Gora - Babimost,Poland,81
+JUN,2016,Aberdeen,United Kingdom,5418
+JUN,2016,Aktion,Greece,744
+JUN,2016,Amsterdam - Schiphol,Netherlands,43601
+JUN,2016,Athens,Greece,17952
+JUN,2016,Belfast - Aldergrove,United Kingdom,4240
+JUN,2016,Belfast - City Airport,United Kingdom,3945
+JUN,2016,Bergen,Norway,7879
+JUN,2016,Biggin Hill,United Kingdom,1290
+JUN,2016,Birmingham,United Kingdom,10313
+JUN,2016,Bristol,United Kingdom,6245
+JUN,2016,Bydgoszcz,Poland,384
+JUN,2016,Connaught,Ireland,693
+JUN,2016,Corfu,Greece,3391
+JUN,2016,Cork,Ireland,2528
+JUN,2016,Donegal,Ireland,178
+JUN,2016,Dublin,Ireland,19995
+JUN,2016,East Midlands,United Kingdom,6578
+JUN,2016,Edinburgh,United Kingdom,11157
+JUN,2016,Farnborough,United Kingdom,2454
+JUN,2016,Gdansk,Poland,3449
+JUN,2016,Glasgow,United Kingdom,8751
+JUN,2016,Groningen,Netherlands,861
+JUN,2016,Göteborg,Sweden,6120
+JUN,2016,Haugesund,Norway,587
+JUN,2016,Helsinki - Vantaa,Finland,14089
+JUN,2016,Heraklion,Greece,6966
+JUN,2016,Katowice - Pyrzowice,Poland,2952
+JUN,2016,Kefallinia,Greece,821
+JUN,2016,Kerry - Farranfore,Ireland,400
+JUN,2016,Khania - Souda,Greece,3280
+JUN,2016,Kiev - Boryspil,Ukraine,6650
+JUN,2016,Kos,Greece,2198
+JUN,2016,Krakow - Balice,Poland,4151
+JUN,2016,Lodz - Lublinek,Poland,427
+JUN,2016,London - City,United Kingdom,7589
+JUN,2016,London - Gatwick,United Kingdom,25778
+JUN,2016,London - Heathrow,United Kingdom,40103
+JUN,2016,London - Luton,United Kingdom,12366
+JUN,2016,London - Stansted,United Kingdom,15825
+JUN,2016,Londonderry - Eglinton,United Kingdom,202
+JUN,2016,Lublin,Poland,291
+JUN,2016,Maastricht-Aachen,Netherlands,920
+JUN,2016,Manchester,United Kingdom,18041
+JUN,2016,Mikonos,Greece,1849
+JUN,2016,Olsztyn-Mazury,Poland,123
+JUN,2016,Oslo - Gardermoen,Norway,21700
+JUN,2016,Poznan - Lawica,Poland,1953
+JUN,2016,Radom,Poland,208
+JUN,2016,Rodos,Greece,5388
+JUN,2016,Rotterdam,Netherlands,2494
+JUN,2016,Rzeszow - Jasionka,Poland,730
+JUN,2016,Santorini,Greece,2092
+JUN,2016,Shannon,Ireland,2246
+JUN,2016,Skiathos,Greece,649
+JUN,2016,Sligo,Ireland,6
+JUN,2016,Southampton,United Kingdom,3795
+JUN,2016,Stavanger,Norway,6182
+JUN,2016,Stockholm - Arlanda,Sweden,19709
+JUN,2016,Stockholm - Bromma,Sweden,4631
+JUN,2016,Szczecin - Goleniów,Poland,504
+JUN,2016,Thessaloniki,Greece,5374
+JUN,2016,Trondheim,Norway,5039
+JUN,2016,Warszawa - Chopina,Poland,14243
+JUN,2016,Warszawa - Modlin,Poland,1615
+JUN,2016,Waterford,Ireland,67
+JUN,2016,Weston,Ireland,113
+JUN,2016,Wroclaw - Strachowice,Poland,2336
+JUN,2016,Yerevan,Armenia,1437
+JUN,2016,Zakinthos,Greece,1802
+JUN,2016,Zielona Gora - Babimost,Poland,77
+JUN,2017,Aberdeen,United Kingdom,5379
+JUN,2017,Aktion,Greece,861
+JUN,2017,Amsterdam - Schiphol,Netherlands,45141
+JUN,2017,Athens,Greece,18909
+JUN,2017,Belfast - Aldergrove,United Kingdom,4459
+JUN,2017,Belfast - City Airport,United Kingdom,3377
+JUN,2017,Bergen,Norway,7619
+JUN,2017,Biggin Hill,United Kingdom,1541
+JUN,2017,Birmingham,United Kingdom,11679
+JUN,2017,Bristol,United Kingdom,6722
+JUN,2017,Bydgoszcz,Poland,348
+JUN,2017,Connaught,Ireland,667
+JUN,2017,Corfu,Greece,3368
+JUN,2017,Cork,Ireland,2640
+JUN,2017,Donegal,Ireland,162
+JUN,2017,Dublin,Ireland,20736
+JUN,2017,East Midlands,United Kingdom,6617
+JUN,2017,Edinburgh,United Kingdom,11816
+JUN,2017,Farnborough,United Kingdom,2618
+JUN,2017,Gdansk,Poland,3798
+JUN,2017,Glasgow,United Kingdom,8948
+JUN,2017,Groningen,Netherlands,844
+JUN,2017,Göteborg,Sweden,6594
+JUN,2017,Haugesund,Norway,512
+JUN,2017,Helsinki - Vantaa,Finland,15264
+JUN,2017,Heraklion,Greece,7386
+JUN,2017,Katowice - Pyrzowice,Poland,3358
+JUN,2017,Kefallinia,Greece,851
+JUN,2017,Kerry - Farranfore,Ireland,384
+JUN,2017,Khania - Souda,Greece,3328
+JUN,2017,Kiev - Boryspil,Ukraine,7867
+JUN,2017,Kos,Greece,2598
+JUN,2017,Krakow - Balice,Poland,4445
+JUN,2017,Lodz - Lublinek,Poland,444
+JUN,2017,London - City,United Kingdom,7122
+JUN,2017,London - Gatwick,United Kingdom,26797
+JUN,2017,London - Heathrow,United Kingdom,40632
+JUN,2017,London - Luton,United Kingdom,12577
+JUN,2017,London - Stansted,United Kingdom,16900
+JUN,2017,Londonderry - Eglinton,United Kingdom,207
+JUN,2017,Lublin,Poland,384
+JUN,2017,Maastricht-Aachen,Netherlands,738
+JUN,2017,Manchester,United Kingdom,19267
+JUN,2017,Mikonos,Greece,2167
+JUN,2017,Olsztyn-Mazury,Poland,148
+JUN,2017,Oslo - Gardermoen,Norway,22141
+JUN,2017,Poznan - Lawica,Poland,1845
+JUN,2017,Radom,Poland,129
+JUN,2017,Rodos,Greece,5512
+JUN,2017,Rotterdam,Netherlands,2298
+JUN,2017,Rzeszow - Jasionka,Poland,745
+JUN,2017,Santorini,Greece,2415
+JUN,2017,Shannon,Ireland,2177
+JUN,2017,Skiathos,Greece,707
+JUN,2017,Sligo,Ireland,5
+JUN,2017,Southampton,United Kingdom,4106
+JUN,2017,Stavanger,Norway,5603
+JUN,2017,Stockholm - Arlanda,Sweden,21912
+JUN,2017,Stockholm - Bromma,Sweden,4490
+JUN,2017,Szczecin - Goleniów,Poland,525
+JUN,2017,Thessaloniki,Greece,5898
+JUN,2017,Trondheim,Norway,4965
+JUN,2017,Warszawa - Chopina,Poland,15294
+JUN,2017,Warszawa - Modlin,Poland,1653
+JUN,2017,Waterford,Ireland,39
+JUN,2017,Weston,Ireland,117
+JUN,2017,Wroclaw - Strachowice,Poland,2436
+JUN,2017,Yerevan,Armenia,1789
+JUN,2017,Zakinthos,Greece,2037
+JUN,2017,Zielona Gora - Babimost,Poland,53
+JUN,2018,Aberdeen,United Kingdom,4745
+JUN,2018,Aktion,Greece,859
+JUN,2018,Alesund,Norway,1265
+JUN,2018,Alta,Norway,762
+JUN,2018,Amsterdam - Schiphol,Netherlands,44702
+JUN,2018,Andenes,Norway,503
+JUN,2018,Athens,Greece,21331
+JUN,2018,Bardufoss,Norway,236
+JUN,2018,Batsfjord,Norway,175
+JUN,2018,Belfast - Aldergrove,United Kingdom,4747
+JUN,2018,Belfast - City Airport,United Kingdom,3242
+JUN,2018,Bergen,Norway,7573
+JUN,2018,Berlevåg,Norway,131
+JUN,2018,Biggin Hill,United Kingdom,1812
+JUN,2018,Birmingham,United Kingdom,10498
+JUN,2018,Bodø,Norway,3355
+JUN,2018,Bristol,United Kingdom,6768
+JUN,2018,Bronnoysund Bronnoy,Norway,610
+JUN,2018,Bydgoszcz,Poland,422
+JUN,2018,Connaught,Ireland,691
+JUN,2018,Corfu,Greece,4100
+JUN,2018,Cork,Ireland,2493
+JUN,2018,Donegal,Ireland,172
+JUN,2018,Dublin,Ireland,21685
+JUN,2018,East Midlands,United Kingdom,6650
+JUN,2018,Edinburgh,United Kingdom,11986
+JUN,2018,Farnborough,United Kingdom,3043
+JUN,2018,Florø,Norway,639
+JUN,2018,Forde Bringeland,Norway,327
+JUN,2018,Gdansk,Poland,4139
+JUN,2018,Glasgow,United Kingdom,8686
+JUN,2018,Groningen,Netherlands,1024
+JUN,2018,Göteborg,Sweden,6286
+JUN,2018,Hammerfest,Norway,931
+JUN,2018,Harstad - Narvik Evenes,Norway,862
+JUN,2018,Haugesund,Norway,585
+JUN,2018,Helsinki - Vantaa,Finland,16422
+JUN,2018,Heraklion,Greece,8370
+JUN,2018,Honningsvåg Valan,Norway,184
+JUN,2018,Katowice - Pyrzowice,Poland,4265
+JUN,2018,Kefallinia,Greece,1117
+JUN,2018,Kerry - Farranfore,Ireland,448
+JUN,2018,Khania - Souda,Greece,3252
+JUN,2018,Kiev - Boryspil,Ukraine,8812
+JUN,2018,Kirkenes Høybuktmoen,Norway,638
+JUN,2018,Kos,Greece,3177
+JUN,2018,Krakow - Balice,Poland,4795
+JUN,2018,Kristiansand Kjevik,Norway,1371
+JUN,2018,Kristiansund Kvernberget,Norway,824
+JUN,2018,Lakselv Banak,Norway,258
+JUN,2018,Leknes,Norway,568
+JUN,2018,Lelystad,Netherlands,261
+JUN,2018,Lodz - Lublinek,Poland,319
+JUN,2018,London - City,United Kingdom,7171
+JUN,2018,London - Gatwick,United Kingdom,26604
+JUN,2018,London - Heathrow,United Kingdom,40526
+JUN,2018,London - Luton,United Kingdom,12418
+JUN,2018,London - Stansted,United Kingdom,18340
+JUN,2018,Londonderry - Eglinton,United Kingdom,204
+JUN,2018,Lublin,Poland,405
+JUN,2018,Maastricht-Aachen,Netherlands,726
+JUN,2018,Manchester,United Kingdom,19096
+JUN,2018,Mehamn,Norway,194
+JUN,2018,Mikonos,Greece,2669
+JUN,2018,Mo i Rana Røssvoll,Norway,464
+JUN,2018,Molde Årø,Norway,547
+JUN,2018,Mosjøen Kjærstad,Norway,309
+JUN,2018,Namsos Høknesøra,Norway,244
+JUN,2018,Newcastle,United Kingdom,4625
+JUN,2018,Olsztyn-Mazury,Poland,182
+JUN,2018,Orsta¿Volda Hovden,Norway,418
+JUN,2018,Oslo - Gardermoen,Norway,22689
+JUN,2018,Poznan - Lawica,Poland,2580
+JUN,2018,Radom,Poland,72
+JUN,2018,Rodos,Greece,5872
+JUN,2018,Roros,Norway,100
+JUN,2018,Rorvik Ryum,Norway,191
+JUN,2018,Rost,Norway,104
+JUN,2018,Rotterdam,Netherlands,2712
+JUN,2018,Rzeszow - Jasionka,Poland,873
+JUN,2018,Sandane  Anda,Norway,192
+JUN,2018,Sandnessjøen Stokka,Norway,355
+JUN,2018,Santorini,Greece,2963
+JUN,2018,Shannon,Ireland,2322
+JUN,2018,Skiathos,Greece,682
+JUN,2018,Sligo,Ireland,5
+JUN,2018,Sogndal Haukåsen,Norway,428
+JUN,2018,Sorkjosen,Norway,144
+JUN,2018,Southampton,United Kingdom,3438
+JUN,2018,Stavanger,Norway,5626
+JUN,2018,Stockholm - Arlanda,Sweden,20694
+JUN,2018,Stockholm - Bromma,Sweden,4316
+JUN,2018,Stokmarknes Skagen,Norway,512
+JUN,2018,Svalbard Longyear,Norway,244
+JUN,2018,Svolvær Helle,Norway,445
+JUN,2018,Szczecin - Goleniów,Poland,606
+JUN,2018,Thessaloniki,Greece,6058
+JUN,2018,Tromsø,Norway,3576
+JUN,2018,Trondheim,Norway,4765
+JUN,2018,Vadsø,Norway,517
+JUN,2018,Vardø Svartnes,Norway,181
+JUN,2018,Værøy,Norway,100
+JUN,2018,Warszawa - Chopina,Poland,16968
+JUN,2018,Warszawa - Modlin,Poland,1702
+JUN,2018,Waterford,Ireland,59
+JUN,2018,Weston,Ireland,135
+JUN,2018,Wroclaw - Strachowice,Poland,2973
+JUN,2018,Yerevan,Armenia,1948
+JUN,2018,Zakinthos,Greece,2195
+JUN,2018,Zielona Gora - Babimost,Poland,91
+JUN,2019,Aberdeen,United Kingdom,4356
+JUN,2019,Aktion,Greece,948
+JUN,2019,Alesund,Norway,1319
+JUN,2019,Alta,Norway,694
+JUN,2019,Amsterdam - Schiphol,Netherlands,44649
+JUN,2019,Andenes,Norway,284
+JUN,2019,Athens,Greece,22665
+JUN,2019,Bardufoss,Norway,271
+JUN,2019,Batsfjord,Norway,184
+JUN,2019,Belfast - Aldergrove,United Kingdom,4647
+JUN,2019,Belfast - City Airport,United Kingdom,3117
+JUN,2019,Bergen,Norway,7645
+JUN,2019,Berlevåg,Norway,126
+JUN,2019,Biggin Hill,United Kingdom,1746
+JUN,2019,Birmingham,United Kingdom,10165
+JUN,2019,Bodø,Norway,3318
+JUN,2019,Bristol,United Kingdom,6348
+JUN,2019,Bronnoysund Bronnoy,Norway,561
+JUN,2019,Bydgoszcz,Poland,444
+JUN,2019,Connaught,Ireland,653
+JUN,2019,Corfu,Greece,3875
+JUN,2019,Cork,Ireland,2729
+JUN,2019,Donegal,Ireland,168
+JUN,2019,Dublin,Ireland,21908
+JUN,2019,East Midlands,United Kingdom,6282
+JUN,2019,Edinburgh,United Kingdom,12015
+JUN,2019,Farnborough,United Kingdom,3297
+JUN,2019,Florø,Norway,698
+JUN,2019,Forde Bringeland,Norway,318
+JUN,2019,Gdansk,Poland,4203
+JUN,2019,Glasgow,United Kingdom,8063
+JUN,2019,Groningen,Netherlands,820
+JUN,2019,Göteborg,Sweden,6000
+JUN,2019,Hammerfest,Norway,814
+JUN,2019,Harstad - Narvik Evenes,Norway,844
+JUN,2019,Haugesund,Norway,530
+JUN,2019,Helsinki - Vantaa,Finland,16638
+JUN,2019,Heraklion,Greece,7792
+JUN,2019,Honningsvåg Valan,Norway,189
+JUN,2019,Katowice - Pyrzowice,Poland,4210
+JUN,2019,Kefallinia,Greece,1133
+JUN,2019,Kerry - Farranfore,Ireland,522
+JUN,2019,Khania - Souda,Greece,3267
+JUN,2019,Kiev - Boryspil,Ukraine,10463
+JUN,2019,Kirkenes Høybuktmoen,Norway,693
+JUN,2019,Kos,Greece,3053
+JUN,2019,Krakow - Balice,Poland,5544
+JUN,2019,Kristiansand Kjevik,Norway,1423
+JUN,2019,Kristiansund Kvernberget,Norway,798
+JUN,2019,Lakselv Banak,Norway,193
+JUN,2019,Leknes,Norway,480
+JUN,2019,Lelystad,Netherlands,190
+JUN,2019,Lodz - Lublinek,Poland,400
+JUN,2019,London - City,United Kingdom,7257
+JUN,2019,London - Gatwick,United Kingdom,26576
+JUN,2019,London - Heathrow,United Kingdom,41019
+JUN,2019,London - Luton,United Kingdom,12964
+JUN,2019,London - Stansted,United Kingdom,18327
+JUN,2019,Londonderry - Eglinton,United Kingdom,317
+JUN,2019,Lublin,Poland,270
+JUN,2019,Maastricht-Aachen,Netherlands,861
+JUN,2019,Manchester,United Kingdom,19376
+JUN,2019,Mehamn,Norway,206
+JUN,2019,Mikonos,Greece,2987
+JUN,2019,Mo i Rana Røssvoll,Norway,411
+JUN,2019,Molde Årø,Norway,519
+JUN,2019,Mosjøen Kjærstad,Norway,299
+JUN,2019,Namsos Høknesøra,Norway,222
+JUN,2019,Newcastle,United Kingdom,4227
+JUN,2019,Olsztyn-Mazury,Poland,163
+JUN,2019,Orsta¿Volda Hovden,Norway,382
+JUN,2019,Oslo - Gardermoen,Norway,22113
+JUN,2019,Poznan - Lawica,Poland,2373
+JUN,2019,Radom,Poland,28
+JUN,2019,Rodos,Greece,5753
+JUN,2019,Roros,Norway,103
+JUN,2019,Rorvik Ryum,Norway,179
+JUN,2019,Rost,Norway,99
+JUN,2019,Rotterdam,Netherlands,2601
+JUN,2019,Rzeszow - Jasionka,Poland,798
+JUN,2019,Sandane  Anda,Norway,194
+JUN,2019,Sandnessjøen Stokka,Norway,334
+JUN,2019,Santorini,Greece,3085
+JUN,2019,Shannon,Ireland,2189
+JUN,2019,Skiathos,Greece,664
+JUN,2019,Sligo,Ireland,7
+JUN,2019,Sogndal Haukåsen,Norway,412
+JUN,2019,Sorkjosen,Norway,143
+JUN,2019,Southampton,United Kingdom,3145
+JUN,2019,Stavanger,Norway,5774
+JUN,2019,Stockholm - Arlanda,Sweden,20489
+JUN,2019,Stockholm - Bromma,Sweden,4431
+JUN,2019,Stokmarknes Skagen,Norway,390
+JUN,2019,Svalbard Longyear,Norway,249
+JUN,2019,Svolvær Helle,Norway,340
+JUN,2019,Szczecin - Goleniów,Poland,475
+JUN,2019,Thessaloniki,Greece,6007
+JUN,2019,Tromsø,Norway,3309
+JUN,2019,Trondheim,Norway,4701
+JUN,2019,Vadsø,Norway,523
+JUN,2019,Vardø Svartnes,Norway,226
+JUN,2019,Værøy,Norway,110
+JUN,2019,Warszawa - Chopina,Poland,16998
+JUN,2019,Warszawa - Modlin,Poland,1873
+JUN,2019,Waterford,Ireland,44
+JUN,2019,Weston,Ireland,123
+JUN,2019,Wroclaw - Strachowice,Poland,3023
+JUN,2019,Yerevan,Armenia,2194
+JUN,2019,Zakinthos,Greece,2245
+JUN,2019,Zielona Gora - Babimost,Poland,103
 JUN,2020,Aberdeen,United Kingdom,1157
 JUN,2020,Aktion,Greece,92
 JUN,2020,Alesund,Norway,521
@@ -1839,6 +4351,365 @@ JUN,2021,Wroclaw - Strachowice,Poland,1676
 JUN,2021,Yerevan,Armenia,1534
 JUN,2021,Zakinthos,Greece,1025
 JUN,2021,Zielona Gora - Babimost,Poland,71
+MAR,2016,Aberdeen,United Kingdom,5233
+MAR,2016,Aktion,Greece,94
+MAR,2016,Amsterdam - Schiphol,Netherlands,37915
+MAR,2016,Athens,Greece,12404
+MAR,2016,Belfast - Aldergrove,United Kingdom,3393
+MAR,2016,Belfast - City Airport,United Kingdom,3385
+MAR,2016,Bergen,Norway,7187
+MAR,2016,Biggin Hill,United Kingdom,1000
+MAR,2016,Birmingham,United Kingdom,8060
+MAR,2016,Bristol,United Kingdom,4703
+MAR,2016,Bydgoszcz,Poland,254
+MAR,2016,Connaught,Ireland,408
+MAR,2016,Corfu,Greece,360
+MAR,2016,Cork,Ireland,1839
+MAR,2016,Donegal,Ireland,158
+MAR,2016,Dublin,Ireland,16558
+MAR,2016,East Midlands,United Kingdom,4986
+MAR,2016,Edinburgh,United Kingdom,9620
+MAR,2016,Farnborough,United Kingdom,1858
+MAR,2016,Gdansk,Poland,2952
+MAR,2016,Glasgow,United Kingdom,7091
+MAR,2016,Groningen,Netherlands,855
+MAR,2016,Göteborg,Sweden,5783
+MAR,2016,Haugesund,Norway,548
+MAR,2016,Helsinki - Vantaa,Finland,14265
+MAR,2016,Heraklion,Greece,1140
+MAR,2016,Katowice - Pyrzowice,Poland,1749
+MAR,2016,Kefallinia,Greece,90
+MAR,2016,Kerry - Farranfore,Ireland,297
+MAR,2016,Khania - Souda,Greece,1246
+MAR,2016,Kiev - Boryspil,Ukraine,5105
+MAR,2016,Kos,Greece,316
+MAR,2016,Krakow - Balice,Poland,3425
+MAR,2016,Lodz - Lublinek,Poland,318
+MAR,2016,London - City,United Kingdom,7328
+MAR,2016,London - Gatwick,United Kingdom,21039
+MAR,2016,London - Heathrow,United Kingdom,39361
+MAR,2016,London - Luton,United Kingdom,9829
+MAR,2016,London - Stansted,United Kingdom,14219
+MAR,2016,Londonderry - Eglinton,United Kingdom,172
+MAR,2016,Lublin,Poland,268
+MAR,2016,Maastricht-Aachen,Netherlands,1063
+MAR,2016,Manchester,United Kingdom,13753
+MAR,2016,Mikonos,Greece,146
+MAR,2016,Olsztyn-Mazury,Poland,71
+MAR,2016,Oslo - Gardermoen,Norway,19795
+MAR,2016,Poznan - Lawica,Poland,1395
+MAR,2016,Radom,Poland,55
+MAR,2016,Rodos,Greece,856
+MAR,2016,Rotterdam,Netherlands,2305
+MAR,2016,Rzeszow - Jasionka,Poland,693
+MAR,2016,Santorini,Greece,427
+MAR,2016,Shannon,Ireland,1585
+MAR,2016,Skiathos,Greece,25
+MAR,2016,Sligo,Ireland,5
+MAR,2016,Southampton,United Kingdom,3149
+MAR,2016,Stavanger,Norway,5533
+MAR,2016,Stockholm - Arlanda,Sweden,19558
+MAR,2016,Stockholm - Bromma,Sweden,4465
+MAR,2016,Szczecin - Goleniów,Poland,404
+MAR,2016,Thessaloniki,Greece,3552
+MAR,2016,Trondheim,Norway,4687
+MAR,2016,Warszawa - Chopina,Poland,11509
+MAR,2016,Warszawa - Modlin,Poland,1601
+MAR,2016,Waterford,Ireland,169
+MAR,2016,Weston,Ireland,103
+MAR,2016,Wroclaw - Strachowice,Poland,1725
+MAR,2016,Yerevan,Armenia,1288
+MAR,2016,Zakinthos,Greece,100
+MAR,2016,Zielona Gora - Babimost,Poland,74
+MAR,2017,Aberdeen,United Kingdom,5114
+MAR,2017,Aktion,Greece,122
+MAR,2017,Amsterdam - Schiphol,Netherlands,40392
+MAR,2017,Athens,Greece,12643
+MAR,2017,Belfast - Aldergrove,United Kingdom,3910
+MAR,2017,Belfast - City Airport,United Kingdom,3082
+MAR,2017,Bergen,Norway,7205
+MAR,2017,Biggin Hill,United Kingdom,1169
+MAR,2017,Birmingham,United Kingdom,9001
+MAR,2017,Bristol,United Kingdom,5166
+MAR,2017,Bydgoszcz,Poland,227
+MAR,2017,Connaught,Ireland,451
+MAR,2017,Corfu,Greece,320
+MAR,2017,Cork,Ireland,1956
+MAR,2017,Donegal,Ireland,159
+MAR,2017,Dublin,Ireland,17235
+MAR,2017,East Midlands,United Kingdom,4952
+MAR,2017,Edinburgh,United Kingdom,9746
+MAR,2017,Farnborough,United Kingdom,2034
+MAR,2017,Gdansk,Poland,3039
+MAR,2017,Glasgow,United Kingdom,7355
+MAR,2017,Groningen,Netherlands,909
+MAR,2017,Göteborg,Sweden,6217
+MAR,2017,Haugesund,Norway,550
+MAR,2017,Helsinki - Vantaa,Finland,14775
+MAR,2017,Heraklion,Greece,1080
+MAR,2017,Katowice - Pyrzowice,Poland,1994
+MAR,2017,Kefallinia,Greece,71
+MAR,2017,Kerry - Farranfore,Ireland,307
+MAR,2017,Khania - Souda,Greece,1380
+MAR,2017,Kiev - Boryspil,Ukraine,6320
+MAR,2017,Kos,Greece,300
+MAR,2017,Krakow - Balice,Poland,3891
+MAR,2017,Lodz - Lublinek,Poland,388
+MAR,2017,London - City,United Kingdom,7624
+MAR,2017,London - Gatwick,United Kingdom,22214
+MAR,2017,London - Heathrow,United Kingdom,39589
+MAR,2017,London - Luton,United Kingdom,10863
+MAR,2017,London - Stansted,United Kingdom,14322
+MAR,2017,Londonderry - Eglinton,United Kingdom,149
+MAR,2017,Lublin,Poland,245
+MAR,2017,Maastricht-Aachen,Netherlands,947
+MAR,2017,Manchester,United Kingdom,15191
+MAR,2017,Mikonos,Greece,233
+MAR,2017,Olsztyn-Mazury,Poland,91
+MAR,2017,Oslo - Gardermoen,Norway,21875
+MAR,2017,Poznan - Lawica,Poland,1352
+MAR,2017,Radom,Poland,150
+MAR,2017,Rodos,Greece,739
+MAR,2017,Rotterdam,Netherlands,2047
+MAR,2017,Rzeszow - Jasionka,Poland,617
+MAR,2017,Santorini,Greece,472
+MAR,2017,Shannon,Ireland,1714
+MAR,2017,Skiathos,Greece,49
+MAR,2017,Sligo,Ireland,2
+MAR,2017,Southampton,United Kingdom,3495
+MAR,2017,Stavanger,Norway,5846
+MAR,2017,Stockholm - Arlanda,Sweden,21700
+MAR,2017,Stockholm - Bromma,Sweden,5094
+MAR,2017,Szczecin - Goleniów,Poland,421
+MAR,2017,Thessaloniki,Greece,3631
+MAR,2017,Trondheim,Norway,5096
+MAR,2017,Warszawa - Chopina,Poland,13047
+MAR,2017,Warszawa - Modlin,Poland,1494
+MAR,2017,Waterford,Ireland,67
+MAR,2017,Weston,Ireland,118
+MAR,2017,Wroclaw - Strachowice,Poland,2033
+MAR,2017,Yerevan,Armenia,1622
+MAR,2017,Zakinthos,Greece,126
+MAR,2017,Zielona Gora - Babimost,Poland,63
+MAR,2018,Aberdeen,United Kingdom,5054
+MAR,2018,Aktion,Greece,102
+MAR,2018,Alesund,Norway,1187
+MAR,2018,Alta,Norway,697
+MAR,2018,Amsterdam - Schiphol,Netherlands,41171
+MAR,2018,Andenes,Norway,372
+MAR,2018,Athens,Greece,13531
+MAR,2018,Bardufoss,Norway,250
+MAR,2018,Batsfjord,Norway,183
+MAR,2018,Belfast - Aldergrove,United Kingdom,3789
+MAR,2018,Belfast - City Airport,United Kingdom,2908
+MAR,2018,Bergen,Norway,6430
+MAR,2018,Berlevåg,Norway,133
+MAR,2018,Biggin Hill,United Kingdom,1204
+MAR,2018,Birmingham,United Kingdom,8337
+MAR,2018,Bodø,Norway,3205
+MAR,2018,Bristol,United Kingdom,4850
+MAR,2018,Bronnoysund Bronnoy,Norway,630
+MAR,2018,Bydgoszcz,Poland,314
+MAR,2018,Connaught,Ireland,431
+MAR,2018,Corfu,Greece,495
+MAR,2018,Cork,Ireland,1710
+MAR,2018,Donegal,Ireland,142
+MAR,2018,Dublin,Ireland,17082
+MAR,2018,East Midlands,United Kingdom,4940
+MAR,2018,Edinburgh,United Kingdom,9354
+MAR,2018,Farnborough,United Kingdom,2343
+MAR,2018,Florø,Norway,650
+MAR,2018,Forde Bringeland,Norway,330
+MAR,2018,Gdansk,Poland,3265
+MAR,2018,Glasgow,United Kingdom,6684
+MAR,2018,Groningen,Netherlands,874
+MAR,2018,Göteborg,Sweden,6213
+MAR,2018,Hammerfest,Norway,781
+MAR,2018,Harstad - Narvik Evenes,Norway,806
+MAR,2018,Haugesund,Norway,460
+MAR,2018,Helsinki - Vantaa,Finland,15850
+MAR,2018,Heraklion,Greece,1541
+MAR,2018,Honningsvåg Valan,Norway,171
+MAR,2018,Katowice - Pyrzowice,Poland,2296
+MAR,2018,Kefallinia,Greece,101
+MAR,2018,Kerry - Farranfore,Ireland,324
+MAR,2018,Khania - Souda,Greece,1126
+MAR,2018,Kiev - Boryspil,Ukraine,7084
+MAR,2018,Kirkenes Høybuktmoen,Norway,583
+MAR,2018,Kos,Greece,180
+MAR,2018,Krakow - Balice,Poland,4360
+MAR,2018,Kristiansand Kjevik,Norway,1203
+MAR,2018,Kristiansund Kvernberget,Norway,819
+MAR,2018,Lakselv Banak,Norway,179
+MAR,2018,Leknes,Norway,552
+MAR,2018,Lelystad,Netherlands,259
+MAR,2018,Lodz - Lublinek,Poland,287
+MAR,2018,London - City,United Kingdom,6742
+MAR,2018,London - Gatwick,United Kingdom,22135
+MAR,2018,London - Heathrow,United Kingdom,39276
+MAR,2018,London - Luton,United Kingdom,10751
+MAR,2018,London - Stansted,United Kingdom,15067
+MAR,2018,Londonderry - Eglinton,United Kingdom,226
+MAR,2018,Lublin,Poland,380
+MAR,2018,Maastricht-Aachen,Netherlands,863
+MAR,2018,Manchester,United Kingdom,15042
+MAR,2018,Mehamn,Norway,190
+MAR,2018,Mikonos,Greece,182
+MAR,2018,Mo i Rana Røssvoll,Norway,452
+MAR,2018,Molde Årø,Norway,537
+MAR,2018,Mosjøen Kjærstad,Norway,314
+MAR,2018,Namsos Høknesøra,Norway,215
+MAR,2018,Newcastle,United Kingdom,3172
+MAR,2018,Olsztyn-Mazury,Poland,102
+MAR,2018,Orsta¿Volda Hovden,Norway,428
+MAR,2018,Oslo - Gardermoen,Norway,20667
+MAR,2018,Poznan - Lawica,Poland,1695
+MAR,2018,Radom,Poland,65
+MAR,2018,Rodos,Greece,757
+MAR,2018,Roros,Norway,119
+MAR,2018,Rorvik Ryum,Norway,189
+MAR,2018,Rost,Norway,96
+MAR,2018,Rotterdam,Netherlands,2003
+MAR,2018,Rzeszow - Jasionka,Poland,655
+MAR,2018,Sandane  Anda,Norway,195
+MAR,2018,Sandnessjøen Stokka,Norway,349
+MAR,2018,Santorini,Greece,540
+MAR,2018,Shannon,Ireland,1572
+MAR,2018,Skiathos,Greece,60
+MAR,2018,Sligo,Ireland,7
+MAR,2018,Sogndal Haukåsen,Norway,400
+MAR,2018,Sorkjosen,Norway,134
+MAR,2018,Southampton,United Kingdom,3092
+MAR,2018,Stavanger,Norway,4915
+MAR,2018,Stockholm - Arlanda,Sweden,20968
+MAR,2018,Stockholm - Bromma,Sweden,4766
+MAR,2018,Stokmarknes Skagen,Norway,532
+MAR,2018,Svalbard Longyear,Norway,211
+MAR,2018,Svolvær Helle,Norway,451
+MAR,2018,Szczecin - Goleniów,Poland,464
+MAR,2018,Thessaloniki,Greece,3329
+MAR,2018,Tromsø,Norway,3584
+MAR,2018,Trondheim,Norway,4314
+MAR,2018,Vadsø,Norway,524
+MAR,2018,Vardø Svartnes,Norway,179
+MAR,2018,Værøy,Norway,100
+MAR,2018,Warszawa - Chopina,Poland,14357
+MAR,2018,Warszawa - Modlin,Poland,1577
+MAR,2018,Waterford,Ireland,35
+MAR,2018,Weston,Ireland,78
+MAR,2018,Wroclaw - Strachowice,Poland,2311
+MAR,2018,Yerevan,Armenia,1685
+MAR,2018,Zakinthos,Greece,145
+MAR,2018,Zielona Gora - Babimost,Poland,72
+MAR,2019,Aberdeen,United Kingdom,4073
+MAR,2019,Aktion,Greece,76
+MAR,2019,Alesund,Norway,1200
+MAR,2019,Alta,Norway,772
+MAR,2019,Amsterdam - Schiphol,Netherlands,40721
+MAR,2019,Andenes,Norway,251
+MAR,2019,Athens,Greece,14186
+MAR,2019,Bardufoss,Norway,225
+MAR,2019,Batsfjord,Norway,203
+MAR,2019,Belfast - Aldergrove,United Kingdom,4177
+MAR,2019,Belfast - City Airport,United Kingdom,2885
+MAR,2019,Bergen,Norway,7270
+MAR,2019,Berlevåg,Norway,141
+MAR,2019,Biggin Hill,United Kingdom,1335
+MAR,2019,Birmingham,United Kingdom,8393
+MAR,2019,Bodø,Norway,3338
+MAR,2019,Bristol,United Kingdom,4746
+MAR,2019,Bronnoysund Bronnoy,Norway,558
+MAR,2019,Bydgoszcz,Poland,294
+MAR,2019,Connaught,Ireland,462
+MAR,2019,Corfu,Greece,361
+MAR,2019,Cork,Ireland,1850
+MAR,2019,Donegal,Ireland,141
+MAR,2019,Dublin,Ireland,18313
+MAR,2019,East Midlands,United Kingdom,4722
+MAR,2019,Edinburgh,United Kingdom,10072
+MAR,2019,Farnborough,United Kingdom,2213
+MAR,2019,Florø,Norway,684
+MAR,2019,Forde Bringeland,Norway,344
+MAR,2019,Gdansk,Poland,3164
+MAR,2019,Glasgow,United Kingdom,6474
+MAR,2019,Groningen,Netherlands,744
+MAR,2019,Göteborg,Sweden,5998
+MAR,2019,Hammerfest,Norway,800
+MAR,2019,Harstad - Narvik Evenes,Norway,851
+MAR,2019,Haugesund,Norway,522
+MAR,2019,Helsinki - Vantaa,Finland,16402
+MAR,2019,Heraklion,Greece,1288
+MAR,2019,Honningsvåg Valan,Norway,176
+MAR,2019,Katowice - Pyrzowice,Poland,2192
+MAR,2019,Kefallinia,Greece,108
+MAR,2019,Kerry - Farranfore,Ireland,318
+MAR,2019,Khania - Souda,Greece,932
+MAR,2019,Kiev - Boryspil,Ukraine,7672
+MAR,2019,Kirkenes Høybuktmoen,Norway,633
+MAR,2019,Kos,Greece,371
+MAR,2019,Krakow - Balice,Poland,4753
+MAR,2019,Kristiansand Kjevik,Norway,1420
+MAR,2019,Kristiansund Kvernberget,Norway,744
+MAR,2019,Lakselv Banak,Norway,177
+MAR,2019,Leknes,Norway,491
+MAR,2019,Lelystad,Netherlands,285
+MAR,2019,Lodz - Lublinek,Poland,259
+MAR,2019,London - City,United Kingdom,7321
+MAR,2019,London - Gatwick,United Kingdom,22695
+MAR,2019,London - Heathrow,United Kingdom,40052
+MAR,2019,London - Luton,United Kingdom,10819
+MAR,2019,London - Stansted,United Kingdom,15424
+MAR,2019,Londonderry - Eglinton,United Kingdom,269
+MAR,2019,Lublin,Poland,224
+MAR,2019,Maastricht-Aachen,Netherlands,904
+MAR,2019,Manchester,United Kingdom,15145
+MAR,2019,Mehamn,Norway,212
+MAR,2019,Mikonos,Greece,192
+MAR,2019,Mo i Rana Røssvoll,Norway,438
+MAR,2019,Molde Årø,Norway,535
+MAR,2019,Mosjøen Kjærstad,Norway,279
+MAR,2019,Namsos Høknesøra,Norway,222
+MAR,2019,Newcastle,United Kingdom,2940
+MAR,2019,Olsztyn-Mazury,Poland,123
+MAR,2019,Orsta¿Volda Hovden,Norway,407
+MAR,2019,Oslo - Gardermoen,Norway,21275
+MAR,2019,Poznan - Lawica,Poland,1597
+MAR,2019,Radom,Poland,22
+MAR,2019,Rodos,Greece,604
+MAR,2019,Roros,Norway,112
+MAR,2019,Rorvik Ryum,Norway,194
+MAR,2019,Rost,Norway,108
+MAR,2019,Rotterdam,Netherlands,1973
+MAR,2019,Rzeszow - Jasionka,Poland,733
+MAR,2019,Sandane  Anda,Norway,189
+MAR,2019,Sandnessjøen Stokka,Norway,315
+MAR,2019,Santorini,Greece,504
+MAR,2019,Shannon,Ireland,1499
+MAR,2019,Skiathos,Greece,52
+MAR,2019,Sogndal Haukåsen,Norway,421
+MAR,2019,Sorkjosen,Norway,158
+MAR,2019,Southampton,United Kingdom,2893
+MAR,2019,Stavanger,Norway,5531
+MAR,2019,Stockholm - Arlanda,Sweden,20462
+MAR,2019,Stockholm - Bromma,Sweden,4951
+MAR,2019,Stokmarknes Skagen,Norway,439
+MAR,2019,Svalbard Longyear,Norway,175
+MAR,2019,Svolvær Helle,Norway,334
+MAR,2019,Szczecin - Goleniów,Poland,452
+MAR,2019,Thessaloniki,Greece,3615
+MAR,2019,Tromsø,Norway,3556
+MAR,2019,Trondheim,Norway,4648
+MAR,2019,Vadsø,Norway,576
+MAR,2019,Vardø Svartnes,Norway,200
+MAR,2019,Værøy,Norway,98
+MAR,2019,Warszawa - Chopina,Poland,15080
+MAR,2019,Warszawa - Modlin,Poland,1636
+MAR,2019,Waterford,Ireland,30
+MAR,2019,Weston,Ireland,96
+MAR,2019,Wroclaw - Strachowice,Poland,2348
+MAR,2019,Yerevan,Armenia,1674
+MAR,2019,Zakinthos,Greece,105
+MAR,2019,Zielona Gora - Babimost,Poland,93
 MAR,2020,Aberdeen,United Kingdom,2726
 MAR,2020,Aktion,Greece,60
 MAR,2020,Alesund,Norway,876
@@ -2166,6 +5037,366 @@ MAR,2022,Wroclaw - Strachowice,Poland,1644
 MAR,2022,Yerevan,Armenia,2034
 MAR,2022,Zakinthos,Greece,114
 MAR,2022,Zielona Gora - Babimost,Poland,70
+MAY,2016,Aberdeen,United Kingdom,5365
+MAY,2016,Aktion,Greece,473
+MAY,2016,Amsterdam - Schiphol,Netherlands,44545
+MAY,2016,Athens,Greece,16648
+MAY,2016,Belfast - Aldergrove,United Kingdom,3962
+MAY,2016,Belfast - City Airport,United Kingdom,3986
+MAY,2016,Bergen,Norway,7803
+MAY,2016,Biggin Hill,United Kingdom,1197
+MAY,2016,Birmingham,United Kingdom,9926
+MAY,2016,Bristol,United Kingdom,5950
+MAY,2016,Bydgoszcz,Poland,294
+MAY,2016,Connaught,Ireland,627
+MAY,2016,Corfu,Greece,2386
+MAY,2016,Cork,Ireland,2281
+MAY,2016,Donegal,Ireland,170
+MAY,2016,Dublin,Ireland,19262
+MAY,2016,East Midlands,United Kingdom,6192
+MAY,2016,Edinburgh,United Kingdom,10950
+MAY,2016,Farnborough,United Kingdom,2186
+MAY,2016,Gdansk,Poland,3207
+MAY,2016,Glasgow,United Kingdom,8419
+MAY,2016,Groningen,Netherlands,899
+MAY,2016,Göteborg,Sweden,6320
+MAY,2016,Haugesund,Norway,669
+MAY,2016,Helsinki - Vantaa,Finland,14880
+MAY,2016,Heraklion,Greece,5398
+MAY,2016,Katowice - Pyrzowice,Poland,2229
+MAY,2016,Kefallinia,Greece,539
+MAY,2016,Kerry - Farranfore,Ireland,367
+MAY,2016,Khania - Souda,Greece,2730
+MAY,2016,Kiev - Boryspil,Ukraine,6177
+MAY,2016,Kos,Greece,1689
+MAY,2016,Krakow - Balice,Poland,4076
+MAY,2016,Lodz - Lublinek,Poland,467
+MAY,2016,London - City,United Kingdom,7380
+MAY,2016,London - Gatwick,United Kingdom,25526
+MAY,2016,London - Heathrow,United Kingdom,41545
+MAY,2016,London - Luton,United Kingdom,12181
+MAY,2016,London - Stansted,United Kingdom,15759
+MAY,2016,Londonderry - Eglinton,United Kingdom,180
+MAY,2016,Lublin,Poland,285
+MAY,2016,Maastricht-Aachen,Netherlands,715
+MAY,2016,Manchester,United Kingdom,17401
+MAY,2016,Mikonos,Greece,1034
+MAY,2016,Olsztyn-Mazury,Poland,88
+MAY,2016,Oslo - Gardermoen,Norway,21556
+MAY,2016,Poznan - Lawica,Poland,1573
+MAY,2016,Radom,Poland,94
+MAY,2016,Rodos,Greece,3968
+MAY,2016,Rotterdam,Netherlands,2511
+MAY,2016,Rzeszow - Jasionka,Poland,661
+MAY,2016,Santorini,Greece,1442
+MAY,2016,Shannon,Ireland,1986
+MAY,2016,Skiathos,Greece,369
+MAY,2016,Sligo,Ireland,4
+MAY,2016,Southampton,United Kingdom,3363
+MAY,2016,Stavanger,Norway,5949
+MAY,2016,Stockholm - Arlanda,Sweden,21161
+MAY,2016,Stockholm - Bromma,Sweden,4977
+MAY,2016,Szczecin - Goleniów,Poland,451
+MAY,2016,Thessaloniki,Greece,4707
+MAY,2016,Trondheim,Norway,4966
+MAY,2016,Warszawa - Chopina,Poland,13330
+MAY,2016,Warszawa - Modlin,Poland,1670
+MAY,2016,Waterford,Ireland,139
+MAY,2016,Weston,Ireland,117
+MAY,2016,Wroclaw - Strachowice,Poland,2080
+MAY,2016,Yerevan,Armenia,1352
+MAY,2016,Zakinthos,Greece,1004
+MAY,2016,Zielona Gora - Babimost,Poland,78
+MAY,2017,Aberdeen,United Kingdom,5416
+MAY,2017,Aktion,Greece,499
+MAY,2017,Amsterdam - Schiphol,Netherlands,46559
+MAY,2017,Athens,Greece,16549
+MAY,2017,Belfast - Aldergrove,United Kingdom,4460
+MAY,2017,Belfast - City Airport,United Kingdom,3353
+MAY,2017,Bergen,Norway,7651
+MAY,2017,Biggin Hill,United Kingdom,1443
+MAY,2017,Birmingham,United Kingdom,11429
+MAY,2017,Bristol,United Kingdom,6349
+MAY,2017,Bydgoszcz,Poland,306
+MAY,2017,Connaught,Ireland,622
+MAY,2017,Corfu,Greece,2160
+MAY,2017,Cork,Ireland,2440
+MAY,2017,Donegal,Ireland,170
+MAY,2017,Dublin,Ireland,20069
+MAY,2017,East Midlands,United Kingdom,6310
+MAY,2017,Edinburgh,United Kingdom,11894
+MAY,2017,Farnborough,United Kingdom,2459
+MAY,2017,Gdansk,Poland,3593
+MAY,2017,Glasgow,United Kingdom,8771
+MAY,2017,Groningen,Netherlands,1069
+MAY,2017,Göteborg,Sweden,6530
+MAY,2017,Haugesund,Norway,551
+MAY,2017,Helsinki - Vantaa,Finland,15476
+MAY,2017,Heraklion,Greece,5588
+MAY,2017,Katowice - Pyrzowice,Poland,2528
+MAY,2017,Kefallinia,Greece,525
+MAY,2017,Kerry - Farranfore,Ireland,377
+MAY,2017,Khania - Souda,Greece,2750
+MAY,2017,Kiev - Boryspil,Ukraine,8138
+MAY,2017,Kos,Greece,1795
+MAY,2017,Krakow - Balice,Poland,4558
+MAY,2017,Lodz - Lublinek,Poland,430
+MAY,2017,London - City,United Kingdom,7164
+MAY,2017,London - Gatwick,United Kingdom,26331
+MAY,2017,London - Heathrow,United Kingdom,41211
+MAY,2017,London - Luton,United Kingdom,12662
+MAY,2017,London - Stansted,United Kingdom,16977
+MAY,2017,Londonderry - Eglinton,United Kingdom,209
+MAY,2017,Lublin,Poland,342
+MAY,2017,Maastricht-Aachen,Netherlands,759
+MAY,2017,Manchester,United Kingdom,18950
+MAY,2017,Mikonos,Greece,1006
+MAY,2017,Olsztyn-Mazury,Poland,103
+MAY,2017,Oslo - Gardermoen,Norway,22708
+MAY,2017,Poznan - Lawica,Poland,1572
+MAY,2017,Radom,Poland,113
+MAY,2017,Rodos,Greece,3790
+MAY,2017,Rotterdam,Netherlands,2300
+MAY,2017,Rzeszow - Jasionka,Poland,687
+MAY,2017,Santorini,Greece,1695
+MAY,2017,Shannon,Ireland,1944
+MAY,2017,Skiathos,Greece,328
+MAY,2017,Sligo,Ireland,4
+MAY,2017,Southampton,United Kingdom,3922
+MAY,2017,Stavanger,Norway,5775
+MAY,2017,Stockholm - Arlanda,Sweden,22977
+MAY,2017,Stockholm - Bromma,Sweden,5104
+MAY,2017,Szczecin - Goleniów,Poland,510
+MAY,2017,Thessaloniki,Greece,4778
+MAY,2017,Trondheim,Norway,5123
+MAY,2017,Warszawa - Chopina,Poland,14495
+MAY,2017,Warszawa - Modlin,Poland,1655
+MAY,2017,Waterford,Ireland,30
+MAY,2017,Weston,Ireland,116
+MAY,2017,Wroclaw - Strachowice,Poland,2272
+MAY,2017,Yerevan,Armenia,1748
+MAY,2017,Zakinthos,Greece,1165
+MAY,2017,Zielona Gora - Babimost,Poland,63
+MAY,2018,Aberdeen,United Kingdom,5203
+MAY,2018,Aktion,Greece,503
+MAY,2018,Alesund,Norway,1255
+MAY,2018,Alta,Norway,717
+MAY,2018,Amsterdam - Schiphol,Netherlands,45802
+MAY,2018,Andenes,Norway,432
+MAY,2018,Athens,Greece,18505
+MAY,2018,Bardufoss,Norway,263
+MAY,2018,Batsfjord,Norway,174
+MAY,2018,Belfast - Aldergrove,United Kingdom,4555
+MAY,2018,Belfast - City Airport,United Kingdom,3376
+MAY,2018,Bergen,Norway,7485
+MAY,2018,Berlevåg,Norway,130
+MAY,2018,Biggin Hill,United Kingdom,1653
+MAY,2018,Birmingham,United Kingdom,10077
+MAY,2018,Bodø,Norway,3217
+MAY,2018,Bristol,United Kingdom,6527
+MAY,2018,Bronnoysund Bronnoy,Norway,581
+MAY,2018,Bydgoszcz,Poland,336
+MAY,2018,Connaught,Ireland,617
+MAY,2018,Corfu,Greece,2691
+MAY,2018,Cork,Ireland,2322
+MAY,2018,Donegal,Ireland,156
+MAY,2018,Dublin,Ireland,21402
+MAY,2018,East Midlands,United Kingdom,6605
+MAY,2018,Edinburgh,United Kingdom,11895
+MAY,2018,Farnborough,United Kingdom,2759
+MAY,2018,Florø,Norway,636
+MAY,2018,Forde Bringeland,Norway,330
+MAY,2018,Gdansk,Poland,3890
+MAY,2018,Glasgow,United Kingdom,8664
+MAY,2018,Groningen,Netherlands,1066
+MAY,2018,Göteborg,Sweden,6413
+MAY,2018,Hammerfest,Norway,888
+MAY,2018,Harstad - Narvik Evenes,Norway,823
+MAY,2018,Haugesund,Norway,544
+MAY,2018,Helsinki - Vantaa,Finland,17078
+MAY,2018,Heraklion,Greece,6531
+MAY,2018,Honningsvåg Valan,Norway,149
+MAY,2018,Katowice - Pyrzowice,Poland,3186
+MAY,2018,Kefallinia,Greece,686
+MAY,2018,Kerry - Farranfore,Ireland,418
+MAY,2018,Khania - Souda,Greece,3172
+MAY,2018,Kiev - Boryspil,Ukraine,8673
+MAY,2018,Kirkenes Høybuktmoen,Norway,644
+MAY,2018,Kos,Greece,2373
+MAY,2018,Krakow - Balice,Poland,4952
+MAY,2018,Kristiansand Kjevik,Norway,1370
+MAY,2018,Kristiansund Kvernberget,Norway,906
+MAY,2018,Lakselv Banak,Norway,232
+MAY,2018,Leknes,Norway,523
+MAY,2018,Lelystad,Netherlands,321
+MAY,2018,Lodz - Lublinek,Poland,381
+MAY,2018,London - City,United Kingdom,7247
+MAY,2018,London - Gatwick,United Kingdom,25598
+MAY,2018,London - Heathrow,United Kingdom,41332
+MAY,2018,London - Luton,United Kingdom,12556
+MAY,2018,London - Stansted,United Kingdom,17940
+MAY,2018,Londonderry - Eglinton,United Kingdom,211
+MAY,2018,Lublin,Poland,402
+MAY,2018,Maastricht-Aachen,Netherlands,829
+MAY,2018,Manchester,United Kingdom,18364
+MAY,2018,Mehamn,Norway,184
+MAY,2018,Mikonos,Greece,1310
+MAY,2018,Mo i Rana Røssvoll,Norway,444
+MAY,2018,Molde Årø,Norway,526
+MAY,2018,Mosjøen Kjærstad,Norway,313
+MAY,2018,Namsos Høknesøra,Norway,211
+MAY,2018,Newcastle,United Kingdom,4462
+MAY,2018,Olsztyn-Mazury,Poland,130
+MAY,2018,Orsta¿Volda Hovden,Norway,397
+MAY,2018,Oslo - Gardermoen,Norway,22666
+MAY,2018,Poznan - Lawica,Poland,2047
+MAY,2018,Radom,Poland,49
+MAY,2018,Rodos,Greece,4450
+MAY,2018,Roros,Norway,95
+MAY,2018,Rorvik Ryum,Norway,182
+MAY,2018,Rost,Norway,102
+MAY,2018,Rotterdam,Netherlands,2613
+MAY,2018,Rzeszow - Jasionka,Poland,833
+MAY,2018,Sandane  Anda,Norway,202
+MAY,2018,Sandnessjøen Stokka,Norway,349
+MAY,2018,Santorini,Greece,2085
+MAY,2018,Shannon,Ireland,1975
+MAY,2018,Skiathos,Greece,321
+MAY,2018,Sligo,Ireland,10
+MAY,2018,Sogndal Haukåsen,Norway,392
+MAY,2018,Sorkjosen,Norway,148
+MAY,2018,Southampton,United Kingdom,3503
+MAY,2018,Stavanger,Norway,5508
+MAY,2018,Stockholm - Arlanda,Sweden,22238
+MAY,2018,Stockholm - Bromma,Sweden,5065
+MAY,2018,Stokmarknes Skagen,Norway,527
+MAY,2018,Svalbard Longyear,Norway,179
+MAY,2018,Svolvær Helle,Norway,434
+MAY,2018,Szczecin - Goleniów,Poland,537
+MAY,2018,Thessaloniki,Greece,5198
+MAY,2018,Tromsø,Norway,3474
+MAY,2018,Trondheim,Norway,4662
+MAY,2018,Vadsø,Norway,516
+MAY,2018,Vardø Svartnes,Norway,175
+MAY,2018,Værøy,Norway,105
+MAY,2018,Warszawa - Chopina,Poland,15964
+MAY,2018,Warszawa - Modlin,Poland,1739
+MAY,2018,Waterford,Ireland,49
+MAY,2018,Weston,Ireland,118
+MAY,2018,Wroclaw - Strachowice,Poland,2633
+MAY,2018,Yerevan,Armenia,1914
+MAY,2018,Zakinthos,Greece,1386
+MAY,2018,Zielona Gora - Babimost,Poland,54
+MAY,2019,Aberdeen,United Kingdom,4570
+MAY,2019,Aktion,Greece,492
+MAY,2019,Alesund,Norway,1265
+MAY,2019,Alta,Norway,673
+MAY,2019,Amsterdam - Schiphol,Netherlands,45954
+MAY,2019,Andenes,Norway,268
+MAY,2019,Athens,Greece,19629
+MAY,2019,Bardufoss,Norway,272
+MAY,2019,Batsfjord,Norway,202
+MAY,2019,Belfast - Aldergrove,United Kingdom,4929
+MAY,2019,Belfast - City Airport,United Kingdom,3228
+MAY,2019,Bergen,Norway,7792
+MAY,2019,Berlevåg,Norway,157
+MAY,2019,Biggin Hill,United Kingdom,1575
+MAY,2019,Birmingham,United Kingdom,10141
+MAY,2019,Bodø,Norway,3417
+MAY,2019,Bristol,United Kingdom,6124
+MAY,2019,Bronnoysund Bronnoy,Norway,608
+MAY,2019,Bydgoszcz,Poland,351
+MAY,2019,Connaught,Ireland,647
+MAY,2019,Corfu,Greece,2612
+MAY,2019,Cork,Ireland,2499
+MAY,2019,Donegal,Ireland,168
+MAY,2019,Dublin,Ireland,21839
+MAY,2019,East Midlands,United Kingdom,6410
+MAY,2019,Edinburgh,United Kingdom,12230
+MAY,2019,Farnborough,United Kingdom,2758
+MAY,2019,Florø,Norway,765
+MAY,2019,Forde Bringeland,Norway,336
+MAY,2019,Gdansk,Poland,4151
+MAY,2019,Glasgow,United Kingdom,7914
+MAY,2019,Groningen,Netherlands,985
+MAY,2019,Göteborg,Sweden,6169
+MAY,2019,Hammerfest,Norway,863
+MAY,2019,Harstad - Narvik Evenes,Norway,845
+MAY,2019,Haugesund,Norway,574
+MAY,2019,Helsinki - Vantaa,Finland,17183
+MAY,2019,Heraklion,Greece,6037
+MAY,2019,Honningsvåg Valan,Norway,193
+MAY,2019,Katowice - Pyrzowice,Poland,3364
+MAY,2019,Kefallinia,Greece,699
+MAY,2019,Kerry - Farranfore,Ireland,457
+MAY,2019,Khania - Souda,Greece,2726
+MAY,2019,Kiev - Boryspil,Ukraine,9981
+MAY,2019,Kirkenes Høybuktmoen,Norway,736
+MAY,2019,Kos,Greece,2275
+MAY,2019,Krakow - Balice,Poland,5710
+MAY,2019,Kristiansand Kjevik,Norway,1439
+MAY,2019,Kristiansund Kvernberget,Norway,801
+MAY,2019,Lakselv Banak,Norway,178
+MAY,2019,Leknes,Norway,508
+MAY,2019,Lelystad,Netherlands,257
+MAY,2019,Lodz - Lublinek,Poland,314
+MAY,2019,London - City,United Kingdom,7657
+MAY,2019,London - Gatwick,United Kingdom,26111
+MAY,2019,London - Heathrow,United Kingdom,41750
+MAY,2019,London - Luton,United Kingdom,13052
+MAY,2019,London - Stansted,United Kingdom,18112
+MAY,2019,Londonderry - Eglinton,United Kingdom,289
+MAY,2019,Lublin,Poland,277
+MAY,2019,Maastricht-Aachen,Netherlands,1006
+MAY,2019,Manchester,United Kingdom,18613
+MAY,2019,Mehamn,Norway,214
+MAY,2019,Mikonos,Greece,1517
+MAY,2019,Mo i Rana Røssvoll,Norway,455
+MAY,2019,Molde Årø,Norway,546
+MAY,2019,Mosjøen Kjærstad,Norway,303
+MAY,2019,Namsos Høknesøra,Norway,230
+MAY,2019,Newcastle,United Kingdom,4332
+MAY,2019,Olsztyn-Mazury,Poland,131
+MAY,2019,Orsta¿Volda Hovden,Norway,407
+MAY,2019,Oslo - Gardermoen,Norway,22184
+MAY,2019,Poznan - Lawica,Poland,1980
+MAY,2019,Radom,Poland,36
+MAY,2019,Rodos,Greece,4178
+MAY,2019,Roros,Norway,108
+MAY,2019,Rorvik Ryum,Norway,184
+MAY,2019,Rost,Norway,109
+MAY,2019,Rotterdam,Netherlands,2598
+MAY,2019,Rzeszow - Jasionka,Poland,768
+MAY,2019,Sandane  Anda,Norway,199
+MAY,2019,Sandnessjøen Stokka,Norway,342
+MAY,2019,Santorini,Greece,2347
+MAY,2019,Shannon,Ireland,1977
+MAY,2019,Skiathos,Greece,347
+MAY,2019,Sligo,Ireland,2
+MAY,2019,Sogndal Haukåsen,Norway,427
+MAY,2019,Sorkjosen,Norway,165
+MAY,2019,Southampton,United Kingdom,3167
+MAY,2019,Stavanger,Norway,5939
+MAY,2019,Stockholm - Arlanda,Sweden,20943
+MAY,2019,Stockholm - Bromma,Sweden,4839
+MAY,2019,Stokmarknes Skagen,Norway,458
+MAY,2019,Svalbard Longyear,Norway,169
+MAY,2019,Svolvær Helle,Norway,350
+MAY,2019,Szczecin - Goleniów,Poland,504
+MAY,2019,Thessaloniki,Greece,5009
+MAY,2019,Tromsø,Norway,3446
+MAY,2019,Trondheim,Norway,4678
+MAY,2019,Vadsø,Norway,578
+MAY,2019,Vardø Svartnes,Norway,251
+MAY,2019,Værøy,Norway,109
+MAY,2019,Warszawa - Chopina,Poland,16894
+MAY,2019,Warszawa - Modlin,Poland,1790
+MAY,2019,Waterford,Ireland,23
+MAY,2019,Weston,Ireland,133
+MAY,2019,Wroclaw - Strachowice,Poland,2791
+MAY,2019,Yerevan,Armenia,1800
+MAY,2019,Zakinthos,Greece,1381
+MAY,2019,Zielona Gora - Babimost,Poland,69
 MAY,2020,Aberdeen,United Kingdom,888
 MAY,2020,Aktion,Greece,62
 MAY,2020,Alesund,Norway,524
@@ -2489,6 +5720,363 @@ MAY,2022,Wroclaw - Strachowice,Poland,2320
 MAY,2022,Yerevan,Armenia,2620
 MAY,2022,Zakinthos,Greece,1299
 MAY,2022,Zielona Gora - Babimost,Poland,77
+NOV,2016,Aberdeen,United Kingdom,5001
+NOV,2016,Aktion,Greece,63
+NOV,2016,Amsterdam - Schiphol,Netherlands,37248
+NOV,2016,Athens,Greece,11962
+NOV,2016,Belfast - Aldergrove,United Kingdom,3763
+NOV,2016,Belfast - City Airport,United Kingdom,3228
+NOV,2016,Bergen,Norway,6933
+NOV,2016,Biggin Hill,United Kingdom,1016
+NOV,2016,Birmingham,United Kingdom,8292
+NOV,2016,Bristol,United Kingdom,4508
+NOV,2016,Bydgoszcz,Poland,196
+NOV,2016,Connaught,Ireland,391
+NOV,2016,Corfu,Greece,305
+NOV,2016,Cork,Ireland,1498
+NOV,2016,Donegal,Ireland,146
+NOV,2016,Dublin,Ireland,15903
+NOV,2016,East Midlands,United Kingdom,4045
+NOV,2016,Edinburgh,United Kingdom,9044
+NOV,2016,Farnborough,United Kingdom,1716
+NOV,2016,Gdansk,Poland,2943
+NOV,2016,Glasgow,United Kingdom,7053
+NOV,2016,Groningen,Netherlands,731
+NOV,2016,Göteborg,Sweden,5766
+NOV,2016,Haugesund,Norway,543
+NOV,2016,Helsinki - Vantaa,Finland,14199
+NOV,2016,Heraklion,Greece,1144
+NOV,2016,Katowice - Pyrzowice,Poland,2078
+NOV,2016,Kefallinia,Greece,75
+NOV,2016,Kerry - Farranfore,Ireland,281
+NOV,2016,Khania - Souda,Greece,1069
+NOV,2016,Kiev - Boryspil,Ukraine,6126
+NOV,2016,Kos,Greece,276
+NOV,2016,Krakow - Balice,Poland,3582
+NOV,2016,Lodz - Lublinek,Poland,376
+NOV,2016,London - City,United Kingdom,7393
+NOV,2016,London - Gatwick,United Kingdom,18714
+NOV,2016,London - Heathrow,United Kingdom,37822
+NOV,2016,London - Luton,United Kingdom,9282
+NOV,2016,London - Stansted,United Kingdom,13230
+NOV,2016,Londonderry - Eglinton,United Kingdom,151
+NOV,2016,Lublin,Poland,210
+NOV,2016,Maastricht-Aachen,Netherlands,632
+NOV,2016,Manchester,United Kingdom,14148
+NOV,2016,Mikonos,Greece,196
+NOV,2016,Olsztyn-Mazury,Poland,77
+NOV,2016,Oslo - Gardermoen,Norway,20652
+NOV,2016,Poznan - Lawica,Poland,1231
+NOV,2016,Radom,Poland,90
+NOV,2016,Rodos,Greece,757
+NOV,2016,Rotterdam,Netherlands,1756
+NOV,2016,Rzeszow - Jasionka,Poland,577
+NOV,2016,Santorini,Greece,386
+NOV,2016,Shannon,Ireland,1605
+NOV,2016,Skiathos,Greece,38
+NOV,2016,Southampton,United Kingdom,3457
+NOV,2016,Stavanger,Norway,5635
+NOV,2016,Stockholm - Arlanda,Sweden,20098
+NOV,2016,Stockholm - Bromma,Sweden,4771
+NOV,2016,Szczecin - Goleniów,Poland,389
+NOV,2016,Thessaloniki,Greece,3419
+NOV,2016,Trondheim,Norway,4952
+NOV,2016,Warszawa - Chopina,Poland,12395
+NOV,2016,Warszawa - Modlin,Poland,1385
+NOV,2016,Waterford,Ireland,42
+NOV,2016,Weston,Ireland,89
+NOV,2016,Wroclaw - Strachowice,Poland,2011
+NOV,2016,Yerevan,Armenia,1548
+NOV,2016,Zakinthos,Greece,126
+NOV,2016,Zielona Gora - Babimost,Poland,77
+NOV,2017,Aberdeen,United Kingdom,5640
+NOV,2017,Aktion,Greece,80
+NOV,2017,Amsterdam - Schiphol,Netherlands,39002
+NOV,2017,Athens,Greece,12709
+NOV,2017,Belfast - Aldergrove,United Kingdom,3477
+NOV,2017,Belfast - City Airport,United Kingdom,2974
+NOV,2017,Bergen,Norway,6853
+NOV,2017,Biggin Hill,United Kingdom,1234
+NOV,2017,Birmingham,United Kingdom,7758
+NOV,2017,Bristol,United Kingdom,4489
+NOV,2017,Bydgoszcz,Poland,289
+NOV,2017,Connaught,Ireland,408
+NOV,2017,Corfu,Greece,442
+NOV,2017,Cork,Ireland,1614
+NOV,2017,Donegal,Ireland,150
+NOV,2017,Dublin,Ireland,16719
+NOV,2017,East Midlands,United Kingdom,4873
+NOV,2017,Edinburgh,United Kingdom,9380
+NOV,2017,Farnborough,United Kingdom,1907
+NOV,2017,Gdansk,Poland,2989
+NOV,2017,Glasgow,United Kingdom,7145
+NOV,2017,Groningen,Netherlands,696
+NOV,2017,Göteborg,Sweden,5919
+NOV,2017,Haugesund,Norway,493
+NOV,2017,Helsinki - Vantaa,Finland,14994
+NOV,2017,Heraklion,Greece,1607
+NOV,2017,Katowice - Pyrzowice,Poland,2062
+NOV,2017,Kefallinia,Greece,85
+NOV,2017,Kerry - Farranfore,Ireland,289
+NOV,2017,Khania - Souda,Greece,922
+NOV,2017,Kiev - Boryspil,Ukraine,6719
+NOV,2017,Kos,Greece,359
+NOV,2017,Krakow - Balice,Poland,3958
+NOV,2017,Lodz - Lublinek,Poland,302
+NOV,2017,London - City,United Kingdom,6787
+NOV,2017,London - Gatwick,United Kingdom,18561
+NOV,2017,London - Heathrow,United Kingdom,38563
+NOV,2017,London - Luton,United Kingdom,8982
+NOV,2017,London - Stansted,United Kingdom,13996
+NOV,2017,Londonderry - Eglinton,United Kingdom,227
+NOV,2017,Lublin,Poland,359
+NOV,2017,Maastricht-Aachen,Netherlands,665
+NOV,2017,Manchester,United Kingdom,13979
+NOV,2017,Mikonos,Greece,67
+NOV,2017,Olsztyn-Mazury,Poland,105
+NOV,2017,Oslo - Gardermoen,Norway,21030
+NOV,2017,Poznan - Lawica,Poland,1634
+NOV,2017,Radom,Poland,35
+NOV,2017,Rodos,Greece,799
+NOV,2017,Rotterdam,Netherlands,1405
+NOV,2017,Rzeszow - Jasionka,Poland,685
+NOV,2017,Santorini,Greece,459
+NOV,2017,Shannon,Ireland,1609
+NOV,2017,Skiathos,Greece,51
+NOV,2017,Sligo,Ireland,1
+NOV,2017,Southampton,United Kingdom,3131
+NOV,2017,Stavanger,Norway,5451
+NOV,2017,Stockholm - Arlanda,Sweden,20494
+NOV,2017,Stockholm - Bromma,Sweden,4844
+NOV,2017,Szczecin - Goleniów,Poland,468
+NOV,2017,Thessaloniki,Greece,3059
+NOV,2017,Trondheim,Norway,4850
+NOV,2017,Warszawa - Chopina,Poland,13633
+NOV,2017,Warszawa - Modlin,Poland,1533
+NOV,2017,Waterford,Ireland,40
+NOV,2017,Weston,Ireland,82
+NOV,2017,Wroclaw - Strachowice,Poland,2078
+NOV,2017,Yerevan,Armenia,1676
+NOV,2017,Zakinthos,Greece,129
+NOV,2017,Zielona Gora - Babimost,Poland,64
+NOV,2018,Aberdeen,United Kingdom,4290
+NOV,2018,Aktion,Greece,86
+NOV,2018,Alesund,Norway,1247
+NOV,2018,Alta,Norway,683
+NOV,2018,Amsterdam - Schiphol,Netherlands,39330
+NOV,2018,Andenes,Norway,278
+NOV,2018,Athens,Greece,14543
+NOV,2018,Bardufoss,Norway,306
+NOV,2018,Batsfjord,Norway,204
+NOV,2018,Belfast - Aldergrove,United Kingdom,4142
+NOV,2018,Belfast - City Airport,United Kingdom,2781
+NOV,2018,Bergen,Norway,7485
+NOV,2018,Berlevåg,Norway,136
+NOV,2018,Biggin Hill,United Kingdom,1195
+NOV,2018,Birmingham,United Kingdom,7926
+NOV,2018,Bodø,Norway,3506
+NOV,2018,Bristol,United Kingdom,4821
+NOV,2018,Bronnoysund Bronnoy,Norway,601
+NOV,2018,Bydgoszcz,Poland,355
+NOV,2018,Connaught,Ireland,444
+NOV,2018,Corfu,Greece,403
+NOV,2018,Cork,Ireland,1746
+NOV,2018,Donegal,Ireland,148
+NOV,2018,Dublin,Ireland,17598
+NOV,2018,East Midlands,United Kingdom,4869
+NOV,2018,Edinburgh,United Kingdom,9794
+NOV,2018,Farnborough,United Kingdom,2344
+NOV,2018,Florø,Norway,681
+NOV,2018,Forde Bringeland,Norway,348
+NOV,2018,Gdansk,Poland,3077
+NOV,2018,Glasgow,United Kingdom,6315
+NOV,2018,Groningen,Netherlands,872
+NOV,2018,Göteborg,Sweden,5842
+NOV,2018,Hammerfest,Norway,937
+NOV,2018,Harstad - Narvik Evenes,Norway,849
+NOV,2018,Haugesund,Norway,515
+NOV,2018,Helsinki - Vantaa,Finland,16023
+NOV,2018,Heraklion,Greece,1744
+NOV,2018,Honningsvåg Valan,Norway,171
+NOV,2018,Katowice - Pyrzowice,Poland,2170
+NOV,2018,Kefallinia,Greece,101
+NOV,2018,Kerry - Farranfore,Ireland,313
+NOV,2018,Khania - Souda,Greece,926
+NOV,2018,Kiev - Boryspil,Ukraine,7937
+NOV,2018,Kirkenes Høybuktmoen,Norway,596
+NOV,2018,Kos,Greece,411
+NOV,2018,Krakow - Balice,Poland,4438
+NOV,2018,Kristiansand Kjevik,Norway,1412
+NOV,2018,Kristiansund Kvernberget,Norway,938
+NOV,2018,Lakselv Banak,Norway,176
+NOV,2018,Leknes,Norway,486
+NOV,2018,Lelystad,Netherlands,233
+NOV,2018,Lodz - Lublinek,Poland,339
+NOV,2018,London - City,United Kingdom,6861
+NOV,2018,London - Gatwick,United Kingdom,19406
+NOV,2018,London - Heathrow,United Kingdom,38212
+NOV,2018,London - Luton,United Kingdom,9568
+NOV,2018,London - Stansted,United Kingdom,14510
+NOV,2018,Londonderry - Eglinton,United Kingdom,271
+NOV,2018,Lublin,Poland,267
+NOV,2018,Maastricht-Aachen,Netherlands,760
+NOV,2018,Manchester,United Kingdom,14217
+NOV,2018,Mehamn,Norway,190
+NOV,2018,Mikonos,Greece,213
+NOV,2018,Mo i Rana Røssvoll,Norway,454
+NOV,2018,Molde Årø,Norway,562
+NOV,2018,Mosjøen Kjærstad,Norway,296
+NOV,2018,Namsos Høknesøra,Norway,226
+NOV,2018,Newcastle,United Kingdom,2874
+NOV,2018,Olsztyn-Mazury,Poland,105
+NOV,2018,Orsta¿Volda Hovden,Norway,423
+NOV,2018,Oslo - Gardermoen,Norway,21614
+NOV,2018,Poznan - Lawica,Poland,1595
+NOV,2018,Radom,Poland,36
+NOV,2018,Rodos,Greece,763
+NOV,2018,Roros,Norway,103
+NOV,2018,Rorvik Ryum,Norway,191
+NOV,2018,Rost,Norway,114
+NOV,2018,Rotterdam,Netherlands,1472
+NOV,2018,Rzeszow - Jasionka,Poland,731
+NOV,2018,Sandane  Anda,Norway,171
+NOV,2018,Sandnessjøen Stokka,Norway,333
+NOV,2018,Santorini,Greece,521
+NOV,2018,Shannon,Ireland,1568
+NOV,2018,Skiathos,Greece,58
+NOV,2018,Sogndal Haukåsen,Norway,447
+NOV,2018,Sorkjosen,Norway,151
+NOV,2018,Southampton,United Kingdom,2863
+NOV,2018,Stavanger,Norway,5622
+NOV,2018,Stockholm - Arlanda,Sweden,20264
+NOV,2018,Stockholm - Bromma,Sweden,5113
+NOV,2018,Stokmarknes Skagen,Norway,513
+NOV,2018,Svalbard Longyear,Norway,120
+NOV,2018,Svolvær Helle,Norway,345
+NOV,2018,Szczecin - Goleniów,Poland,448
+NOV,2018,Thessaloniki,Greece,3556
+NOV,2018,Tromsø,Norway,3565
+NOV,2018,Trondheim,Norway,4955
+NOV,2018,Vadsø,Norway,576
+NOV,2018,Vardø Svartnes,Norway,202
+NOV,2018,Værøy,Norway,104
+NOV,2018,Warszawa - Chopina,Poland,14557
+NOV,2018,Warszawa - Modlin,Poland,1546
+NOV,2018,Waterford,Ireland,14
+NOV,2018,Weston,Ireland,94
+NOV,2018,Wroclaw - Strachowice,Poland,2312
+NOV,2018,Yerevan,Armenia,1805
+NOV,2018,Zakinthos,Greece,96
+NOV,2018,Zielona Gora - Babimost,Poland,77
+NOV,2019,Aberdeen,United Kingdom,4148
+NOV,2019,Aktion,Greece,76
+NOV,2019,Alesund,Norway,1277
+NOV,2019,Alta,Norway,711
+NOV,2019,Amsterdam - Schiphol,Netherlands,38793
+NOV,2019,Andenes,Norway,286
+NOV,2019,Athens,Greece,14265
+NOV,2019,Bardufoss,Norway,279
+NOV,2019,Batsfjord,Norway,192
+NOV,2019,Belfast - Aldergrove,United Kingdom,3533
+NOV,2019,Belfast - City Airport,United Kingdom,2607
+NOV,2019,Bergen,Norway,7487
+NOV,2019,Berlevåg,Norway,130
+NOV,2019,Biggin Hill,United Kingdom,1232
+NOV,2019,Birmingham,United Kingdom,7245
+NOV,2019,Bodø,Norway,3384
+NOV,2019,Bristol,United Kingdom,4310
+NOV,2019,Bronnoysund Bronnoy,Norway,569
+NOV,2019,Bydgoszcz,Poland,359
+NOV,2019,Connaught,Ireland,457
+NOV,2019,Corfu,Greece,398
+NOV,2019,Cork,Ireland,1988
+NOV,2019,Donegal,Ireland,149
+NOV,2019,Dublin,Ireland,16918
+NOV,2019,East Midlands,United Kingdom,4806
+NOV,2019,Edinburgh,United Kingdom,9656
+NOV,2019,Farnborough,United Kingdom,2325
+NOV,2019,Florø,Norway,800
+NOV,2019,Forde Bringeland,Norway,354
+NOV,2019,Gdansk,Poland,3430
+NOV,2019,Glasgow,United Kingdom,6031
+NOV,2019,Groningen,Netherlands,885
+NOV,2019,Göteborg,Sweden,5343
+NOV,2019,Hammerfest,Norway,800
+NOV,2019,Harstad - Narvik Evenes,Norway,850
+NOV,2019,Haugesund,Norway,562
+NOV,2019,Helsinki - Vantaa,Finland,15221
+NOV,2019,Heraklion,Greece,1475
+NOV,2019,Honningsvåg Valan,Norway,165
+NOV,2019,Katowice - Pyrzowice,Poland,2563
+NOV,2019,Kefallinia,Greece,108
+NOV,2019,Kerry - Farranfore,Ireland,308
+NOV,2019,Khania - Souda,Greece,856
+NOV,2019,Kiev - Boryspil,Ukraine,8326
+NOV,2019,Kirkenes Høybuktmoen,Norway,594
+NOV,2019,Kos,Greece,395
+NOV,2019,Krakow - Balice,Poland,5092
+NOV,2019,Kristiansand Kjevik,Norway,1370
+NOV,2019,Kristiansund Kvernberget,Norway,892
+NOV,2019,Lakselv Banak,Norway,173
+NOV,2019,Leknes,Norway,475
+NOV,2019,Lelystad,Netherlands,177
+NOV,2019,Lodz - Lublinek,Poland,299
+NOV,2019,London - City,United Kingdom,6803
+NOV,2019,London - Gatwick,United Kingdom,18451
+NOV,2019,London - Heathrow,United Kingdom,38098
+NOV,2019,London - Luton,United Kingdom,9364
+NOV,2019,London - Stansted,United Kingdom,13751
+NOV,2019,Londonderry - Eglinton,United Kingdom,258
+NOV,2019,Lublin,Poland,305
+NOV,2019,Maastricht-Aachen,Netherlands,779
+NOV,2019,Manchester,United Kingdom,13735
+NOV,2019,Mehamn,Norway,196
+NOV,2019,Mikonos,Greece,179
+NOV,2019,Mo i Rana Røssvoll,Norway,460
+NOV,2019,Molde Årø,Norway,540
+NOV,2019,Mosjøen Kjærstad,Norway,268
+NOV,2019,Namsos Høknesøra,Norway,211
+NOV,2019,Newcastle,United Kingdom,2970
+NOV,2019,Olsztyn-Mazury,Poland,147
+NOV,2019,Orsta¿Volda Hovden,Norway,384
+NOV,2019,Oslo - Gardermoen,Norway,20327
+NOV,2019,Poznan - Lawica,Poland,1706
+NOV,2019,Rodos,Greece,703
+NOV,2019,Roros,Norway,138
+NOV,2019,Rorvik Ryum,Norway,186
+NOV,2019,Rost,Norway,110
+NOV,2019,Rotterdam,Netherlands,1553
+NOV,2019,Rzeszow - Jasionka,Poland,633
+NOV,2019,Sandane  Anda,Norway,198
+NOV,2019,Sandnessjøen Stokka,Norway,312
+NOV,2019,Santorini,Greece,589
+NOV,2019,Shannon,Ireland,1426
+NOV,2019,Skiathos,Greece,106
+NOV,2019,Sligo,Ireland,1
+NOV,2019,Sogndal Haukåsen,Norway,420
+NOV,2019,Sorkjosen,Norway,152
+NOV,2019,Southampton,United Kingdom,2733
+NOV,2019,Stavanger,Norway,5539
+NOV,2019,Stockholm - Arlanda,Sweden,18305
+NOV,2019,Stockholm - Bromma,Sweden,4335
+NOV,2019,Stokmarknes Skagen,Norway,450
+NOV,2019,Svalbard Longyear,Norway,107
+NOV,2019,Svolvær Helle,Norway,316
+NOV,2019,Szczecin - Goleniów,Poland,505
+NOV,2019,Thessaloniki,Greece,3416
+NOV,2019,Tromsø,Norway,3490
+NOV,2019,Trondheim,Norway,4710
+NOV,2019,Vadsø,Norway,554
+NOV,2019,Vardø Svartnes,Norway,167
+NOV,2019,Værøy,Norway,98
+NOV,2019,Warszawa - Chopina,Poland,15237
+NOV,2019,Warszawa - Modlin,Poland,1396
+NOV,2019,Waterford,Ireland,31
+NOV,2019,Weston,Ireland,41
+NOV,2019,Wroclaw - Strachowice,Poland,2240
+NOV,2019,Yerevan,Armenia,1997
+NOV,2019,Zakinthos,Greece,98
+NOV,2019,Zielona Gora - Babimost,Poland,102
 NOV,2020,Aberdeen,United Kingdom,1665
 NOV,2020,Aktion,Greece,90
 NOV,2020,Alesund,Norway,835
@@ -2706,6 +6294,365 @@ NOV,2021,Wroclaw - Strachowice,Poland,1876
 NOV,2021,Yerevan,Armenia,1713
 NOV,2021,Zakinthos,Greece,114
 NOV,2021,Zielona Gora - Babimost,Poland,56
+OCT,2016,Aberdeen,United Kingdom,5412
+OCT,2016,Aktion,Greece,397
+OCT,2016,Amsterdam - Schiphol,Netherlands,44281
+OCT,2016,Athens,Greece,15311
+OCT,2016,Belfast - Aldergrove,United Kingdom,3932
+OCT,2016,Belfast - City Airport,United Kingdom,3517
+OCT,2016,Bergen,Norway,7775
+OCT,2016,Biggin Hill,United Kingdom,1247
+OCT,2016,Birmingham,United Kingdom,10376
+OCT,2016,Bristol,United Kingdom,6037
+OCT,2016,Bydgoszcz,Poland,267
+OCT,2016,Connaught,Ireland,578
+OCT,2016,Corfu,Greece,1787
+OCT,2016,Cork,Ireland,1963
+OCT,2016,Donegal,Ireland,161
+OCT,2016,Dublin,Ireland,18938
+OCT,2016,East Midlands,United Kingdom,6061
+OCT,2016,Edinburgh,United Kingdom,10777
+OCT,2016,Farnborough,United Kingdom,2051
+OCT,2016,Gdansk,Poland,3293
+OCT,2016,Glasgow,United Kingdom,8430
+OCT,2016,Groningen,Netherlands,833
+OCT,2016,Göteborg,Sweden,6351
+OCT,2016,Haugesund,Norway,623
+OCT,2016,Helsinki - Vantaa,Finland,14552
+OCT,2016,Heraklion,Greece,5412
+OCT,2016,Katowice - Pyrzowice,Poland,2470
+OCT,2016,Kefallinia,Greece,259
+OCT,2016,Kerry - Farranfore,Ireland,376
+OCT,2016,Khania - Souda,Greece,2588
+OCT,2016,Kiev - Boryspil,Ukraine,6789
+OCT,2016,Kos,Greece,1561
+OCT,2016,Krakow - Balice,Poland,4048
+OCT,2016,Lodz - Lublinek,Poland,453
+OCT,2016,London - City,United Kingdom,7187
+OCT,2016,London - Gatwick,United Kingdom,25408
+OCT,2016,London - Heathrow,United Kingdom,41262
+OCT,2016,London - Luton,United Kingdom,12122
+OCT,2016,London - Stansted,United Kingdom,15904
+OCT,2016,Londonderry - Eglinton,United Kingdom,188
+OCT,2016,Lublin,Poland,303
+OCT,2016,Maastricht-Aachen,Netherlands,638
+OCT,2016,Manchester,United Kingdom,17568
+OCT,2016,Mikonos,Greece,473
+OCT,2016,Olsztyn-Mazury,Poland,143
+OCT,2016,Oslo - Gardermoen,Norway,22233
+OCT,2016,Poznan - Lawica,Poland,1525
+OCT,2016,Radom,Poland,161
+OCT,2016,Rodos,Greece,3726
+OCT,2016,Rotterdam,Netherlands,2294
+OCT,2016,Rzeszow - Jasionka,Poland,757
+OCT,2016,Santorini,Greece,1288
+OCT,2016,Shannon,Ireland,1944
+OCT,2016,Skiathos,Greece,107
+OCT,2016,Sligo,Ireland,5
+OCT,2016,Southampton,United Kingdom,3740
+OCT,2016,Stavanger,Norway,6038
+OCT,2016,Stockholm - Arlanda,Sweden,21572
+OCT,2016,Stockholm - Bromma,Sweden,4946
+OCT,2016,Szczecin - Goleniów,Poland,440
+OCT,2016,Thessaloniki,Greece,4558
+OCT,2016,Trondheim,Norway,5213
+OCT,2016,Warszawa - Chopina,Poland,13542
+OCT,2016,Warszawa - Modlin,Poland,1512
+OCT,2016,Waterford,Ireland,44
+OCT,2016,Weston,Ireland,90
+OCT,2016,Wroclaw - Strachowice,Poland,2030
+OCT,2016,Yerevan,Armenia,1789
+OCT,2016,Zakinthos,Greece,659
+OCT,2016,Zielona Gora - Babimost,Poland,78
+OCT,2017,Aberdeen,United Kingdom,5807
+OCT,2017,Aktion,Greece,390
+OCT,2017,Amsterdam - Schiphol,Netherlands,45859
+OCT,2017,Athens,Greece,16926
+OCT,2017,Belfast - Aldergrove,United Kingdom,4004
+OCT,2017,Belfast - City Airport,United Kingdom,3219
+OCT,2017,Bergen,Norway,7678
+OCT,2017,Biggin Hill,United Kingdom,1453
+OCT,2017,Birmingham,United Kingdom,10366
+OCT,2017,Bristol,United Kingdom,6277
+OCT,2017,Bydgoszcz,Poland,295
+OCT,2017,Connaught,Ireland,546
+OCT,2017,Corfu,Greece,1781
+OCT,2017,Cork,Ireland,2107
+OCT,2017,Donegal,Ireland,163
+OCT,2017,Dublin,Ireland,19434
+OCT,2017,East Midlands,United Kingdom,6311
+OCT,2017,Edinburgh,United Kingdom,11590
+OCT,2017,Farnborough,United Kingdom,2342
+OCT,2017,Gdansk,Poland,3545
+OCT,2017,Glasgow,United Kingdom,8853
+OCT,2017,Groningen,Netherlands,850
+OCT,2017,Göteborg,Sweden,6593
+OCT,2017,Haugesund,Norway,561
+OCT,2017,Helsinki - Vantaa,Finland,15701
+OCT,2017,Heraklion,Greece,5996
+OCT,2017,Katowice - Pyrzowice,Poland,2867
+OCT,2017,Kefallinia,Greece,303
+OCT,2017,Kerry - Farranfore,Ireland,358
+OCT,2017,Khania - Souda,Greece,2437
+OCT,2017,Kiev - Boryspil,Ukraine,7809
+OCT,2017,Kos,Greece,1884
+OCT,2017,Krakow - Balice,Poland,4581
+OCT,2017,Lodz - Lublinek,Poland,346
+OCT,2017,London - City,United Kingdom,7089
+OCT,2017,London - Gatwick,United Kingdom,25081
+OCT,2017,London - Heathrow,United Kingdom,41169
+OCT,2017,London - Luton,United Kingdom,12016
+OCT,2017,London - Stansted,United Kingdom,17021
+OCT,2017,Londonderry - Eglinton,United Kingdom,230
+OCT,2017,Lublin,Poland,385
+OCT,2017,Maastricht-Aachen,Netherlands,824
+OCT,2017,Manchester,United Kingdom,17792
+OCT,2017,Mikonos,Greece,681
+OCT,2017,Olsztyn-Mazury,Poland,136
+OCT,2017,Oslo - Gardermoen,Norway,23214
+OCT,2017,Poznan - Lawica,Poland,1735
+OCT,2017,Radom,Poland,85
+OCT,2017,Rodos,Greece,4027
+OCT,2017,Rotterdam,Netherlands,2065
+OCT,2017,Rzeszow - Jasionka,Poland,739
+OCT,2017,Santorini,Greece,1565
+OCT,2017,Shannon,Ireland,2072
+OCT,2017,Skiathos,Greece,156
+OCT,2017,Sligo,Ireland,3
+OCT,2017,Southampton,United Kingdom,3555
+OCT,2017,Stavanger,Norway,5826
+OCT,2017,Stockholm - Arlanda,Sweden,22958
+OCT,2017,Stockholm - Bromma,Sweden,5080
+OCT,2017,Szczecin - Goleniów,Poland,522
+OCT,2017,Thessaloniki,Greece,4702
+OCT,2017,Trondheim,Norway,5166
+OCT,2017,Warszawa - Chopina,Poland,15687
+OCT,2017,Warszawa - Modlin,Poland,1614
+OCT,2017,Waterford,Ireland,31
+OCT,2017,Weston,Ireland,106
+OCT,2017,Wroclaw - Strachowice,Poland,2298
+OCT,2017,Yerevan,Armenia,1847
+OCT,2017,Zakinthos,Greece,791
+OCT,2017,Zielona Gora - Babimost,Poland,83
+OCT,2018,Aberdeen,United Kingdom,4705
+OCT,2018,Aktion,Greece,395
+OCT,2018,Alesund,Norway,1350
+OCT,2018,Alta,Norway,750
+OCT,2018,Amsterdam - Schiphol,Netherlands,46070
+OCT,2018,Andenes,Norway,334
+OCT,2018,Athens,Greece,18929
+OCT,2018,Bardufoss,Norway,368
+OCT,2018,Batsfjord,Norway,210
+OCT,2018,Belfast - Aldergrove,United Kingdom,4549
+OCT,2018,Belfast - City Airport,United Kingdom,3031
+OCT,2018,Bergen,Norway,8257
+OCT,2018,Berlevåg,Norway,151
+OCT,2018,Biggin Hill,United Kingdom,1459
+OCT,2018,Birmingham,United Kingdom,10128
+OCT,2018,Bodø,Norway,3713
+OCT,2018,Bristol,United Kingdom,6649
+OCT,2018,Bronnoysund Bronnoy,Norway,658
+OCT,2018,Bydgoszcz,Poland,399
+OCT,2018,Connaught,Ireland,572
+OCT,2018,Corfu,Greece,2124
+OCT,2018,Cork,Ireland,2098
+OCT,2018,Donegal,Ireland,161
+OCT,2018,Dublin,Ireland,20780
+OCT,2018,East Midlands,United Kingdom,6563
+OCT,2018,Edinburgh,United Kingdom,11933
+OCT,2018,Farnborough,United Kingdom,2500
+OCT,2018,Florø,Norway,720
+OCT,2018,Forde Bringeland,Norway,366
+OCT,2018,Gdansk,Poland,3646
+OCT,2018,Glasgow,United Kingdom,8225
+OCT,2018,Groningen,Netherlands,1068
+OCT,2018,Göteborg,Sweden,6510
+OCT,2018,Hammerfest,Norway,1149
+OCT,2018,Harstad - Narvik Evenes,Norway,886
+OCT,2018,Haugesund,Norway,569
+OCT,2018,Helsinki - Vantaa,Finland,16912
+OCT,2018,Heraklion,Greece,6352
+OCT,2018,Honningsvåg Valan,Norway,188
+OCT,2018,Katowice - Pyrzowice,Poland,3157
+OCT,2018,Kefallinia,Greece,440
+OCT,2018,Kerry - Farranfore,Ireland,393
+OCT,2018,Khania - Souda,Greece,2381
+OCT,2018,Kiev - Boryspil,Ukraine,8680
+OCT,2018,Kirkenes Høybuktmoen,Norway,689
+OCT,2018,Kos,Greece,2178
+OCT,2018,Krakow - Balice,Poland,4938
+OCT,2018,Kristiansand Kjevik,Norway,1614
+OCT,2018,Kristiansund Kvernberget,Norway,921
+OCT,2018,Lakselv Banak,Norway,177
+OCT,2018,Leknes,Norway,488
+OCT,2018,Lelystad,Netherlands,334
+OCT,2018,Lodz - Lublinek,Poland,355
+OCT,2018,London - City,United Kingdom,7238
+OCT,2018,London - Gatwick,United Kingdom,25059
+OCT,2018,London - Heathrow,United Kingdom,41652
+OCT,2018,London - Luton,United Kingdom,12313
+OCT,2018,London - Stansted,United Kingdom,18103
+OCT,2018,Londonderry - Eglinton,United Kingdom,213
+OCT,2018,Lublin,Poland,363
+OCT,2018,Maastricht-Aachen,Netherlands,906
+OCT,2018,Manchester,United Kingdom,18177
+OCT,2018,Mehamn,Norway,240
+OCT,2018,Mikonos,Greece,816
+OCT,2018,Mo i Rana Røssvoll,Norway,494
+OCT,2018,Molde Årø,Norway,592
+OCT,2018,Mosjøen Kjærstad,Norway,321
+OCT,2018,Namsos Høknesøra,Norway,241
+OCT,2018,Newcastle,United Kingdom,4362
+OCT,2018,Olsztyn-Mazury,Poland,133
+OCT,2018,Orsta¿Volda Hovden,Norway,459
+OCT,2018,Oslo - Gardermoen,Norway,23802
+OCT,2018,Poznan - Lawica,Poland,1999
+OCT,2018,Radom,Poland,54
+OCT,2018,Rodos,Greece,3970
+OCT,2018,Roros,Norway,112
+OCT,2018,Rorvik Ryum,Norway,212
+OCT,2018,Rost,Norway,109
+OCT,2018,Rotterdam,Netherlands,2379
+OCT,2018,Rzeszow - Jasionka,Poland,885
+OCT,2018,Sandane  Anda,Norway,203
+OCT,2018,Sandnessjøen Stokka,Norway,343
+OCT,2018,Santorini,Greece,2058
+OCT,2018,Shannon,Ireland,2120
+OCT,2018,Skiathos,Greece,186
+OCT,2018,Sligo,Ireland,9
+OCT,2018,Sogndal Haukåsen,Norway,444
+OCT,2018,Sorkjosen,Norway,158
+OCT,2018,Southampton,United Kingdom,3308
+OCT,2018,Stavanger,Norway,6069
+OCT,2018,Stockholm - Arlanda,Sweden,21912
+OCT,2018,Stockholm - Bromma,Sweden,5409
+OCT,2018,Stokmarknes Skagen,Norway,512
+OCT,2018,Svalbard Longyear,Norway,130
+OCT,2018,Svolvær Helle,Norway,346
+OCT,2018,Szczecin - Goleniów,Poland,568
+OCT,2018,Thessaloniki,Greece,4686
+OCT,2018,Tromsø,Norway,3637
+OCT,2018,Trondheim,Norway,5306
+OCT,2018,Vadsø,Norway,567
+OCT,2018,Vardø Svartnes,Norway,207
+OCT,2018,Værøy,Norway,104
+OCT,2018,Warszawa - Chopina,Poland,16623
+OCT,2018,Warszawa - Modlin,Poland,1685
+OCT,2018,Waterford,Ireland,37
+OCT,2018,Weston,Ireland,111
+OCT,2018,Wroclaw - Strachowice,Poland,2646
+OCT,2018,Yerevan,Armenia,1997
+OCT,2018,Zakinthos,Greece,916
+OCT,2018,Zielona Gora - Babimost,Poland,63
+OCT,2019,Aberdeen,United Kingdom,4897
+OCT,2019,Aktion,Greece,379
+OCT,2019,Alesund,Norway,1378
+OCT,2019,Alta,Norway,731
+OCT,2019,Amsterdam - Schiphol,Netherlands,45580
+OCT,2019,Andenes,Norway,316
+OCT,2019,Athens,Greece,19209
+OCT,2019,Bardufoss,Norway,358
+OCT,2019,Batsfjord,Norway,207
+OCT,2019,Belfast - Aldergrove,United Kingdom,4346
+OCT,2019,Belfast - City Airport,United Kingdom,2950
+OCT,2019,Bergen,Norway,8377
+OCT,2019,Berlevåg,Norway,149
+OCT,2019,Biggin Hill,United Kingdom,1412
+OCT,2019,Birmingham,United Kingdom,9388
+OCT,2019,Bodø,Norway,3631
+OCT,2019,Bristol,United Kingdom,5873
+OCT,2019,Bronnoysund Bronnoy,Norway,595
+OCT,2019,Bydgoszcz,Poland,391
+OCT,2019,Connaught,Ireland,603
+OCT,2019,Corfu,Greece,2027
+OCT,2019,Cork,Ireland,2428
+OCT,2019,Donegal,Ireland,173
+OCT,2019,Dublin,Ireland,20928
+OCT,2019,East Midlands,United Kingdom,6160
+OCT,2019,Edinburgh,United Kingdom,11804
+OCT,2019,Farnborough,United Kingdom,2771
+OCT,2019,Florø,Norway,823
+OCT,2019,Forde Bringeland,Norway,371
+OCT,2019,Gdansk,Poland,4041
+OCT,2019,Glasgow,United Kingdom,7481
+OCT,2019,Groningen,Netherlands,1251
+OCT,2019,Göteborg,Sweden,6211
+OCT,2019,Hammerfest,Norway,912
+OCT,2019,Harstad - Narvik Evenes,Norway,887
+OCT,2019,Haugesund,Norway,603
+OCT,2019,Helsinki - Vantaa,Finland,16974
+OCT,2019,Heraklion,Greece,5865
+OCT,2019,Honningsvåg Valan,Norway,198
+OCT,2019,Katowice - Pyrzowice,Poland,3075
+OCT,2019,Kefallinia,Greece,429
+OCT,2019,Kerry - Farranfore,Ireland,388
+OCT,2019,Khania - Souda,Greece,2431
+OCT,2019,Kiev - Boryspil,Ukraine,10201
+OCT,2019,Kirkenes Høybuktmoen,Norway,659
+OCT,2019,Kos,Greece,2046
+OCT,2019,Krakow - Balice,Poland,5816
+OCT,2019,Kristiansand Kjevik,Norway,1579
+OCT,2019,Kristiansund Kvernberget,Norway,971
+OCT,2019,Lakselv Banak,Norway,194
+OCT,2019,Leknes,Norway,509
+OCT,2019,Lelystad,Netherlands,261
+OCT,2019,Lodz - Lublinek,Poland,328
+OCT,2019,London - City,United Kingdom,7679
+OCT,2019,London - Gatwick,United Kingdom,24428
+OCT,2019,London - Heathrow,United Kingdom,41423
+OCT,2019,London - Luton,United Kingdom,12788
+OCT,2019,London - Stansted,United Kingdom,17437
+OCT,2019,Londonderry - Eglinton,United Kingdom,328
+OCT,2019,Lublin,Poland,301
+OCT,2019,Maastricht-Aachen,Netherlands,830
+OCT,2019,Manchester,United Kingdom,17710
+OCT,2019,Mehamn,Norway,224
+OCT,2019,Mikonos,Greece,937
+OCT,2019,Mo i Rana Røssvoll,Norway,482
+OCT,2019,Molde Årø,Norway,606
+OCT,2019,Mosjøen Kjærstad,Norway,277
+OCT,2019,Namsos Høknesøra,Norway,226
+OCT,2019,Newcastle,United Kingdom,4117
+OCT,2019,Olsztyn-Mazury,Poland,149
+OCT,2019,Orsta¿Volda Hovden,Norway,457
+OCT,2019,Oslo - Gardermoen,Norway,22809
+OCT,2019,Poznan - Lawica,Poland,2023
+OCT,2019,Rodos,Greece,3942
+OCT,2019,Roros,Norway,119
+OCT,2019,Rorvik Ryum,Norway,203
+OCT,2019,Rost,Norway,122
+OCT,2019,Rotterdam,Netherlands,2443
+OCT,2019,Rzeszow - Jasionka,Poland,746
+OCT,2019,Sandane  Anda,Norway,212
+OCT,2019,Sandnessjøen Stokka,Norway,321
+OCT,2019,Santorini,Greece,2103
+OCT,2019,Shannon,Ireland,2001
+OCT,2019,Skiathos,Greece,125
+OCT,2019,Sligo,Ireland,5
+OCT,2019,Sogndal Haukåsen,Norway,480
+OCT,2019,Sorkjosen,Norway,154
+OCT,2019,Southampton,United Kingdom,2945
+OCT,2019,Stavanger,Norway,6053
+OCT,2019,Stockholm - Arlanda,Sweden,21064
+OCT,2019,Stockholm - Bromma,Sweden,4781
+OCT,2019,Stokmarknes Skagen,Norway,495
+OCT,2019,Svalbard Longyear,Norway,126
+OCT,2019,Svolvær Helle,Norway,352
+OCT,2019,Szczecin - Goleniów,Poland,556
+OCT,2019,Thessaloniki,Greece,4815
+OCT,2019,Tromsø,Norway,3680
+OCT,2019,Trondheim,Norway,5130
+OCT,2019,Vadsø,Norway,608
+OCT,2019,Vardø Svartnes,Norway,205
+OCT,2019,Værøy,Norway,104
+OCT,2019,Warszawa - Chopina,Poland,16944
+OCT,2019,Warszawa - Modlin,Poland,1551
+OCT,2019,Waterford,Ireland,28
+OCT,2019,Weston,Ireland,59
+OCT,2019,Wroclaw - Strachowice,Poland,2559
+OCT,2019,Yerevan,Armenia,2415
+OCT,2019,Zakinthos,Greece,781
+OCT,2019,Zielona Gora - Babimost,Poland,115
 OCT,2020,Aberdeen,United Kingdom,2197
 OCT,2020,Aktion,Greece,256
 OCT,2020,Alesund,Norway,944
@@ -2924,6 +6871,364 @@ OCT,2021,Wroclaw - Strachowice,Poland,1996
 OCT,2021,Yerevan,Armenia,1941
 OCT,2021,Zakinthos,Greece,849
 OCT,2021,Zielona Gora - Babimost,Poland,69
+SEP,2016,Aberdeen,United Kingdom,5345
+SEP,2016,Aktion,Greece,759
+SEP,2016,Amsterdam - Schiphol,Netherlands,44253
+SEP,2016,Athens,Greece,18347
+SEP,2016,Belfast - Aldergrove,United Kingdom,4180
+SEP,2016,Belfast - City Airport,United Kingdom,3606
+SEP,2016,Bergen,Norway,7848
+SEP,2016,Biggin Hill,United Kingdom,1373
+SEP,2016,Birmingham,United Kingdom,10643
+SEP,2016,Bristol,United Kingdom,6317
+SEP,2016,Bydgoszcz,Poland,303
+SEP,2016,Connaught,Ireland,627
+SEP,2016,Corfu,Greece,3460
+SEP,2016,Cork,Ireland,2111
+SEP,2016,Donegal,Ireland,164
+SEP,2016,Dublin,Ireland,19369
+SEP,2016,East Midlands,United Kingdom,6460
+SEP,2016,Edinburgh,United Kingdom,11183
+SEP,2016,Farnborough,United Kingdom,2319
+SEP,2016,Gdansk,Poland,3478
+SEP,2016,Glasgow,United Kingdom,8658
+SEP,2016,Groningen,Netherlands,731
+SEP,2016,Göteborg,Sweden,6543
+SEP,2016,Haugesund,Norway,629
+SEP,2016,Helsinki - Vantaa,Finland,15084
+SEP,2016,Heraklion,Greece,7446
+SEP,2016,Katowice - Pyrzowice,Poland,3331
+SEP,2016,Kefallinia,Greece,861
+SEP,2016,Kerry - Farranfore,Ireland,379
+SEP,2016,Khania - Souda,Greece,3208
+SEP,2016,Kiev - Boryspil,Ukraine,7196
+SEP,2016,Kos,Greece,2361
+SEP,2016,Krakow - Balice,Poland,4079
+SEP,2016,Lodz - Lublinek,Poland,504
+SEP,2016,London - City,United Kingdom,7458
+SEP,2016,London - Gatwick,United Kingdom,26989
+SEP,2016,London - Heathrow,United Kingdom,40747
+SEP,2016,London - Luton,United Kingdom,12404
+SEP,2016,London - Stansted,United Kingdom,15848
+SEP,2016,Londonderry - Eglinton,United Kingdom,186
+SEP,2016,Lublin,Poland,306
+SEP,2016,Maastricht-Aachen,Netherlands,505
+SEP,2016,Manchester,United Kingdom,18683
+SEP,2016,Mikonos,Greece,1850
+SEP,2016,Olsztyn-Mazury,Poland,182
+SEP,2016,Oslo - Gardermoen,Norway,22507
+SEP,2016,Poznan - Lawica,Poland,1922
+SEP,2016,Radom,Poland,155
+SEP,2016,Rodos,Greece,5576
+SEP,2016,Rotterdam,Netherlands,2464
+SEP,2016,Rzeszow - Jasionka,Poland,739
+SEP,2016,Santorini,Greece,2195
+SEP,2016,Shannon,Ireland,1994
+SEP,2016,Skiathos,Greece,742
+SEP,2016,Sligo,Ireland,5
+SEP,2016,Southampton,United Kingdom,4016
+SEP,2016,Stavanger,Norway,6203
+SEP,2016,Stockholm - Arlanda,Sweden,21592
+SEP,2016,Stockholm - Bromma,Sweden,5233
+SEP,2016,Szczecin - Goleniów,Poland,465
+SEP,2016,Thessaloniki,Greece,5507
+SEP,2016,Trondheim,Norway,5244
+SEP,2016,Warszawa - Chopina,Poland,14147
+SEP,2016,Warszawa - Modlin,Poland,1662
+SEP,2016,Waterford,Ireland,43
+SEP,2016,Weston,Ireland,114
+SEP,2016,Wroclaw - Strachowice,Poland,2314
+SEP,2016,Yerevan,Armenia,1809
+SEP,2016,Zakinthos,Greece,1949
+SEP,2016,Zielona Gora - Babimost,Poland,74
+SEP,2017,Aberdeen,United Kingdom,5727
+SEP,2017,Aktion,Greece,860
+SEP,2017,Amsterdam - Schiphol,Netherlands,45326
+SEP,2017,Athens,Greece,19017
+SEP,2017,Belfast - Aldergrove,United Kingdom,4314
+SEP,2017,Belfast - City Airport,United Kingdom,3243
+SEP,2017,Bergen,Norway,7658
+SEP,2017,Biggin Hill,United Kingdom,1608
+SEP,2017,Birmingham,United Kingdom,11462
+SEP,2017,Bristol,United Kingdom,6507
+SEP,2017,Bydgoszcz,Poland,337
+SEP,2017,Connaught,Ireland,582
+SEP,2017,Corfu,Greece,3539
+SEP,2017,Cork,Ireland,2265
+SEP,2017,Donegal,Ireland,161
+SEP,2017,Dublin,Ireland,20386
+SEP,2017,East Midlands,United Kingdom,6507
+SEP,2017,Edinburgh,United Kingdom,11849
+SEP,2017,Farnborough,United Kingdom,2490
+SEP,2017,Gdansk,Poland,3707
+SEP,2017,Glasgow,United Kingdom,8976
+SEP,2017,Groningen,Netherlands,865
+SEP,2017,Göteborg,Sweden,6901
+SEP,2017,Haugesund,Norway,556
+SEP,2017,Helsinki - Vantaa,Finland,15670
+SEP,2017,Heraklion,Greece,7817
+SEP,2017,Katowice - Pyrzowice,Poland,3718
+SEP,2017,Kefallinia,Greece,924
+SEP,2017,Kerry - Farranfore,Ireland,379
+SEP,2017,Khania - Souda,Greece,3194
+SEP,2017,Kiev - Boryspil,Ukraine,8247
+SEP,2017,Kos,Greece,2698
+SEP,2017,Krakow - Balice,Poland,4538
+SEP,2017,Lodz - Lublinek,Poland,226
+SEP,2017,London - City,United Kingdom,6746
+SEP,2017,London - Gatwick,United Kingdom,27204
+SEP,2017,London - Heathrow,United Kingdom,40774
+SEP,2017,London - Luton,United Kingdom,12435
+SEP,2017,London - Stansted,United Kingdom,17531
+SEP,2017,Londonderry - Eglinton,United Kingdom,201
+SEP,2017,Lublin,Poland,384
+SEP,2017,Maastricht-Aachen,Netherlands,813
+SEP,2017,Manchester,United Kingdom,19820
+SEP,2017,Mikonos,Greece,2045
+SEP,2017,Olsztyn-Mazury,Poland,121
+SEP,2017,Oslo - Gardermoen,Norway,22624
+SEP,2017,Poznan - Lawica,Poland,2027
+SEP,2017,Radom,Poland,113
+SEP,2017,Rodos,Greece,5765
+SEP,2017,Rotterdam,Netherlands,2128
+SEP,2017,Rzeszow - Jasionka,Poland,786
+SEP,2017,Santorini,Greece,2428
+SEP,2017,Shannon,Ireland,1934
+SEP,2017,Skiathos,Greece,723
+SEP,2017,Sligo,Ireland,4
+SEP,2017,Southampton,United Kingdom,3821
+SEP,2017,Stavanger,Norway,5634
+SEP,2017,Stockholm - Arlanda,Sweden,22755
+SEP,2017,Stockholm - Bromma,Sweden,4925
+SEP,2017,Szczecin - Goleniów,Poland,556
+SEP,2017,Thessaloniki,Greece,5901
+SEP,2017,Trondheim,Norway,5122
+SEP,2017,Warszawa - Chopina,Poland,16271
+SEP,2017,Warszawa - Modlin,Poland,1641
+SEP,2017,Waterford,Ireland,31
+SEP,2017,Weston,Ireland,128
+SEP,2017,Wroclaw - Strachowice,Poland,2647
+SEP,2017,Yerevan,Armenia,2005
+SEP,2017,Zakinthos,Greece,2145
+SEP,2017,Zielona Gora - Babimost,Poland,69
+SEP,2018,Aberdeen,United Kingdom,4445
+SEP,2018,Aktion,Greece,928
+SEP,2018,Alesund,Norway,1321
+SEP,2018,Alta,Norway,688
+SEP,2018,Amsterdam - Schiphol,Netherlands,45288
+SEP,2018,Andenes,Norway,287
+SEP,2018,Athens,Greece,21530
+SEP,2018,Bardufoss,Norway,315
+SEP,2018,Batsfjord,Norway,168
+SEP,2018,Belfast - Aldergrove,United Kingdom,4751
+SEP,2018,Belfast - City Airport,United Kingdom,3083
+SEP,2018,Bergen,Norway,7829
+SEP,2018,Berlevåg,Norway,114
+SEP,2018,Biggin Hill,United Kingdom,1705
+SEP,2018,Birmingham,United Kingdom,10222
+SEP,2018,Bodø,Norway,3388
+SEP,2018,Bristol,United Kingdom,6881
+SEP,2018,Bronnoysund Bronnoy,Norway,630
+SEP,2018,Bydgoszcz,Poland,366
+SEP,2018,Connaught,Ireland,633
+SEP,2018,Corfu,Greece,4031
+SEP,2018,Cork,Ireland,2302
+SEP,2018,Donegal,Ireland,167
+SEP,2018,Dublin,Ireland,21190
+SEP,2018,East Midlands,United Kingdom,6482
+SEP,2018,Edinburgh,United Kingdom,11840
+SEP,2018,Farnborough,United Kingdom,2665
+SEP,2018,Florø,Norway,637
+SEP,2018,Forde Bringeland,Norway,334
+SEP,2018,Gdansk,Poland,4003
+SEP,2018,Glasgow,United Kingdom,8306
+SEP,2018,Groningen,Netherlands,1094
+SEP,2018,Göteborg,Sweden,6533
+SEP,2018,Hammerfest,Norway,1048
+SEP,2018,Harstad - Narvik Evenes,Norway,850
+SEP,2018,Haugesund,Norway,551
+SEP,2018,Helsinki - Vantaa,Finland,16958
+SEP,2018,Heraklion,Greece,8757
+SEP,2018,Honningsvåg Valan,Norway,157
+SEP,2018,Katowice - Pyrzowice,Poland,4335
+SEP,2018,Kefallinia,Greece,1155
+SEP,2018,Kerry - Farranfore,Ireland,445
+SEP,2018,Khania - Souda,Greece,3142
+SEP,2018,Kiev - Boryspil,Ukraine,9232
+SEP,2018,Kirkenes Høybuktmoen,Norway,667
+SEP,2018,Kos,Greece,3212
+SEP,2018,Krakow - Balice,Poland,4881
+SEP,2018,Kristiansand Kjevik,Norway,1548
+SEP,2018,Kristiansund Kvernberget,Norway,719
+SEP,2018,Lakselv Banak,Norway,186
+SEP,2018,Leknes,Norway,470
+SEP,2018,Lelystad,Netherlands,291
+SEP,2018,Lodz - Lublinek,Poland,372
+SEP,2018,London - City,United Kingdom,6845
+SEP,2018,London - Gatwick,United Kingdom,26941
+SEP,2018,London - Heathrow,United Kingdom,40628
+SEP,2018,London - Luton,United Kingdom,12187
+SEP,2018,London - Stansted,United Kingdom,18711
+SEP,2018,Londonderry - Eglinton,United Kingdom,202
+SEP,2018,Lublin,Poland,370
+SEP,2018,Maastricht-Aachen,Netherlands,853
+SEP,2018,Manchester,United Kingdom,19110
+SEP,2018,Mehamn,Norway,188
+SEP,2018,Mikonos,Greece,2312
+SEP,2018,Mo i Rana Røssvoll,Norway,459
+SEP,2018,Molde Årø,Norway,539
+SEP,2018,Mosjøen Kjærstad,Norway,310
+SEP,2018,Namsos Høknesøra,Norway,228
+SEP,2018,Newcastle,United Kingdom,4678
+SEP,2018,Olsztyn-Mazury,Poland,128
+SEP,2018,Orsta¿Volda Hovden,Norway,399
+SEP,2018,Oslo - Gardermoen,Norway,23012
+SEP,2018,Poznan - Lawica,Poland,2660
+SEP,2018,Radom,Poland,73
+SEP,2018,Rodos,Greece,6127
+SEP,2018,Roros,Norway,89
+SEP,2018,Rorvik Ryum,Norway,196
+SEP,2018,Rost,Norway,98
+SEP,2018,Rotterdam,Netherlands,2483
+SEP,2018,Rzeszow - Jasionka,Poland,884
+SEP,2018,Sandane  Anda,Norway,185
+SEP,2018,Sandnessjøen Stokka,Norway,324
+SEP,2018,Santorini,Greece,2924
+SEP,2018,Shannon,Ireland,2206
+SEP,2018,Skiathos,Greece,661
+SEP,2018,Sligo,Ireland,8
+SEP,2018,Sogndal Haukåsen,Norway,404
+SEP,2018,Sorkjosen,Norway,130
+SEP,2018,Southampton,United Kingdom,3427
+SEP,2018,Stavanger,Norway,5734
+SEP,2018,Stockholm - Arlanda,Sweden,21527
+SEP,2018,Stockholm - Bromma,Sweden,5230
+SEP,2018,Stokmarknes Skagen,Norway,502
+SEP,2018,Svalbard Longyear,Norway,143
+SEP,2018,Svolvær Helle,Norway,327
+SEP,2018,Szczecin - Goleniów,Poland,582
+SEP,2018,Thessaloniki,Greece,5969
+SEP,2018,Tromsø,Norway,3328
+SEP,2018,Trondheim,Norway,4874
+SEP,2018,Vadsø,Norway,534
+SEP,2018,Vardø Svartnes,Norway,167
+SEP,2018,Værøy,Norway,101
+SEP,2018,Warszawa - Chopina,Poland,17502
+SEP,2018,Warszawa - Modlin,Poland,1696
+SEP,2018,Waterford,Ireland,34
+SEP,2018,Weston,Ireland,117
+SEP,2018,Wroclaw - Strachowice,Poland,3008
+SEP,2018,Yerevan,Armenia,2047
+SEP,2018,Zakinthos,Greece,2256
+SEP,2018,Zielona Gora - Babimost,Poland,78
+SEP,2019,Aberdeen,United Kingdom,4670
+SEP,2019,Aktion,Greece,981
+SEP,2019,Alesund,Norway,1425
+SEP,2019,Alta,Norway,708
+SEP,2019,Amsterdam - Schiphol,Netherlands,45275
+SEP,2019,Andenes,Norway,278
+SEP,2019,Athens,Greece,22187
+SEP,2019,Bardufoss,Norway,303
+SEP,2019,Batsfjord,Norway,207
+SEP,2019,Belfast - Aldergrove,United Kingdom,4699
+SEP,2019,Belfast - City Airport,United Kingdom,2975
+SEP,2019,Bergen,Norway,8211
+SEP,2019,Berlevåg,Norway,145
+SEP,2019,Biggin Hill,United Kingdom,1659
+SEP,2019,Birmingham,United Kingdom,10001
+SEP,2019,Bodø,Norway,3537
+SEP,2019,Bristol,United Kingdom,6493
+SEP,2019,Bronnoysund Bronnoy,Norway,591
+SEP,2019,Bydgoszcz,Poland,410
+SEP,2019,Connaught,Ireland,655
+SEP,2019,Corfu,Greece,3923
+SEP,2019,Cork,Ireland,2599
+SEP,2019,Donegal,Ireland,167
+SEP,2019,Dublin,Ireland,21781
+SEP,2019,East Midlands,United Kingdom,6609
+SEP,2019,Edinburgh,United Kingdom,11884
+SEP,2019,Farnborough,United Kingdom,3085
+SEP,2019,Florø,Norway,754
+SEP,2019,Forde Bringeland,Norway,326
+SEP,2019,Gdansk,Poland,4260
+SEP,2019,Glasgow,United Kingdom,7797
+SEP,2019,Groningen,Netherlands,1121
+SEP,2019,Göteborg,Sweden,6357
+SEP,2019,Hammerfest,Norway,843
+SEP,2019,Harstad - Narvik Evenes,Norway,855
+SEP,2019,Haugesund,Norway,596
+SEP,2019,Helsinki - Vantaa,Finland,17182
+SEP,2019,Heraklion,Greece,7883
+SEP,2019,Honningsvåg Valan,Norway,175
+SEP,2019,Katowice - Pyrzowice,Poland,4140
+SEP,2019,Kefallinia,Greece,1146
+SEP,2019,Kerry - Farranfore,Ireland,434
+SEP,2019,Khania - Souda,Greece,3087
+SEP,2019,Kiev - Boryspil,Ukraine,11456
+SEP,2019,Kirkenes Høybuktmoen,Norway,675
+SEP,2019,Kos,Greece,2975
+SEP,2019,Krakow - Balice,Poland,5883
+SEP,2019,Kristiansand Kjevik,Norway,1529
+SEP,2019,Kristiansund Kvernberget,Norway,917
+SEP,2019,Lakselv Banak,Norway,192
+SEP,2019,Leknes,Norway,498
+SEP,2019,Lelystad,Netherlands,256
+SEP,2019,Lodz - Lublinek,Poland,277
+SEP,2019,London - City,United Kingdom,7341
+SEP,2019,London - Gatwick,United Kingdom,26119
+SEP,2019,London - Heathrow,United Kingdom,39147
+SEP,2019,London - Luton,United Kingdom,13004
+SEP,2019,London - Stansted,United Kingdom,18087
+SEP,2019,Londonderry - Eglinton,United Kingdom,298
+SEP,2019,Lublin,Poland,297
+SEP,2019,Maastricht-Aachen,Netherlands,808
+SEP,2019,Manchester,United Kingdom,19544
+SEP,2019,Mehamn,Norway,193
+SEP,2019,Mikonos,Greece,2380
+SEP,2019,Mo i Rana Røssvoll,Norway,483
+SEP,2019,Molde Årø,Norway,574
+SEP,2019,Mosjøen Kjærstad,Norway,277
+SEP,2019,Namsos Høknesøra,Norway,236
+SEP,2019,Newcastle,United Kingdom,4506
+SEP,2019,Olsztyn-Mazury,Poland,141
+SEP,2019,Orsta¿Volda Hovden,Norway,408
+SEP,2019,Oslo - Gardermoen,Norway,22958
+SEP,2019,Poznan - Lawica,Poland,2451
+SEP,2019,Rodos,Greece,5783
+SEP,2019,Roros,Norway,113
+SEP,2019,Rorvik Ryum,Norway,185
+SEP,2019,Rost,Norway,108
+SEP,2019,Rotterdam,Netherlands,2645
+SEP,2019,Rzeszow - Jasionka,Poland,781
+SEP,2019,Sandane  Anda,Norway,195
+SEP,2019,Sandnessjøen Stokka,Norway,324
+SEP,2019,Santorini,Greece,2935
+SEP,2019,Shannon,Ireland,2295
+SEP,2019,Skiathos,Greece,687
+SEP,2019,Sogndal Haukåsen,Norway,441
+SEP,2019,Sorkjosen,Norway,154
+SEP,2019,Southampton,United Kingdom,3183
+SEP,2019,Stavanger,Norway,5917
+SEP,2019,Stockholm - Arlanda,Sweden,21481
+SEP,2019,Stockholm - Bromma,Sweden,4743
+SEP,2019,Stokmarknes Skagen,Norway,486
+SEP,2019,Svalbard Longyear,Norway,142
+SEP,2019,Svolvær Helle,Norway,345
+SEP,2019,Szczecin - Goleniów,Poland,561
+SEP,2019,Thessaloniki,Greece,5902
+SEP,2019,Tromsø,Norway,3529
+SEP,2019,Trondheim,Norway,5021
+SEP,2019,Vadsø,Norway,567
+SEP,2019,Vardø Svartnes,Norway,217
+SEP,2019,Værøy,Norway,106
+SEP,2019,Warszawa - Chopina,Poland,17475
+SEP,2019,Warszawa - Modlin,Poland,1602
+SEP,2019,Waterford,Ireland,43
+SEP,2019,Weston,Ireland,85
+SEP,2019,Wroclaw - Strachowice,Poland,2936
+SEP,2019,Yerevan,Armenia,2617
+SEP,2019,Zakinthos,Greece,2348
+SEP,2019,Zielona Gora - Babimost,Poland,120
 SEP,2020,Aberdeen,United Kingdom,2191
 SEP,2020,Aktion,Greece,516
 SEP,2020,Alesund,Norway,896

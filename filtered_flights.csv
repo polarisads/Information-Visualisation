@@ -1,4 +1,4 @@
-MONTH_MON,YEAR,APT_NAME,STATE_NAME,FLT_TOT_1
+Month,Year,Airport,Country,Total_Flights
 APR,2016,Aberdeen,United Kingdom,5045
 APR,2016,Aktion,Greece,156
 APR,2016,Amsterdam - Schiphol,Netherlands,40867
